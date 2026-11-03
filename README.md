@@ -1,11 +1,32 @@
-# AI 前沿日报（本地版）
+# AI 前沿日报
 
 一个纯静态的每日 AI 资讯站：左边读全文，右边看 100 字速览，阅读记录只存在你自己的浏览器里。右上角可在「纸感」与「科技」两套风格间切换。
+
+## 线上地址
+
+| 用途 | 地址 |
+| --- | --- |
+| 站点（GitHub Pages） | https://xiaohu-nb6.github.io/ai-daily/ |
+| 源码仓库 | https://github.com/xiaohu-nb6/ai-daily |
+| 每日更新运行记录 | https://github.com/xiaohu-nb6/ai-daily/actions |
+
+站点由仓库 `main` 分支根目录直接发布，推送到 `main` 后约 30 秒自动重新部署，无需额外构建步骤。
+
+## 每天怎么更新
+
+`.github/workflows/daily-refresh.yml` 会在**每天北京时间 08:30** 自动执行：
+
+1. 抓取 5 个 RSS 源（36氪 / 钛媒体 / TechCrunch AI / VentureBeat AI / The Verge AI）
+2. 过滤与 AI 相关条目，自动归类为「模型发布 / 政策监管 / 行业动态」
+3. 抽取式摘要裁剪到 100 字内，按发布时间倒序合并去重
+4. 只有数据文件 `data/news.js`、`data/news.json` 有变化时才提交，其余不动
+
+也可以在 Actions 页面点 **Run workflow** 手动跑一次。工作流只改数据文件，不会碰样式和逻辑，因此自动提交不会把本地改动冲掉。
 
 ## 打开方式
 
 - **双击 `index.html`** 即可，页面数据和样式全部内联在本机，不联网也能看。
-- 想用「刷新」按钮热更新数据，需要走本地服务器：
+- 想用「刷新」按钮热更新数据，需要走本地服务器（线上 Pages 已满足，按钮可直接用）：
 
 ```bash
 cd ai-daily
@@ -24,8 +45,10 @@ ai-daily/
 ├── data/
 │   ├── news.js             站点真正读取的数据（window.AI_DAILY_DATA）
 │   └── news.json           同内容 JSON，供脚本与外部程序使用
-└── scripts/
-    └── refresh_news.py     每日抓取脚本（零第三方依赖）
+├── scripts/
+│   └── refresh_news.py     每日抓取脚本（零第三方依赖）
+└── .github/workflows/
+    └── daily-refresh.yml   每天 08:30 自动抓取并提交数据
 ```
 
 ## 每天怎么更新

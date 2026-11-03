@@ -32,7 +32,10 @@ import time
 import urllib.request
 import urllib.error
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
+
+# 统一按北京时间记录与展示，不受运行环境（本地 / CI 的 UTC）影响
+CN_TZ = timezone(timedelta(hours=8))
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 JS_PATH = os.path.join(ROOT, "data", "news.js")
@@ -136,17 +139,47 @@ def clip(text, limit=100):
 
 
 def to_local(pub):
+    """把各站五花八门的时间写成北京时间。
+
+    实测各源格式并不统一，必须逐种兜底，否则会静默退回「抓取时刻」：
+      · 标准 RSS：Thu, 27 Aug 2026 14:01:00 GMT      → email.utils
+      · 36氪：    2026-11-03 18:02:03  +0800         → strptime（非标准，双空格）
+      · The Verge：2026-11-02T13:56:02-05:00         → fromisoformat
+      · 无时区：  2026-11-03 18:02:03                → 按北京时间补齐
+    """
     if not pub:
         return None
+    s = re.sub(r"\s+", " ", pub.strip())
+    dt = None
+
+    # 1) ISO 8601（含 Z 结尾）
     try:
-        dt = email.utils.parsedate_to_datetime(pub)
-    except (TypeError, ValueError):
-        return None
+        dt = datetime.fromisoformat(s.replace("Z", "+00:00"))
+    except ValueError:
+        pass
+
+    # 2) RFC 822 / RFC 2822
+    if dt is None:
+        try:
+            dt = email.utils.parsedate_to_datetime(s)
+        except (TypeError, ValueError):
+            dt = None
+
+    # 3) 常见手工格式
+    if dt is None:
+        for fmt in ("%Y-%m-%d %H:%M:%S %z", "%Y-%m-%d %H:%M:%S",
+                    "%Y-%m-%d %H:%M", "%Y/%m/%d %H:%M:%S"):
+            try:
+                dt = datetime.strptime(s, fmt)
+                break
+            except ValueError:
+                continue
+
     if dt is None:
         return None
     if dt.tzinfo is None:
-        return dt
-    return dt.astimezone()
+        dt = dt.replace(tzinfo=CN_TZ)
+    return dt.astimezone(CN_TZ)
 
 
 def slug(title):
@@ -156,9 +189,43 @@ def slug(title):
 
 # ---------------------------------------------------------------- 解析
 
+def decode_text(raw):
+    """按声明编码解码「一次」，避免 ET 从字节流自行解码时把个别坏字节变成 U+FFFD。
+
+    直接把 bytes 交给 ET.fromstring 时，expat 会自己解码，遇到源站偶发的
+    非法字节就静默替换成 �（实测 36氪 会出现「机器人」→「机��人」）。
+    这里先解成 str 再交给 ET，并去掉 XML 声明（expat 不接受带 encoding 声明的 str）。
+    """
+    m = re.search(rb"encoding=[\"']([\w\-]+)[\"']", raw[:300], re.I)
+    declared = m.group(1).decode("ascii", "ignore").lower() if m else "utf-8"
+    text = None
+    for enc in (declared, "utf-8", "gb18030"):
+        try:
+            text = raw.decode(enc)
+            break
+        except (UnicodeDecodeError, LookupError):
+            continue
+    if text is None:
+        text = raw.decode("utf-8", "replace")
+    return re.sub(r"^\s*<\?xml[^>]*\?>", "", text, count=1)
+
+
+def clean_text(s):
+    """去掉控制字符、BOM 与解码残留的替换字符。"""
+    if not s:
+        return ""
+    s = s.replace("\ufeff", "").replace("\ufffd", "")
+    s = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", s)
+    return re.sub(r"[ \t]+", " ", s).strip()
+
+
 def parse_feed(xml_bytes):
     """同时兼容 RSS 2.0 与 Atom，返回 [{title, link, desc, pub}]。"""
     out = []
+    if isinstance(xml_bytes, (bytes, bytearray)):
+        xml_bytes = decode_text(bytes(xml_bytes))
+    if isinstance(xml_bytes, str) and "\ufffd" in xml_bytes:
+        xml_bytes = xml_bytes.replace("\ufffd", "")
     try:
         root = ET.fromstring(xml_bytes)
     except ET.ParseError:
@@ -183,8 +250,9 @@ def parse_feed(xml_bytes):
             elif name in ("pubdate", "published", "updated", "date"):
                 if not pub:
                     pub = (child.text or "").strip()
+        title, desc = clean_text(title), clean_text(desc)
         if title and link:
-            out.append({"title": title, "link": link, "desc": desc, "pub": pub})
+            out.append({"title": title, "link": link.strip(), "desc": desc, "pub": pub})
     return out
 
 
@@ -291,7 +359,7 @@ def main():
             blob = it["title"] + " " + it["desc"]
             if it["link"] in known_urls or norm_key(it["title"]) in known_titles:
                 continue
-            dt = to_local(it["pub"]) or datetime.now()
+            dt = to_local(it["pub"]) or datetime.now(CN_TZ)
             summary = clip(it["desc"] or it["title"], 100)
             body_src = strip_html(it["desc"])
             paragraphs = [p.strip() for p in re.split(r"(?<=[。！？.!?])\s+", body_src) if len(p.strip()) > 30]
@@ -332,7 +400,7 @@ def main():
         data["articles"] = fresh + articles
         if len(data["articles"]) > 300:
             data["articles"] = data["articles"][:300]
-    now = datetime.now().astimezone()
+    now = datetime.now(CN_TZ)
     data["updatedAt"] = now.isoformat(timespec="seconds")
     data["edition"] = now.strftime("%Y-%m-%d")
     write_out(data)

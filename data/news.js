@@ -1,8 +1,79 @@
 /* AI 前沿日报 · 数据文件（由 scripts/refresh_news.py 生成，可手工编辑） */
 window.AI_DAILY_DATA = {
-  "updatedAt": "2026-11-03T14:35:56+00:00",
+  "updatedAt": "2026-11-03T22:39:43+08:00",
   "edition": "2026-11-03",
   "articles": [
+    {
+      "id": "auto-9297f87b6a",
+      "title": "九赴进博，西门子把工业 AI 推上产线",
+      "category": "industry",
+      "date": "2026-11-03",
+      "time": "21:33",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8192212.html",
+      "featured": false,
+      "tags": [
+        "算力",
+        "机器人"
+      ],
+      "summary": "本届进博会上，西门子将持续聚焦以工业AI为引领的数智化、低碳化技术创新，重点展示高增长行业应用（数据中心、人形机器人等）、绿色转型成果（从企业自身运营到供应链）",
+      "body": [
+        "本届进博会上，西门子将持续聚焦以工业AI为引领的数智化、低碳化技术创新，重点展示高增长行业应用（数据中心、人形机器人等）、绿色转型成果（从企业自身运营到供应链），以及40余家企业数智化、低碳化转型与工业AI应用落地案例，彰显“全球经验、本土创新、中国速度”的乘数效应。"
+      ]
+    },
+    {
+      "id": "auto-4467e463e1",
+      "title": "百度Apollo World世界模型亮相",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "20:49",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4054026915189896?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体"
+      ],
+      "summary": "36氪获悉，据百度消息，11月3日，在深圳举行的百度AI Day·Apollo专场上，百度Apollo首次披露面向物理AI的智能体驱动全模态世界模型Apollo World",
+      "body": [
+        "36氪获悉，据百度消息，11月3日，在深圳举行的百度AI Day·Apollo专场上，百度Apollo首次披露面向物理AI的智能体驱动全模态世界模型Apollo World，并提出世界模型“2+3”判断标准。在Apollo World构建的虚拟城市中，车辆、行人等交通参与者都不是按照固定脚本行动的“道具”，而是具备决策和交互能力的AI智能体。"
+      ]
+    },
+    {
+      "id": "auto-a929069d63",
+      "title": "阿波罗全球管理大举布局AI融资热潮，放贷创历史新高",
+      "category": "industry",
+      "date": "2026-11-03",
+      "time": "20:04",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4053969823601544?f=rss",
+      "featured": false,
+      "tags": [
+        "算力",
+        "融资"
+      ],
+      "summary": "阿波罗全球管理（Apollo Global Management）第三季度放贷规模达到创纪录的1140亿美元，正以越来越快的速度将保险客户缴纳的保费投入人工智能借贷热潮。",
+      "body": [
+        "阿波罗全球管理（Apollo Global Management）第三季度放贷规模达到创纪录的1140亿美元，正以越来越快的速度将保险客户缴纳的保费投入人工智能借贷热潮。这家总部位于纽约的私人资本管理集团，第三季度放贷规模较第二季度增长超过50%。相关交易包括为人工智能公司Anthropic提供芯片融资，以及参与一项为芯片制造商英伟达筹集5000亿美元资金的融资计划。（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-46ddc37e78",
+      "title": "游族网络：子公司签署42.25亿元GPU产品采购合同",
+      "category": "industry",
+      "date": "2026-11-03",
+      "time": "19:51",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4053969874031496?f=rss",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "36氪获悉，游族网络公告，公司全资子公司上海游族信息技术有限公司近日与A公司签署《销售合同》，采购型号为PRO5500(PCIe)的GPU产品，协议总金额42.25亿元(含税)。",
+      "body": [
+        "36氪获悉，游族网络公告，公司全资子公司上海游族信息技术有限公司近日与A公司签署《销售合同》，采购型号为PRO5500(PCIe)的GPU产品，协议总金额42.25亿元(含税)。本次交易属于日常经营重大合同，不涉及关联交易，不构成重大资产重组。公司表示，合同实施内容及进度存在不确定性，对财务指标影响金额暂无法测算，若顺利实施将助力公司推进转型升级。"
+      ]
+    },
     {
       "id": "apollo-world-20261103",
       "title": "百度首发 Apollo World：给无人车造“无限未来”的虚拟考场",
@@ -46,6 +117,23 @@ window.AI_DAILY_DATA = {
       ]
     },
     {
+      "id": "auto-6c8a0ebd6e",
+      "title": "推理时代，算力产业需要换一套账本丨ToB产业观察",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "19:00",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8191692.html",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "推理的崛起，除了改变了原有的算里账本之外，也在改写着芯片产业的结构。",
+      "body": [
+        "推理的崛起，除了改变了原有的算里账本之外，也在改写着芯片产业的结构。"
+      ]
+    },
+    {
       "id": "sensenova-68-flash-20261103",
       "title": "商汤 SenseNova 6.8 Flash：多模态智能体正式版",
       "category": "model",
@@ -64,6 +152,61 @@ window.AI_DAILY_DATA = {
         "三项能力被重点强调：长期记忆、主动交互、跨任务协作，瞄准的是长周期项目里“每次都要重新交代背景”的痛点。",
         "设计创作侧支持动态 PPT 与 Agentic 3D，并接入 Figma，意味着模型开始直接嵌入专业工作流，而不只是产出素材。",
         "官方强调“真实任务执行”，但复杂场景下的稳定性仍需第三方验证。"
+      ]
+    },
+    {
+      "id": "auto-03ce55cb58",
+      "title": "从消费互联网到AI，迪拜投资人寻找中国新标的｜出海参考",
+      "category": "industry",
+      "date": "2026-11-03",
+      "time": "18:13",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8191572.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "迪拜投资人寻找的不只是中国技术，更是能将技术优势转化为当地生意的企业。",
+      "body": [
+        "迪拜投资人寻找的不只是中国技术，更是能将技术优势转化为当地生意的企业。"
+      ]
+    },
+    {
+      "id": "auto-f3eacb6aa6",
+      "title": "Transsion Under Memory Inflation: Stockpiles, a Cold H-Share, and an AI Bet",
+      "category": "industry",
+      "date": "2026-11-03",
+      "time": "17:46",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8191938.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Transsion Holdings, long known as the “king of African phones,” built one of China’s most successfu…",
+      "body": [
+        "Transsion Holdings, long known as the “king of African phones,” built one of China’s most successful consumer-electronics export stories by dominating low-end handsets across emerging markets.",
+        "Revenue and profit peaked in 2023–2024.",
+        "In 2025, a super-cycle of “memory inflation” cut net profit roughly in half."
+      ]
+    },
+    {
+      "id": "auto-a7ed3e7d3f",
+      "title": "DeepSeek不满足于模型，还要让AI自己干活",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "17:38",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8190971.html",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "开源"
+      ],
+      "summary": "DeepSeek开源Super-agent原型，探索自主智能体架构。",
+      "body": [
+        "DeepSeek开源Super-agent原型，探索自主智能体架构。"
       ]
     },
     {
@@ -88,11 +231,28 @@ window.AI_DAILY_DATA = {
       ]
     },
     {
+      "id": "auto-da5de18c23",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "15:20",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or tak…",
+      "body": [
+        "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
+      ]
+    },
+    {
       "id": "auto-e382ed7b04",
       "title": "从青年就业到消费场景创新，“AI+”给咖啡产业生态带来什么？",
       "category": "industry",
       "date": "2026-11-03",
-      "time": "14:35",
+      "time": "15:03",
       "source": "36氪",
       "url": "https://36kr.com/p/4053559323120771?f=rss",
       "featured": false,
@@ -104,210 +264,6 @@ window.AI_DAILY_DATA = {
         "一场快闪、一次联名、新的概念，也许能为一家消费品牌带来几个月的新客流，但新鲜感过去后，品牌还如何留住用户？",
         "这是过去几年，从消费品牌到商业地产和街区运营者的共同体感，也是上个月底在云创浙理青年国度，由宁波市鄞州区发改局与36氪共同主办的“AiPartner 带着 Ai 上前线——宁波咖啡生活周场景创新交流会”上，被主理人、投资人和企业家们反复讨论的话题。",
         "以鄞州为例，当地不缺丰富的制造业生态与消费场景，也不缺年轻人。当场景、设备、人才三个要素都落在同一个地理半径，可以催生出怎样的消费场景创新“新物种”？"
-      ]
-    },
-    {
-      "id": "auto-10d658f75f",
-      "title": "36氪首发丨交大博士融合世界模型和六臂机器人，再获数亿融资，合作多家500强客户",
-      "category": "industry",
-      "date": "2026-11-03",
-      "time": "14:35",
-      "source": "36氪",
-      "url": "https://36kr.com/p/4053394503603076?f=rss",
-      "featured": false,
-      "tags": [
-        "大模型",
-        "智能体",
-        "多模态"
-      ],
-      "summary": "图源/企业 本文约 3000 字，建议阅读 7 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，全球工业具身智能机器人企业——上海飒智智能科技有限公司（下称“飒智智能”）近期已完成数亿元Pre-B轮融资。",
-      "body": [
-        "图源/企业 本文约 3000 字，建议阅读 7 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，全球工业具身智能机器人企业——上海飒智智能科技有限公司（下称“飒智智能”）近期已完成数亿元Pre-B轮融资。投资方包括建投投资有限责任公司、南通投管和云启资本三家机构。本轮资金将主要用于大模型研发、多臂机器人本体迭代、产线扩建以及全球市场的深度拓展。",
-        "飒智智能成立于2017年，核心团队兼具近20年机器人研发经验与头部人工智能算法基因。创始人兼CEO张建政为上海交通大学机械工程专业（智能机器人方向）工学博士，曾任职于新时达与发那科。",
-        "在工业制造向柔性化、复杂化演进的当下，传统工业机器人受限于固定作业与单一任务，而多数通用具身机器人又难以满足工业级的高精度与确定性要求。飒智智能切入的正是这复杂工业场景空白——如精密装配、灵巧包装、长序测试等。"
-      ]
-    },
-    {
-      "id": "auto-6fcccb9cd2",
-      "title": "36氪首发丨上海交大副教授做光计算芯片，成立半年获云启、原子等连投5轮，已送流片",
-      "category": "industry",
-      "date": "2026-11-03",
-      "time": "14:35",
-      "source": "36氪",
-      "url": "https://36kr.com/p/4053338933105795?f=rss",
-      "featured": false,
-      "tags": [
-        "大模型",
-        "智能体",
-        "算力"
-      ],
-      "summary": "图源/企业 本文约 3300 字，建议阅读 8 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，光计算芯片公司智子光垣已完成数亿元种子轮融资。",
-      "body": [
-        "图源/企业 本文约 3300 字，建议阅读 8 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，光计算芯片公司智子光垣已完成数亿元种子轮融资。公司成立后已连续完成5轮种子轮次融资，投资方包括海桐国际创新中心、云启资本、国泰海通、险峰长青、原子创投、同鑫资本和上海交通大学AI未来基金。资金将主要用于核心芯片研发与流片迭代、高端人才引进与团队建设，以及应用场景拓展与生态合作。",
-        "智子光垣于2026年5月成立，聚焦可重构全光计算架构与光子处理器研发，利用光的并行计算特性直接参与AI运算，绕开传统电子芯片在制程微缩、功耗和散热上的瓶颈，推动光计算从专用加速走向更具通用性的计算平台。",
-        "目前，智子光垣已组建近50人的研发团队，核心成员长期深耕光计算与芯片设计领域，累计完成数十款光芯片的设计、流片及验证，并发表了近20篇Nature/Science系列论文。创始人程远为上海交大人工智能学院副教授，长期从事光子芯片与边缘智能研究，曾任辛米尔科技联合创始人/CTO，主导全栈产品体系搭建。"
-      ]
-    },
-    {
-      "id": "auto-4467e463e1",
-      "title": "百度Apollo World世界模型亮相",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "14:35",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/4054026915189896?f=rss",
-      "featured": false,
-      "tags": [
-        "大模型",
-        "智能体"
-      ],
-      "summary": "36氪获悉，据百度消息，11月3日，在深圳举行的百度AI Day·Apollo专场上，百度Apollo首次披露面向物理AI的智能体驱动全模态世界模型Apollo World",
-      "body": [
-        "36氪获悉，据百度消息，11月3日，在深圳举行的百度AI Day·Apollo专场上，百度Apollo首次披露面向物理AI的智能体驱动全模态世界模型Apollo World，并提出世界模型“2+3”判断标准。在Apollo World构建的虚拟城市中，车辆、行人等交通参与者都不是按照固定脚本行动的“道具”，而是具备决策和交互能力的AI智能体。"
-      ]
-    },
-    {
-      "id": "auto-a929069d63",
-      "title": "阿波罗全球管理大举布局AI融资热潮，放贷创历史新高",
-      "category": "industry",
-      "date": "2026-11-03",
-      "time": "14:35",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/4053969823601544?f=rss",
-      "featured": false,
-      "tags": [
-        "算力",
-        "融资"
-      ],
-      "summary": "阿波罗全球管理（Apollo Global Management）第三季度放贷规模达到创纪录的1140亿美元，正以越来越快的速度将保险客户缴纳的保费投入人工智能借贷热潮。",
-      "body": [
-        "阿波罗全球管理（Apollo Global Management）第三季度放贷规模达到创纪录的1140亿美元，正以越来越快的速度将保险客户缴纳的保费投入人工智能借贷热潮。这家总部位于纽约的私人资本管理集团，第三季度放贷规模较第二季度增长超过50%。相关交易包括为人工智能公司Anthropic提供芯片融资，以及参与一项为芯片制造商英伟达筹集5000亿美元资金的融资计划。（新浪财经）"
-      ]
-    },
-    {
-      "id": "auto-46ddc37e78",
-      "title": "游族网络：子公司签署42.25亿元GPU产品采购合同",
-      "category": "industry",
-      "date": "2026-11-03",
-      "time": "14:35",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/4053969874031496?f=rss",
-      "featured": false,
-      "tags": [
-        "算力"
-      ],
-      "summary": "36氪获悉，游族网络公告，公司全资子公司上海游族信息技术有限公司近日与A公司签署《销售合同》，采购型号为PRO5500(PCIe)的GPU产品，协议总金额42.25亿元(含税)。",
-      "body": [
-        "36氪获悉，游族网络公告，公司全资子公司上海游族信息技术有限公司近日与A公司签署《销售合同》，采购型号为PRO5500(PCIe)的GPU产品，协议总金额42.25亿元(含税)。本次交易属于日常经营重大合同，不涉及关联交易，不构成重大资产重组。公司表示，合同实施内容及进度存在不确定性，对财务指标影响金额暂无法测算，若顺利实施将助力公司推进转型升级。"
-      ]
-    },
-    {
-      "id": "auto-b628aad82e",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "14:35",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-crea…",
-      "body": [
-        "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware.",
-        "Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]"
-      ]
-    },
-    {
-      "id": "auto-6426084df5",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "category": "industry",
-      "date": "2026-11-03",
-      "time": "14:35",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcomin…",
-      "body": [
-        "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes.",
-        "The announcement comes as opposition to […]"
-      ]
-    },
-    {
-      "id": "auto-74809303ae",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "category": "policy",
-      "date": "2026-11-03",
-      "time": "14:35",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that m…",
-      "body": [
-        "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters.",
-        "According to a complaint filed by the New York Daily News, the Chicago Tribune, and […]"
-      ]
-    },
-    {
-      "id": "auto-3747e4c42b",
-      "title": "I built an AI Tamagotchi before Meta could",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "14:35",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this…",
-      "body": [
-        "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.",
-        "But I won't be buying one, because we have Muse Charm at home."
-      ]
-    },
-    {
-      "id": "auto-8ddf77d70e",
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "category": "policy",
-      "date": "2026-11-03",
-      "time": "14:35",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use…",
-      "body": [
-        "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
-        "With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually.",
-        "The shared \"policy token\" signal […]"
-      ]
-    },
-    {
-      "id": "auto-2be9e33dbd",
-      "title": "Google’s satellite AI server transmits its first response to Earth",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "14:35",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "featured": false,
-      "tags": [
-        "算力"
-      ],
-      "summary": "Google's AI chip-equipped satellite has generated its first response from space.",
-      "body": [
-        "Google's AI chip-equipped satellite has generated its first response from space.",
-        "In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]"
       ]
     },
     {
@@ -355,6 +311,44 @@ window.AI_DAILY_DATA = {
         "二是优化监管环境。合理设置监管政策过渡期，给出透明可预期的监管要求与执行标准；面向不同行业开展应用合规指导，完善评估、咨询、认证等合规服务；支持建设分领域“监管沙盒”，同步健全申请、测试、使用、退出机制，预置风险缓冲方案。",
         "三是明确多元主体协同治理责任：政府部门加强统筹、推动监管结果互认，行业组织形成自律公约，企业及时披露安全风险、主动上报安全事件与漏洞。",
         "四是回应社会影响：密切监测 AI 对就业结构的冲击，推动模型训练师、数据标注员等新职业纳入国家职业分类体系，强化社保衔接；对算法歧视、深度伪造、隐私泄露增强溯源追踪能力，并规范人机边界、防范情感依赖。"
+      ]
+    },
+    {
+      "id": "auto-b2ea45b15c",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "11:30",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "body": [
+        "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+      ]
+    },
+    {
+      "id": "auto-10d658f75f",
+      "title": "36氪首发丨交大博士融合世界模型和六臂机器人，再获数亿融资，合作多家500强客户",
+      "category": "industry",
+      "date": "2026-11-03",
+      "time": "10:06",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4053394503603076?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "多模态"
+      ],
+      "summary": "图源/企业 本文约 3000 字，建议阅读 7 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，全球工业具身智能机器人企业——上海飒智智能科技有限公司（下称“飒智智能”）近期已完成数亿元Pre-B轮融资。",
+      "body": [
+        "图源/企业 本文约 3000 字，建议阅读 7 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，全球工业具身智能机器人企业——上海飒智智能科技有限公司（下称“飒智智能”）近期已完成数亿元Pre-B轮融资。投资方包括建投投资有限责任公司、南通投管和云启资本三家机构。本轮资金将主要用于大模型研发、多臂机器人本体迭代、产线扩建以及全球市场的深度拓展。",
+        "飒智智能成立于2017年，核心团队兼具近20年机器人研发经验与头部人工智能算法基因。创始人兼CEO张建政为上海交通大学机械工程专业（智能机器人方向）工学博士，曾任职于新时达与发那科。",
+        "在工业制造向柔性化、复杂化演进的当下，传统工业机器人受限于固定作业与单一任务，而多数通用具身机器人又难以满足工业级的高精度与确定性要求。飒智智能切入的正是这复杂工业场景空白——如精密装配、灵巧包装、长序测试等。"
       ]
     },
     {

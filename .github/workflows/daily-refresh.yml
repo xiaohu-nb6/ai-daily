@@ -16,6 +16,9 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    env:
+      # 与站点一致，统一北京时间（脚本内部也固定 CN_TZ，这里是双保险）
+      TZ: Asia/Shanghai
     steps:
       - name: 检出仓库
         uses: actions/checkout@v4
