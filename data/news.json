@@ -1,7 +1,314 @@
 {
-  "updatedAt": "2026-11-03T20:40:00+08:00",
+  "updatedAt": "2026-11-03T14:35:56+00:00",
   "edition": "2026-11-03",
   "articles": [
+    {
+      "id": "apollo-world-20261103",
+      "title": "百度首发 Apollo World：给无人车造“无限未来”的虚拟考场",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "19:44",
+      "source": "每日经济新闻",
+      "url": "https://www.mrjjxw.com/articles/2026-11-03/4636772.html",
+      "tags": [
+        "百度",
+        "世界模型",
+        "自动驾驶"
+      ],
+      "summary": "百度 Apollo 披露全模态世界模型 Apollo World，把虚拟场景中所有交通参与者建模为 AI 智能体，已用于萝卜快跑全球化测试。",
+      "body": [
+        "11 月 3 日，在深圳举行的百度 AI Day·Apollo 专场上，百度 Apollo 首次披露面向物理 AI 的智能体驱动全模态世界模型 Apollo World，并提出世界模型的“2+3”判断标准。",
+        "与只做视频预测的世界模型不同，Apollo World 把虚拟场景里所有交通参与者都建模为具备决策与交互能力的 AI 智能体，支持无人车在虚拟城市的任意起终点通行，用虚拟订单提前验证“无限未来”的长尾场景。",
+        "目前该模型已用于萝卜快跑的全球化测试与验证，帮助无人驾驶规模化落地；技术栈还可扩展至机器人等更广泛的物理 AI 场景。",
+        "对自动驾驶而言，世界模型的关键指标不是画面逼真，而是能否稳定复现罕见场景并给出可执行的决策反馈。"
+      ]
+    },
+    {
+      "id": "hyra-2-20261103",
+      "title": "腾讯混元 Hyra 2.0：让 Agent 参与科学大模型与硬核研发",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "19:30",
+      "source": "腾讯新闻 · AI 日报",
+      "url": "https://news.qq.com/rain/a/20261103A0BNM400",
+      "tags": [
+        "腾讯",
+        "科研 Agent",
+        "Skill"
+      ],
+      "summary": "混元 Hyra 2.0 用三层 Agent 架构接管科研流程，覆盖蛋白质、量子、芯片等七个方向，把 AI 从“解题”推向“造工具”。",
+      "body": [
+        "11 月 3 日，腾讯混元发布 Hyra 2.0，核心变化是让 AI Agent 全面参与科学大模型与硬核研发，而不只是回答问题。",
+        "架构上采用三层 Agent 协同，配合持久队列与复核机制控制质量。官方给出的路线是：让 AI 从“单题求解”转向“研发工具”，并把可复用的能力沉淀为 Skill。",
+        "官方称已在蛋白质、量子、芯片等七大前沿方向取得初步验证，指向一条“智能复利”的路径——工具越好用，后续研发越快。",
+        "需要留意的是，这类科研 Agent 的价值高度依赖复现性：稳定性与跨领域泛化能力仍要长期检验，短期成果更适合看作方向验证，而非能力定论。"
+      ]
+    },
+    {
+      "id": "sensenova-68-flash-20261103",
+      "title": "商汤 SenseNova 6.8 Flash：多模态智能体正式版",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "18:20",
+      "source": "腾讯新闻 · AI 日报",
+      "url": "https://news.qq.com/rain/a/20261103A0BNM400",
+      "tags": [
+        "商汤",
+        "多模态",
+        "设计协作"
+      ],
+      "summary": "商汤发布日日新 6.8 Flash，强化长期记忆、主动交互与跨任务协作，支持动态 PPT、Agentic 3D 并接入 Figma。",
+      "body": [
+        "商汤正式发布 SenseNova 6.8 Flash，标志其大模型从内容生成向多模态智能体升级。",
+        "三项能力被重点强调：长期记忆、主动交互、跨任务协作，瞄准的是长周期项目里“每次都要重新交代背景”的痛点。",
+        "设计创作侧支持动态 PPT 与 Agentic 3D，并接入 Figma，意味着模型开始直接嵌入专业工作流，而不只是产出素材。",
+        "官方强调“真实任务执行”，但复杂场景下的稳定性仍需第三方验证。"
+      ]
+    },
+    {
+      "id": "appstore-ai-companion-18plus-20261103",
+      "title": "苹果分级新规下月生效：AI 虚拟伴侣被划入 18+",
+      "category": "policy",
+      "date": "2026-11-03",
+      "time": "17:00",
+      "source": "腾讯新闻 · AI 日报",
+      "url": "https://news.qq.com/rain/a/20261103A0BNM400",
+      "tags": [
+        "苹果",
+        "应用分级",
+        "AI 陪伴"
+      ],
+      "summary": "App Store 新规将位置共享、约会与 AI 虚拟伴侣纳入强制申报，涉性与浪漫互动的虚拟伴侣一律划入 18+，合规压力转向开发者。",
+      "body": [
+        "苹果 App Store 分级新规将于下月生效，把位置共享、约会以及 AI 虚拟伴侣功能纳入强制申报范围。",
+        "规则很直接：虚拟伴侣一旦涉及性与浪漫互动，即被划入 18+。对社交陪伴类应用影响显著，也反映平台对 AI 情感交互的风险管控在收紧。",
+        "执行压力落在开发者一侧：提审时须准确申报相关能力，漏报或错报可能导致审核延迟甚至下架。",
+        "放到更大背景里看，这与国内监管对“规范人机边界、防范情感依赖”的要求同向——AI 陪伴正从产品创新区进入强合规区。"
+      ]
+    },
+    {
+      "id": "auto-e382ed7b04",
+      "title": "从青年就业到消费场景创新，“AI+”给咖啡产业生态带来什么？",
+      "category": "industry",
+      "date": "2026-11-03",
+      "time": "14:35",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4053559323120771?f=rss",
+      "featured": false,
+      "tags": [
+        "机器人"
+      ],
+      "summary": "新消费场景的“保鲜期”正在越来越短。 一场快闪、一次联名、新的概念，也许能为一家消费品牌带来几个月的新客流，但新鲜感过去后，品牌还如何留住用户？",
+      "body": [
+        "一场快闪、一次联名、新的概念，也许能为一家消费品牌带来几个月的新客流，但新鲜感过去后，品牌还如何留住用户？",
+        "这是过去几年，从消费品牌到商业地产和街区运营者的共同体感，也是上个月底在云创浙理青年国度，由宁波市鄞州区发改局与36氪共同主办的“AiPartner 带着 Ai 上前线——宁波咖啡生活周场景创新交流会”上，被主理人、投资人和企业家们反复讨论的话题。",
+        "以鄞州为例，当地不缺丰富的制造业生态与消费场景，也不缺年轻人。当场景、设备、人才三个要素都落在同一个地理半径，可以催生出怎样的消费场景创新“新物种”？"
+      ]
+    },
+    {
+      "id": "auto-10d658f75f",
+      "title": "36氪首发丨交大博士融合世界模型和六臂机器人，再获数亿融资，合作多家500强客户",
+      "category": "industry",
+      "date": "2026-11-03",
+      "time": "14:35",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4053394503603076?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "多模态"
+      ],
+      "summary": "图源/企业 本文约 3000 字，建议阅读 7 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，全球工业具身智能机器人企业——上海飒智智能科技有限公司（下称“飒智智能”）近期已完成数亿元Pre-B轮融资。",
+      "body": [
+        "图源/企业 本文约 3000 字，建议阅读 7 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，全球工业具身智能机器人企业——上海飒智智能科技有限公司（下称“飒智智能”）近期已完成数亿元Pre-B轮融资。投资方包括建投投资有限责任公司、南通投管和云启资本三家机构。本轮资金将主要用于大模型研发、多臂机器人本体迭代、产线扩建以及全球市场的深度拓展。",
+        "飒智智能成立于2017年，核心团队兼具近20年机器人研发经验与头部人工智能算法基因。创始人兼CEO张建政为上海交通大学机械工程专业（智能机器人方向）工学博士，曾任职于新时达与发那科。",
+        "在工业制造向柔性化、复杂化演进的当下，传统工业机器人受限于固定作业与单一任务，而多数通用具身机器人又难以满足工业级的高精度与确定性要求。飒智智能切入的正是这复杂工业场景空白——如精密装配、灵巧包装、长序测试等。"
+      ]
+    },
+    {
+      "id": "auto-6fcccb9cd2",
+      "title": "36氪首发丨上海交大副教授做光计算芯片，成立半年获云启、原子等连投5轮，已送流片",
+      "category": "industry",
+      "date": "2026-11-03",
+      "time": "14:35",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4053338933105795?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "算力"
+      ],
+      "summary": "图源/企业 本文约 3300 字，建议阅读 8 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，光计算芯片公司智子光垣已完成数亿元种子轮融资。",
+      "body": [
+        "图源/企业 本文约 3300 字，建议阅读 8 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，光计算芯片公司智子光垣已完成数亿元种子轮融资。公司成立后已连续完成5轮种子轮次融资，投资方包括海桐国际创新中心、云启资本、国泰海通、险峰长青、原子创投、同鑫资本和上海交通大学AI未来基金。资金将主要用于核心芯片研发与流片迭代、高端人才引进与团队建设，以及应用场景拓展与生态合作。",
+        "智子光垣于2026年5月成立，聚焦可重构全光计算架构与光子处理器研发，利用光的并行计算特性直接参与AI运算，绕开传统电子芯片在制程微缩、功耗和散热上的瓶颈，推动光计算从专用加速走向更具通用性的计算平台。",
+        "目前，智子光垣已组建近50人的研发团队，核心成员长期深耕光计算与芯片设计领域，累计完成数十款光芯片的设计、流片及验证，并发表了近20篇Nature/Science系列论文。创始人程远为上海交大人工智能学院副教授，长期从事光子芯片与边缘智能研究，曾任辛米尔科技联合创始人/CTO，主导全栈产品体系搭建。"
+      ]
+    },
+    {
+      "id": "auto-4467e463e1",
+      "title": "百度Apollo World世界模型亮相",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "14:35",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4054026915189896?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体"
+      ],
+      "summary": "36氪获悉，据百度消息，11月3日，在深圳举行的百度AI Day·Apollo专场上，百度Apollo首次披露面向物理AI的智能体驱动全模态世界模型Apollo World",
+      "body": [
+        "36氪获悉，据百度消息，11月3日，在深圳举行的百度AI Day·Apollo专场上，百度Apollo首次披露面向物理AI的智能体驱动全模态世界模型Apollo World，并提出世界模型“2+3”判断标准。在Apollo World构建的虚拟城市中，车辆、行人等交通参与者都不是按照固定脚本行动的“道具”，而是具备决策和交互能力的AI智能体。"
+      ]
+    },
+    {
+      "id": "auto-a929069d63",
+      "title": "阿波罗全球管理大举布局AI融资热潮，放贷创历史新高",
+      "category": "industry",
+      "date": "2026-11-03",
+      "time": "14:35",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4053969823601544?f=rss",
+      "featured": false,
+      "tags": [
+        "算力",
+        "融资"
+      ],
+      "summary": "阿波罗全球管理（Apollo Global Management）第三季度放贷规模达到创纪录的1140亿美元，正以越来越快的速度将保险客户缴纳的保费投入人工智能借贷热潮。",
+      "body": [
+        "阿波罗全球管理（Apollo Global Management）第三季度放贷规模达到创纪录的1140亿美元，正以越来越快的速度将保险客户缴纳的保费投入人工智能借贷热潮。这家总部位于纽约的私人资本管理集团，第三季度放贷规模较第二季度增长超过50%。相关交易包括为人工智能公司Anthropic提供芯片融资，以及参与一项为芯片制造商英伟达筹集5000亿美元资金的融资计划。（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-46ddc37e78",
+      "title": "游族网络：子公司签署42.25亿元GPU产品采购合同",
+      "category": "industry",
+      "date": "2026-11-03",
+      "time": "14:35",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4053969874031496?f=rss",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "36氪获悉，游族网络公告，公司全资子公司上海游族信息技术有限公司近日与A公司签署《销售合同》，采购型号为PRO5500(PCIe)的GPU产品，协议总金额42.25亿元(含税)。",
+      "body": [
+        "36氪获悉，游族网络公告，公司全资子公司上海游族信息技术有限公司近日与A公司签署《销售合同》，采购型号为PRO5500(PCIe)的GPU产品，协议总金额42.25亿元(含税)。本次交易属于日常经营重大合同，不涉及关联交易，不构成重大资产重组。公司表示，合同实施内容及进度存在不确定性，对财务指标影响金额暂无法测算，若顺利实施将助力公司推进转型升级。"
+      ]
+    },
+    {
+      "id": "auto-b628aad82e",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "14:35",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-crea…",
+      "body": [
+        "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware.",
+        "Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]"
+      ]
+    },
+    {
+      "id": "auto-6426084df5",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "category": "industry",
+      "date": "2026-11-03",
+      "time": "14:35",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcomin…",
+      "body": [
+        "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes.",
+        "The announcement comes as opposition to […]"
+      ]
+    },
+    {
+      "id": "auto-74809303ae",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "category": "policy",
+      "date": "2026-11-03",
+      "time": "14:35",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that m…",
+      "body": [
+        "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters.",
+        "According to a complaint filed by the New York Daily News, the Chicago Tribune, and […]"
+      ]
+    },
+    {
+      "id": "auto-3747e4c42b",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "14:35",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this…",
+      "body": [
+        "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.",
+        "But I won't be buying one, because we have Muse Charm at home."
+      ]
+    },
+    {
+      "id": "auto-8ddf77d70e",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "category": "policy",
+      "date": "2026-11-03",
+      "time": "14:35",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use…",
+      "body": [
+        "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable.",
+        "With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually.",
+        "The shared \"policy token\" signal […]"
+      ]
+    },
+    {
+      "id": "auto-2be9e33dbd",
+      "title": "Google’s satellite AI server transmits its first response to Earth",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "14:35",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "Google's AI chip-equipped satellite has generated its first response from space.",
+      "body": [
+        "Google's AI chip-equipped satellite has generated its first response from space.",
+        "In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]"
+      ]
+    },
     {
       "id": "longcat-25-20261102",
       "title": "美团 LongCat-2.5：1.6 万亿参数，全程国产算力跑出来",
@@ -73,27 +380,24 @@
       ]
     },
     {
-      "id": "gemini-4-carbon-20261029",
-      "title": "Gemini 4 Carbon 登顶智能指数，但暂时用不上",
-      "category": "model",
+      "id": "cac-algorithm-filing-19-20261102",
+      "title": "网信办公布第十九批深度合成算法备案",
+      "category": "policy",
       "date": "2026-11-02",
-      "time": "09:10",
-      "source": "智东西 / 第一财经",
-      "url": "https://www.163.com/dy/article/LACSOT530511D2LM.html",
-      "featured": true,
+      "time": "20:29",
+      "source": "国家互联网信息办公室 / 澎湃新闻",
+      "url": "https://www.thepaper.cn/newsDetail_forward_34389300",
       "tags": [
-        "谷歌",
-        "基准第一",
-        "智能体",
-        "网络安全"
+        "网信办",
+        "算法备案",
+        "合规"
       ],
-      "summary": "Gemini 4 Carbon 以 59 分登顶 Artificial Analysis 智能指数，主打长程任务与网络安全，首批仅向安全防御人员开放，公众暂无时间表。",
+      "summary": "国家网信办公布第十九批境内深度合成服务算法备案清单，未履行备案的提供者与技术支持者被要求尽快申请。",
       "body": [
-        "10 月 29 日，谷歌发布旗舰模型 Gemini 4 Carbon。在 Artificial Analysis Intelligence Index v5.0 上，Carbon（high）以 59 分排名第一，超过 Claude Opus 5.5 的 58 分与 GPT-6 Astra 的 57 分。",
-        "它的定位不是“单次回答更强”，而是能连续运行数天的智能体工作流：遇到死胡同会自行换方案，目标是把多步骤工程任务做完。编程侧 SWE-sweep、Terminal-Bench 4.0 排名第一，WebDev Arena 的 Elo 提升 89 分至 1769（第四）。",
-        "网络安全是本次升级重点：SEC-bench Pro 漏洞发现 88.2%、ExploitGym 漏洞利用验证 54.8%、CWE-bench 根因修复 71%。谷歌称生成安全代码的成功率是上代 Argon 的两倍以上，Chrome 团队测试中高质量补丁表现比其他实验室的前沿模型好 10 倍以上。",
-        "价格延续 Argon 首发优惠：每百万 token 输入 2 美元、输出 10 美元，优惠结束后恢复 4 / 20 美元，缓存输入减免 95%。上下文窗口 1M，支持文本、图像、视频与语音输入。",
-        "争议在开放节奏：Carbon 先提供给部分网络安全防御人员，再通过 Fairwind 计划扩大至可信合作伙伴，普通开发者与消费者的开放时间未定。发布会当天 Alphabet 财报显示云业务收入同比增长 103%，但自由现金流转负 90.65 亿美元，盘后股价跌近 10%。"
+        "国家互联网信息办公室公布第十九批境内深度合成服务算法备案信息，完整清单（2026 年 10 月）可通过互联网信息服务算法备案系统查询。",
+        "依据《互联网信息服务深度合成管理规定》第十九条，具有舆论属性或社会动员能力的深度合成服务提供者，应按《算法推荐管理规定》履行备案及变更、注销手续；技术支持者参照执行。",
+        "备案正在成为大模型进入主航道的“通行证”。本期清单里不乏垂直行业模型，覆盖社会治理、地质、固废分拣等场景——例如面向垃圾分拣的“云联固废大模型”，官方称分选精度达 99%。",
+        "对开发者而言，备案不是一次性动作：模型用途、服务对象发生变化时需及时变更，否则合规链条会断在“已备案”这三个字上。"
       ]
     },
     {
@@ -119,151 +423,27 @@
       ]
     },
     {
-      "id": "openai-funding-cut-20261031",
-      "title": "OpenAI 融资“打折”：300 亿变 200 亿美元",
-      "category": "industry",
-      "date": "2026-11-01",
-      "time": "20:48",
-      "source": "每日经济新闻 / 金融时报",
-      "url": "https://www.163.com/dy/article/LAM6QKA90512B07B.html",
-      "tags": [
-        "OpenAI",
-        "融资",
-        "估值"
-      ],
-      "summary": "OpenAI 将本轮融资目标从 300 亿美元下调至约 200 亿，估值由 1.4 万亿降至 1.25 万亿美元，部分投资人削减认购额度。",
-      "body": [
-        "据英国金融时报等多家媒体报道，OpenAI 把本轮融资目标从 300 亿美元下调至约 200 亿美元，目标估值从 1.4 万亿美元降至 1.25 万亿美元，估值缩水约 1500 亿美元、降幅 10.7%，融资规模直接砍掉三分之一。",
-        "交割节奏同样微妙：公司为投资者设定的出资承诺截止日已过，部分投资人削减认购额度，首轮实际到位资金预计不足 200 亿美元。",
-        "对照时间线更清楚：今年 3 月 OpenAI 刚以 8520 亿美元投后估值完成 1220 亿美元资本承诺；过去 15 个月签下名义总额超 1.4 万亿美元的算力与数据中心长期协议，约为其当前年化收入的 35 倍。",
-        "背景是科技股连续回调与市场对 AI 资本开支的质疑，同期 Anthropic 启动 IPO，两家争夺的是同一批机构资金。“不是融不到钱，而是大客户第一次说：可以投，但价格得再谈。”"
-      ]
-    },
-    {
-      "id": "hyra-2-20261103",
-      "title": "腾讯混元 Hyra 2.0：让 Agent 参与科学大模型与硬核研发",
+      "id": "gemini-4-carbon-20261029",
+      "title": "Gemini 4 Carbon 登顶智能指数，但暂时用不上",
       "category": "model",
-      "date": "2026-11-03",
-      "time": "19:30",
-      "source": "腾讯新闻 · AI 日报",
-      "url": "https://news.qq.com/rain/a/20261103A0BNM400",
-      "tags": [
-        "腾讯",
-        "科研 Agent",
-        "Skill"
-      ],
-      "summary": "混元 Hyra 2.0 用三层 Agent 架构接管科研流程，覆盖蛋白质、量子、芯片等七个方向，把 AI 从“解题”推向“造工具”。",
-      "body": [
-        "11 月 3 日，腾讯混元发布 Hyra 2.0，核心变化是让 AI Agent 全面参与科学大模型与硬核研发，而不只是回答问题。",
-        "架构上采用三层 Agent 协同，配合持久队列与复核机制控制质量。官方给出的路线是：让 AI 从“单题求解”转向“研发工具”，并把可复用的能力沉淀为 Skill。",
-        "官方称已在蛋白质、量子、芯片等七大前沿方向取得初步验证，指向一条“智能复利”的路径——工具越好用，后续研发越快。",
-        "需要留意的是，这类科研 Agent 的价值高度依赖复现性：稳定性与跨领域泛化能力仍要长期检验，短期成果更适合看作方向验证，而非能力定论。"
-      ]
-    },
-    {
-      "id": "sensenova-68-flash-20261103",
-      "title": "商汤 SenseNova 6.8 Flash：多模态智能体正式版",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "18:20",
-      "source": "腾讯新闻 · AI 日报",
-      "url": "https://news.qq.com/rain/a/20261103A0BNM400",
-      "tags": [
-        "商汤",
-        "多模态",
-        "设计协作"
-      ],
-      "summary": "商汤发布日日新 6.8 Flash，强化长期记忆、主动交互与跨任务协作，支持动态 PPT、Agentic 3D 并接入 Figma。",
-      "body": [
-        "商汤正式发布 SenseNova 6.8 Flash，标志其大模型从内容生成向多模态智能体升级。",
-        "三项能力被重点强调：长期记忆、主动交互、跨任务协作，瞄准的是长周期项目里“每次都要重新交代背景”的痛点。",
-        "设计创作侧支持动态 PPT 与 Agentic 3D，并接入 Figma，意味着模型开始直接嵌入专业工作流，而不只是产出素材。",
-        "官方强调“真实任务执行”，但复杂场景下的稳定性仍需第三方验证。"
-      ]
-    },
-    {
-      "id": "apollo-world-20261103",
-      "title": "百度首发 Apollo World：给无人车造“无限未来”的虚拟考场",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "19:44",
-      "source": "每日经济新闻",
-      "url": "https://www.mrjjxw.com/articles/2026-11-03/4636772.html",
-      "tags": [
-        "百度",
-        "世界模型",
-        "自动驾驶"
-      ],
-      "summary": "百度 Apollo 披露全模态世界模型 Apollo World，把虚拟场景中所有交通参与者建模为 AI 智能体，已用于萝卜快跑全球化测试。",
-      "body": [
-        "11 月 3 日，在深圳举行的百度 AI Day·Apollo 专场上，百度 Apollo 首次披露面向物理 AI 的智能体驱动全模态世界模型 Apollo World，并提出世界模型的“2+3”判断标准。",
-        "与只做视频预测的世界模型不同，Apollo World 把虚拟场景里所有交通参与者都建模为具备决策与交互能力的 AI 智能体，支持无人车在虚拟城市的任意起终点通行，用虚拟订单提前验证“无限未来”的长尾场景。",
-        "目前该模型已用于萝卜快跑的全球化测试与验证，帮助无人驾驶规模化落地；技术栈还可扩展至机器人等更广泛的物理 AI 场景。",
-        "对自动驾驶而言，世界模型的关键指标不是画面逼真，而是能否稳定复现罕见场景并给出可执行的决策反馈。"
-      ]
-    },
-    {
-      "id": "deepseek-super-agent-20261031",
-      "title": "DeepSeek 的 Super-agent：没人 @ 它，也会主动修 Bug",
-      "category": "model",
-      "date": "2026-11-01",
-      "time": "08:30",
-      "source": "DeepSeek Harness 团队 / 陆家嘴财经早餐",
-      "url": "https://news.qq.com/rain/a/20261101A02YR500",
-      "tags": [
-        "DeepSeek",
-        "Agent 架构",
-        "开源"
-      ],
-      "summary": "DeepSeek 公开 Router + Worker 双层 Agent 架构，支持多平台消息分派与并发执行，还能后台静默复现 Bug、确认后再提交修复。",
-      "body": [
-        "10 月 31 日晚，DeepSeek Harness 团队发布技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》，相关原型已开源，内部实例已在日常研发中持续运行。",
-        "它要解决的痛点很具体：一个人通常只能同时跟进 3 至 5 个活跃会话，单任务上限取决于模型能力，多任务上限却卡在人的注意力。",
-        "解法是 Router + Worker 双层架构：Router 作为常驻的全局协调节点，统一接收群聊、GitHub、邮件等多平台消息并分派任务；Worker 各自持有独立上下文并发执行、互不干扰，只向 Router 汇报。",
-        "最能体现“自主”的是主动性设计：群聊、邮件、日程、CI 结果都能成为触发事件，先用程序规则过滤噪声，再由模型判断是否行动；团队还引入计算机体系结构里的投机执行思想——有人反馈 Bug 时，AI 先在后台静默复现、分析原因，确认问题存在且找到修复方法后才提交，否则保持安静。",
-        "存算分离让云端执行循环不依赖本地电脑在线，外部 Watchdog 负责异常恢复。Agent 竞争的焦点，正从单点工具能力转向操作系统级的任务调度权。"
-      ]
-    },
-    {
-      "id": "cac-algorithm-filing-19-20261102",
-      "title": "网信办公布第十九批深度合成算法备案",
-      "category": "policy",
       "date": "2026-11-02",
-      "time": "20:29",
-      "source": "国家互联网信息办公室 / 澎湃新闻",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34389300",
+      "time": "09:10",
+      "source": "智东西 / 第一财经",
+      "url": "https://www.163.com/dy/article/LACSOT530511D2LM.html",
+      "featured": true,
       "tags": [
-        "网信办",
-        "算法备案",
-        "合规"
+        "谷歌",
+        "基准第一",
+        "智能体",
+        "网络安全"
       ],
-      "summary": "国家网信办公布第十九批境内深度合成服务算法备案清单，未履行备案的提供者与技术支持者被要求尽快申请。",
+      "summary": "Gemini 4 Carbon 以 59 分登顶 Artificial Analysis 智能指数，主打长程任务与网络安全，首批仅向安全防御人员开放，公众暂无时间表。",
       "body": [
-        "国家互联网信息办公室公布第十九批境内深度合成服务算法备案信息，完整清单（2026 年 10 月）可通过互联网信息服务算法备案系统查询。",
-        "依据《互联网信息服务深度合成管理规定》第十九条，具有舆论属性或社会动员能力的深度合成服务提供者，应按《算法推荐管理规定》履行备案及变更、注销手续；技术支持者参照执行。",
-        "备案正在成为大模型进入主航道的“通行证”。本期清单里不乏垂直行业模型，覆盖社会治理、地质、固废分拣等场景——例如面向垃圾分拣的“云联固废大模型”，官方称分选精度达 99%。",
-        "对开发者而言，备案不是一次性动作：模型用途、服务对象发生变化时需及时变更，否则合规链条会断在“已备案”这三个字上。"
-      ]
-    },
-    {
-      "id": "appstore-ai-companion-18plus-20261103",
-      "title": "苹果分级新规下月生效：AI 虚拟伴侣被划入 18+",
-      "category": "policy",
-      "date": "2026-11-03",
-      "time": "17:00",
-      "source": "腾讯新闻 · AI 日报",
-      "url": "https://news.qq.com/rain/a/20261103A0BNM400",
-      "tags": [
-        "苹果",
-        "应用分级",
-        "AI 陪伴"
-      ],
-      "summary": "App Store 新规将位置共享、约会与 AI 虚拟伴侣纳入强制申报，涉性与浪漫互动的虚拟伴侣一律划入 18+，合规压力转向开发者。",
-      "body": [
-        "苹果 App Store 分级新规将于下月生效，把位置共享、约会以及 AI 虚拟伴侣功能纳入强制申报范围。",
-        "规则很直接：虚拟伴侣一旦涉及性与浪漫互动，即被划入 18+。对社交陪伴类应用影响显著，也反映平台对 AI 情感交互的风险管控在收紧。",
-        "执行压力落在开发者一侧：提审时须准确申报相关能力，漏报或错报可能导致审核延迟甚至下架。",
-        "放到更大背景里看，这与国内监管对“规范人机边界、防范情感依赖”的要求同向——AI 陪伴正从产品创新区进入强合规区。"
+        "10 月 29 日，谷歌发布旗舰模型 Gemini 4 Carbon。在 Artificial Analysis Intelligence Index v5.0 上，Carbon（high）以 59 分排名第一，超过 Claude Opus 5.5 的 58 分与 GPT-6 Astra 的 57 分。",
+        "它的定位不是“单次回答更强”，而是能连续运行数天的智能体工作流：遇到死胡同会自行换方案，目标是把多步骤工程任务做完。编程侧 SWE-sweep、Terminal-Bench 4.0 排名第一，WebDev Arena 的 Elo 提升 89 分至 1769（第四）。",
+        "网络安全是本次升级重点：SEC-bench Pro 漏洞发现 88.2%、ExploitGym 漏洞利用验证 54.8%、CWE-bench 根因修复 71%。谷歌称生成安全代码的成功率是上代 Argon 的两倍以上，Chrome 团队测试中高质量补丁表现比其他实验室的前沿模型好 10 倍以上。",
+        "价格延续 Argon 首发优惠：每百万 token 输入 2 美元、输出 10 美元，优惠结束后恢复 4 / 20 美元，缓存输入减免 95%。上下文窗口 1M，支持文本、图像、视频与语音输入。",
+        "争议在开放节奏：Carbon 先提供给部分网络安全防御人员，再通过 Fairwind 计划扩大至可信合作伙伴，普通开发者与消费者的开放时间未定。发布会当天 Alphabet 财报显示云业务收入同比增长 103%，但自由现金流转负 90.65 亿美元，盘后股价跌近 10%。"
       ]
     },
     {
@@ -285,6 +465,27 @@
         "定价是最大的信息量：每百万 token 输入 1 美元、输出 5 美元，约为 GPT-6.1 Sol 的一半、GPT-6 Astra 的十分之一；官方称完成同类任务的速度比此前版本快三倍以上。",
         "把“操作电脑”这一智能体核心能力拉进平价区间，被普遍解读为模型层主动为应用放量让路——当能力趋同，价格与渠道成为胜负手。",
         "需要注意的是，该消息目前主要来自行业周报转述，具体开放范围与限速策略仍以 OpenAI 官方文档为准。"
+      ]
+    },
+    {
+      "id": "openai-funding-cut-20261031",
+      "title": "OpenAI 融资“打折”：300 亿变 200 亿美元",
+      "category": "industry",
+      "date": "2026-11-01",
+      "time": "20:48",
+      "source": "每日经济新闻 / 金融时报",
+      "url": "https://www.163.com/dy/article/LAM6QKA90512B07B.html",
+      "tags": [
+        "OpenAI",
+        "融资",
+        "估值"
+      ],
+      "summary": "OpenAI 将本轮融资目标从 300 亿美元下调至约 200 亿，估值由 1.4 万亿降至 1.25 万亿美元，部分投资人削减认购额度。",
+      "body": [
+        "据英国金融时报等多家媒体报道，OpenAI 把本轮融资目标从 300 亿美元下调至约 200 亿美元，目标估值从 1.4 万亿美元降至 1.25 万亿美元，估值缩水约 1500 亿美元、降幅 10.7%，融资规模直接砍掉三分之一。",
+        "交割节奏同样微妙：公司为投资者设定的出资承诺截止日已过，部分投资人削减认购额度，首轮实际到位资金预计不足 200 亿美元。",
+        "对照时间线更清楚：今年 3 月 OpenAI 刚以 8520 亿美元投后估值完成 1220 亿美元资本承诺；过去 15 个月签下名义总额超 1.4 万亿美元的算力与数据中心长期协议，约为其当前年化收入的 35 倍。",
+        "背景是科技股连续回调与市场对 AI 资本开支的质疑，同期 Anthropic 启动 IPO，两家争夺的是同一批机构资金。“不是融不到钱，而是大客户第一次说：可以投，但价格得再谈。”"
       ]
     },
     {
@@ -327,6 +528,28 @@
         "与现有 CPO 方案不同，OOI 跳过有机封装基板，把光引擎直接集成到承载 GPU 的硅中介层之上，让光电转换环节进一步靠近芯片内核，为下一代超大规模 AI 集群提供新的互联思路。",
         "研究院首席研究科学家尼古拉·内多维奇确认原型样品已就位，但暂无商业化时间表。",
         "对照看更清楚节奏差：华为已把近封装光学做成量产商品——昇腾 960 超节点用 4096 颗 NPU 光互联、最低 RTT 2 微秒，已商用 1000 多套。国产算力的竞争维度，正从单芯片性能转向芯片、互联、存储、整机的系统工程。"
+      ]
+    },
+    {
+      "id": "deepseek-super-agent-20261031",
+      "title": "DeepSeek 的 Super-agent：没人 @ 它，也会主动修 Bug",
+      "category": "model",
+      "date": "2026-11-01",
+      "time": "08:30",
+      "source": "DeepSeek Harness 团队 / 陆家嘴财经早餐",
+      "url": "https://news.qq.com/rain/a/20261101A02YR500",
+      "tags": [
+        "DeepSeek",
+        "Agent 架构",
+        "开源"
+      ],
+      "summary": "DeepSeek 公开 Router + Worker 双层 Agent 架构，支持多平台消息分派与并发执行，还能后台静默复现 Bug、确认后再提交修复。",
+      "body": [
+        "10 月 31 日晚，DeepSeek Harness 团队发布技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》，相关原型已开源，内部实例已在日常研发中持续运行。",
+        "它要解决的痛点很具体：一个人通常只能同时跟进 3 至 5 个活跃会话，单任务上限取决于模型能力，多任务上限却卡在人的注意力。",
+        "解法是 Router + Worker 双层架构：Router 作为常驻的全局协调节点，统一接收群聊、GitHub、邮件等多平台消息并分派任务；Worker 各自持有独立上下文并发执行、互不干扰，只向 Router 汇报。",
+        "最能体现“自主”的是主动性设计：群聊、邮件、日程、CI 结果都能成为触发事件，先用程序规则过滤噪声，再由模型判断是否行动；团队还引入计算机体系结构里的投机执行思想——有人反馈 Bug 时，AI 先在后台静默复现、分析原因，确认问题存在且找到修复方法后才提交，否则保持安静。",
+        "存算分离让云端执行循环不依赖本地电脑在线，外部 Watchdog 负责异常恢复。Agent 竞争的焦点，正从单点工具能力转向操作系统级的任务调度权。"
       ]
     }
   ]
