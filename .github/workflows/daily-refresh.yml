@@ -1,0 +1,41 @@
+name: 每日更新资讯数据
+
+on:
+  schedule:
+    # UTC 00:30 = 北京时间 08:30
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 抓取 RSS 并合并去重
+        run: python scripts/refresh_news.py
+
+      - name: 有新增则提交
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data/news.js data/news.json; then
+            echo "本次没有新增条目，跳过提交。"
+            exit 0
+          fi
+          git add data/news.js data/news.json
+          git commit -m "chore(data): 自动更新资讯 $(TZ=Asia/Shanghai date +%Y-%m-%d)"
+          git push

@@ -1,0 +1,12 @@
+# 统一按 LF 存储，避免 Windows 本地与 GitHub Actions(Linux) 换行不一致
+* text=auto eol=lf
+
+*.py   text eol=lf
+*.yml  text eol=lf
+*.js   text eol=lf
+*.json text eol=lf
+*.css  text eol=lf
+*.html text eol=lf
+*.md   text eol=lf
+
+*.png  binary

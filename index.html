@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AI 前沿日报 · 每日速读</title>
+<meta name="description" content="每日更新 AI 行业前沿资讯：新模型发布、AI 政策监管、行业动态。左侧阅读全文，右侧 100 字速览，本地保留你的阅读记录。" />
+<meta name="theme-color" content="#f5f0e3" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='15' fill='%230b1220'/%3E%3Ccircle cx='31' cy='34' r='16' fill='none' stroke='%2346e0ff' stroke-width='2.6'/%3E%3Cpath d='M24 43l7-19 7 19M26.6 37h8.8' fill='none' stroke='%23e9f2fc' stroke-width='2.8' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M49 8l2 4.6L55.6 15l-4.6 2L49 21.6l-2-4.6L42.4 15l4.6-2z' fill='%23a78bfa'/%3E%3C/svg%3E" />
+<link rel="stylesheet" href="assets/style.css?v=4" />
+<script>
+  /* 首屏前确定主题，避免切换时闪一下白底 */
+  (function () {
+    var KEY = 'ai-daily.theme.v1';
+    var t = '';
+    try {
+      var q = new URLSearchParams(location.search).get('theme');
+      t = q || localStorage.getItem(KEY) || '';
+    } catch (e) { t = ''; }
+    if (t !== 'tech' && t !== 'paper') t = 'paper';
+    document.documentElement.setAttribute('data-theme', t);
+    try { localStorage.setItem(KEY, t); } catch (e) {}
+  })();
+</script>
+</head>
+<body>
+
+<!-- ===== 手绘背景装饰（不参与交互） ===== -->
+<div class="doodles" aria-hidden="true">
+  <svg class="doodle doodle-sun" viewBox="0 0 120 120" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round">
+    <circle cx="58" cy="58" r="22" />
+    <path d="M58 18v-9M58 107v9M18 58h-9M107 58h9M30 30l-6-6M86 86l6 6M86 30l6-6M30 86l-6 6" />
+    <path d="M48 56c2-4 6-6 10-5" stroke-width="2" />
+  </svg>
+  <svg class="doodle doodle-star" viewBox="0 0 60 60" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round">
+    <path d="M30 6c1 12 4 18 10 22-8 2-12 6-14 16-2-10-6-14-14-16 8-4 12-10 13-22z" />
+  </svg>
+  <svg class="doodle doodle-arrow" viewBox="0 0 140 90" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round">
+    <path d="M6 74c22-46 58-62 112-58" />
+    <path d="M104 6l16 10-12 13" />
+  </svg>
+  <svg class="doodle doodle-spiral" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+    <path d="M50 50c0-8 7-13 14-11s10 12 4 19-20 9-29 1S29 38 38 29s26-11 36 0 10 30-3 41" />
+  </svg>
+</div>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="brand">
+      <div class="brand-mark" aria-hidden="true">
+        <svg viewBox="0 0 64 64" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="31" cy="33" r="23" />
+          <path d="M23 43l8-21 8 21M26 36h11" />
+          <path d="M50 9l2.5 6L59 17l-6.5 2L50 25l-2.5-6L41 17l6.5-2z" stroke-width="2" />
+        </svg>
+      </div>
+      <div class="brand-text">
+        <h1>AI 前沿日报<span class="brand-dot">.</span></h1>
+        <p>每天十分钟，把模型、政策、行业的三条线读明白。</p>
+      </div>
+    </div>
+
+    <div class="masthead-side">
+      <div class="stamp" aria-hidden="true">
+        <span>每日<br />更新</span>
+      </div>
+      <div class="issue">
+        <div class="issue-date" id="issueDate">2026 / 11 / 03</div>
+        <div class="issue-meta">
+          <span id="issueCount">共 15 条</span>
+          <span class="dot">·</span>
+          <span id="issueUpdated">更新于 20:40</span>
+        </div>
+        <div class="issue-actions">
+          <div class="theme-switch" role="group" aria-label="切换视觉风格">
+            <button class="theme-opt is-on" type="button" data-theme="paper" aria-pressed="true" title="手绘纸感：暖色纸纹与墨线">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M13 3.5 20.5 11 12 19.5H4.5V12z"/><path d="M11 5.5 18.5 13"/></svg>
+              纸感
+            </button>
+            <button class="theme-opt" type="button" data-theme="tech" aria-pressed="false" title="科技深色：冷色渐变与玻璃质感">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l2.2 6.8L21 12l-6.8 2.2L12 21l-2.2-6.8L3 12l6.8-2.2z"/></svg>
+              科技
+            </button>
+          </div>
+          <button class="btn btn-ghost" id="refreshBtn" type="button" title="重新读取最新数据">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M20 11a8 8 0 10-2.3 5.7"/><path d="M20 5v6h-6"/></svg>
+            刷新
+          </button>
+          <button class="btn btn-ink" id="recordsBtn" type="button">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5.5A2.5 2.5 0 016.5 3H19v18H6.5A2.5 2.5 0 014 18.5z"/><path d="M8 8h7M8 12h7"/></svg>
+            阅读记录 <b id="recordsCount">0</b>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="ticker">
+    <div class="ticker-label">今日关键词</div>
+    <div class="ticker-track" id="tickerTrack" role="group" aria-label="今日关键词，点击可直接搜索"></div>
+  </div>
+</header>
+
+<main class="layout">
+  <!-- ============ 左：资讯流 ============ -->
+  <section class="feed" aria-label="资讯列表">
+    <div class="feed-head">
+      <div class="filters" role="tablist" aria-label="按分类筛选">
+        <button class="tab is-active" data-cat="all" role="tab" aria-selected="true">全部<i class="tab-num" data-num="all">0</i></button>
+        <button class="tab" data-cat="model" role="tab" aria-selected="false"><i class="swatch sw-model"></i>模型发布<i class="tab-num" data-num="model">0</i></button>
+        <button class="tab" data-cat="policy" role="tab" aria-selected="false"><i class="swatch sw-policy"></i>政策监管<i class="tab-num" data-num="policy">0</i></button>
+        <button class="tab" data-cat="industry" role="tab" aria-selected="false"><i class="swatch sw-industry"></i>行业动态<i class="tab-num" data-num="industry">0</i></button>
+      </div>
+      <div class="search">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M16.5 16.5L21 21"/></svg>
+        <input id="searchInput" type="search" placeholder="搜标题 / 标签 / 正文关键词…" autocomplete="off" title="输入 / 可快速聚焦搜索框" />
+        <button class="search-clear" id="searchClear" type="button" aria-label="清除搜索" title="清除搜索（Esc）" hidden>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+        </button>
+      </div>
+    </div>
+
+    <div id="heroSlot"></div>
+    <div id="list" class="cards"></div>
+    <div id="empty" class="empty" hidden>
+      <svg viewBox="0 0 120 100" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round">
+        <path d="M20 78c14-8 22-22 24-44M88 78c-12-10-18-26-18-46" />
+        <circle cx="47" cy="26" r="4" /><circle cx="68" cy="30" r="4" />
+        <path d="M52 52c6 4 12 4 18-2" />
+      </svg>
+      <p>没有匹配的资讯，换个关键词试试。</p>
+    </div>
+    <div class="load-note" id="loadNote"></div>
+  </section>
+
+  <!-- ============ 右：内容速览 / 阅读记录 ============ -->
+  <aside class="side" aria-label="内容速览与阅读记录">
+    <section class="panel sketch panel-brief">
+      <div class="panel-head">
+        <h2>内容速览</h2>
+        <span class="panel-tag">≤100 字</span>
+      </div>
+      <p class="panel-sub">抓核心，不铺垫。点任一条直接展开全文。</p>
+      <ol class="brief-list" id="briefList"></ol>
+      <div class="brief-foot" id="briefFoot" hidden></div>
+    </section>
+
+    <section class="panel sketch panel-records">
+      <div class="panel-head">
+        <h2>阅读记录</h2>
+        <button class="link-btn" id="clearRecords" type="button">清空</button>
+      </div>
+      <p class="panel-sub">只存在你这台设备的浏览器里，不上传。</p>
+      <ul class="record-list" id="recordList"></ul>
+      <p class="record-empty" id="recordEmpty">还没有阅读记录。打开一条资讯，这里会自动留下痕迹。</p>
+    </section>
+  </aside>
+</main>
+
+<footer class="footer">
+  <span>AI 前沿日报 · 本地版</span>
+  <span class="foot-dot">✳</span>
+  <span>内容整理自公开报道，仅供信息参考</span>
+
+  <details class="foot-about" id="notePanel">
+    <summary>
+      <span>关于这份日报</span>
+      <svg class="note-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 9l6 6 6-6"/></svg>
+    </summary>
+    <ul class="note-list">
+      <li><b>三条线</b>：模型发布、政策监管、行业动态，各取当日最重要的一到数条。</li>
+      <li><b>来源可查</b>：每篇详情页底部都附原始媒体链接，数字口径以原文为准。</li>
+      <li><b>每日更新</b>：<code>scripts/refresh_news.py</code> 抓取 RSS 并合并进 <code>data/news.js</code>，已有内容不会被覆盖。</li>
+      <li><b>两种风格</b>：右上角可切换「纸感 / 科技」，选择记在本机，下次打开自动沿用。</li>
+      <li><b>隐私</b>：阅读记录与主题选择只存在这台设备的 localStorage 里，删除即清除，不上传。</li>
+    </ul>
+  </details>
+</footer>
+
+<!-- ============ 详情抽屉 ============ -->
+<div class="scrim" id="scrim" hidden></div>
+<article class="drawer" id="drawer" aria-hidden="true" aria-labelledby="drawerTitle" role="dialog" aria-modal="true">
+  <div class="drawer-tape" aria-hidden="true"></div>
+  <button class="drawer-close" id="drawerClose" type="button" aria-label="关闭详情">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+  </button>
+  <div class="drawer-body" id="drawerBody"></div>
+</article>
+<div class="drawer-progress" aria-hidden="true"><i id="drawerProgress"></i></div>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script src="data/news.js"></script>
+<script src="assets/app.js?v=4"></script>
+</body>
+</html>
