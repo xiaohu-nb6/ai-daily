@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T22:39:43+08:00",
+  "updatedAt": "2026-11-03T22:46:11+08:00",
   "edition": "2026-11-03",
   "articles": [
     {
@@ -351,6 +351,185 @@
       ]
     },
     {
+      "id": "auto-03e2e4cc51",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "category": "industry",
+      "date": "2026-11-03",
+      "time": "09:49",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Mond…",
+      "body": [
+        "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
+      ]
+    },
+    {
+      "id": "auto-6fcccb9cd2",
+      "title": "36氪首发丨上海交大副教授做光计算芯片，成立半年获云启、原子等连投5轮，已送流片",
+      "category": "industry",
+      "date": "2026-11-03",
+      "time": "09:09",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4053338933105795?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "算力"
+      ],
+      "summary": "图源/企业 本文约 3300 字，建议阅读 8 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，光计算芯片公司智子光垣已完成数亿元种子轮融资。",
+      "body": [
+        "图源/企业 本文约 3300 字，建议阅读 8 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，光计算芯片公司智子光垣已完成数亿元种子轮融资。公司成立后已连续完成5轮种子轮次融资，投资方包括海桐国际创新中心、云启资本、国泰海通、险峰长青、原子创投、同鑫资本和上海交通大学AI未来基金。资金将主要用于核心芯片研发与流片迭代、高端人才引进与团队建设，以及应用场景拓展与生态合作。",
+        "智子光垣于2026年5月成立，聚焦可重构全光计算架构与光子处理器研发，利用光的并行计算特性直接参与AI运算，绕开传统电子芯片在制程微缩、功耗和散热上的瓶颈，推动光计算从专用加速走向更具通用性的计算平台。",
+        "目前，智子光垣已组建近50人的研发团队，核心成员长期深耕光计算与芯片设计领域，累计完成数十款光芯片的设计、流片及验证，并发表了近20篇Nature/Science系列论文。创始人程远为上海交大人工智能学院副教授，长期从事光子芯片与边缘智能研究，曾任辛米尔科技联合创始人/CTO，主导全栈产品体系搭建。"
+      ]
+    },
+    {
+      "id": "auto-f16256b17f",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "08:35",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely s…",
+      "body": [
+        "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents.",
+        "On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion."
+      ]
+    },
+    {
+      "id": "auto-74809303ae",
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "category": "policy",
+      "date": "2026-11-03",
+      "time": "07:20",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that m…",
+      "body": [
+        "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters.",
+        "According to a complaint filed by the New York Daily News, the Chicago Tribune, and […]"
+      ]
+    },
+    {
+      "id": "auto-560372c941",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "07:13",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The one-year-old startup is now valued at $300 million.",
+      "body": [
+        "The one-year-old startup is now valued at $300 million."
+      ]
+    },
+    {
+      "id": "auto-b628aad82e",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "06:57",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-crea…",
+      "body": [
+        "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware.",
+        "Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]"
+      ]
+    },
+    {
+      "id": "auto-577e89226c",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "06:14",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleratio…",
+      "body": [
+        "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities.",
+        "To the AI doomers, RSI represents the cataclysm from which there is no return."
+      ]
+    },
+    {
+      "id": "auto-6426084df5",
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "category": "industry",
+      "date": "2026-11-03",
+      "time": "02:01",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcomin…",
+      "body": [
+        "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes.",
+        "The announcement comes as opposition to […]"
+      ]
+    },
+    {
+      "id": "auto-f282ddf4dd",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "00:30",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before…",
+      "body": [
+        "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
+      ]
+    },
+    {
+      "id": "auto-d0324cea77",
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "category": "model",
+      "date": "2026-11-03",
+      "time": "00:23",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen i…",
+      "body": [
+        "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\""
+      ]
+    },
+    {
       "id": "anthropic-s1-20261026",
       "title": "Anthropic 递表：上半年营收 162.9 亿美元，冲刺史上最大 IPO",
       "category": "industry",
@@ -371,6 +550,40 @@
         "净亏损 807.48 亿美元看似惊人，但其中约 724 亿美元来自可转换票据等金融工具的公允价值变动，属非现金会计费用，并不等于同期现金消耗。",
         "另一面是算力账单：招股书披露的长期算力义务至少 6570 亿美元，8 份长期合同期限最长至 2045 年；上半年算力与基础设施支出约 89.5 亿美元，已超 2025 年全年 73 亿美元的水平。",
         "估值预期已从最初约 2 万亿美元下调至约 1.5 万亿。作为美股首家聚焦大模型研发的上市公司，它的定价将成为检验 AI 投资信心的压力测试。"
+      ]
+    },
+    {
+      "id": "auto-fcdd9e81af",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "category": "industry",
+      "date": "2026-11-02",
+      "time": "23:00",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
+      "body": [
+        "Two startups tackling the data center water problem are joining forces in a $16 million deal."
+      ]
+    },
+    {
+      "id": "auto-fdfdd9fe03",
+      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "category": "model",
+      "date": "2026-11-02",
+      "time": "21:57",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "body": [
+        "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
       ]
     },
     {
