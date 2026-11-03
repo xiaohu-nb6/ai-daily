@@ -1,6 +1,6 @@
 /* AI 前沿日报 · 数据文件（由 scripts/refresh_news.py 生成，可手工编辑） */
 window.AI_DAILY_DATA = {
-  "updatedAt": "2026-11-03T22:46:11+08:00",
+  "updatedAt": "2026-11-03T22:48:07+08:00",
   "edition": "2026-11-03",
   "articles": [
     {
@@ -655,6 +655,41 @@ window.AI_DAILY_DATA = {
       ]
     },
     {
+      "id": "auto-b99d43a436",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "category": "industry",
+      "date": "2026-11-02",
+      "time": "05:55",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "body": [
+        "Data centers are deeply unpopular.",
+        "But what if we called them something else?"
+      ]
+    },
+    {
+      "id": "auto-b0b0207f4c",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "category": "model",
+      "date": "2026-11-02",
+      "time": "04:57",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "body": [
+        "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+      ]
+    },
+    {
       "id": "gpt61-terra-20261101",
       "title": "OpenAI 上线 GPT-6.1 Terra：把“电脑操作”打到平价",
       "category": "model",
@@ -758,6 +793,41 @@ window.AI_DAILY_DATA = {
         "解法是 Router + Worker 双层架构：Router 作为常驻的全局协调节点，统一接收群聊、GitHub、邮件等多平台消息并分派任务；Worker 各自持有独立上下文并发执行、互不干扰，只向 Router 汇报。",
         "最能体现“自主”的是主动性设计：群聊、邮件、日程、CI 结果都能成为触发事件，先用程序规则过滤噪声，再由模型判断是否行动；团队还引入计算机体系结构里的投机执行思想——有人反馈 Bug 时，AI 先在后台静默复现、分析原因，确认问题存在且找到修复方法后才提交，否则保持安静。",
         "存算分离让云端执行循环不依赖本地电脑在线，外部 Watchdog 负责异常恢复。Agent 竞争的焦点，正从单点工具能力转向操作系统级的任务调度权。"
+      ]
+    },
+    {
+      "id": "auto-5fae58eb8f",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "category": "model",
+      "date": "2026-11-01",
+      "time": "05:41",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "body": [
+        "Apple's new CEO defended the company's current position in the AI landscape."
+      ]
+    },
+    {
+      "id": "auto-3747e4c42b",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "category": "model",
+      "date": "2026-11-01",
+      "time": "00:09",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this…",
+      "body": [
+        "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.",
+        "But I won't be buying one, because we have Muse Charm at home."
       ]
     }
   ]

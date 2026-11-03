@@ -52,6 +52,10 @@ FEEDS = [
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
 
+# 只收最近几天发布的条目：部分源的 RSS 是全量存档（如 VentureBeat 停在数月前），
+# 没有这道闸门的话每跑一次就会把历史存量往前回填 12 条。
+MAX_AGE_DAYS = 3
+
 # 标题级关键词：只认这些，避免「正文提了一句 AI」的泛科技稿混进来
 AI_WORDS = [
     "AI", "人工智能", "大模型", "模型", "智能体", "Agent", "多模态", "算力", "GPU", "芯片",
@@ -344,6 +348,8 @@ def main():
 
     fresh = []
     report = []
+    now_ref = datetime.now(CN_TZ)
+    stale = 0
     for name, url in FEEDS:
         try:
             raw = fetch(url)
@@ -359,7 +365,10 @@ def main():
             blob = it["title"] + " " + it["desc"]
             if it["link"] in known_urls or norm_key(it["title"]) in known_titles:
                 continue
-            dt = to_local(it["pub"]) or datetime.now(CN_TZ)
+            dt = to_local(it["pub"]) or now_ref
+            if now_ref - dt > timedelta(days=MAX_AGE_DAYS):
+                stale += 1
+                continue
             summary = clip(it["desc"] or it["title"], 100)
             body_src = strip_html(it["desc"])
             paragraphs = [p.strip() for p in re.split(r"(?<=[。！？.!?])\s+", body_src) if len(p.strip()) > 30]
@@ -388,6 +397,8 @@ def main():
     print("抓取结果：")
     for name, n, status in report:
         print("  - %-14s 条目 %2d  %s" % (name, n, status))
+    if stale:
+        print("  （另有 %d 条超过 %d 天，属源站历史存量，已跳过）" % (stale, MAX_AGE_DAYS))
     print("\n本次新增 %d 条：" % len(fresh))
     for a in fresh:
         print("  [%s] %s  %s" % (a["category"], a["date"], a["title"][:46]))
@@ -400,6 +411,12 @@ def main():
         data["articles"] = fresh + articles
         if len(data["articles"]) > 300:
             data["articles"] = data["articles"][:300]
+    else:
+        # 没有新条目就不动文件：避免每天产生「只改 updatedAt」的空提交，
+        # 页面上的「更新于」也才真实表示内容最后一次变化的时刻。
+        print("\n本次没有新增条目，数据文件保持不变。")
+        return
+
     now = datetime.now(CN_TZ)
     data["updatedAt"] = now.isoformat(timespec="seconds")
     data["edition"] = now.strftime("%Y-%m-%d")
