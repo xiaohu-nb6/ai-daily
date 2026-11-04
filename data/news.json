@@ -1,7 +1,228 @@
 {
-  "updatedAt": "2026-11-03T22:48:07+08:00",
-  "edition": "2026-11-03",
+  "updatedAt": "2026-11-04T09:35:08+08:00",
+  "edition": "2026-11-04",
   "articles": [
+    {
+      "id": "auto-ed0ba2f331",
+      "title": "硬氪首发丨快手系AI芯片公司凌川科技完成10亿元B轮融资，3D芯片已回片，明年规模出货",
+      "category": "industry",
+      "date": "2026-11-04",
+      "time": "09:33",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4054776980378758?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "多模态",
+        "算力"
+      ],
+      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，人工智能芯片公司「凌川科技」近日完成10亿元B轮融资，本轮融资将主要用于下一代芯片研发与量产及全球市场拓展。",
+      "body": [
+        "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，人工智能芯片公司「凌川科技」近日完成10亿元B轮融资，本轮融资将主要用于下一代芯片研发与量产及全球市场拓展。",
+        "本轮由亦庄国投屹唐盛和基金、启明创投、朝晖资本联合领投，知名投资机构国泰海通开元、华控投资、国寿长三角科创基金、北工投资、建信（北京）投资、沛坤资本、香港科技园创投基金、鼎晖百孚、金舵投资、厦门恒兴、铭时资本，产业投资方石溪资本、龙芯创投、安徽文旅投参与投资，老股东顺禧基金、水木投资集团、九智资本持续追加。",
+        "「凌川科技」由北京市人工智能基金与快手集团共同发起设立，前身为快手集团的异构计算与芯片事业部，专注于智能视频与生成式视频等多模态大模型的底层算力。"
+      ]
+    },
+    {
+      "id": "auto-a16e4e8f09",
+      "title": "用“DNA活字印刷术”给AI造生物数据，「涌源合生」获5000万天使轮融资｜36氪首发",
+      "category": "industry",
+      "date": "2026-11-04",
+      "time": "09:00",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4047812928518660?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "算力",
+        "融资"
+      ],
+      "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，涌源合生科技（深圳）有限公司（下称“涌源合生”）近期已完成5000万元天使轮融资。本轮融资由顺为资本、云沐资本联合投资。",
+      "body": [
+        "文｜胡香赟 编辑｜海若镜 36氪获悉，涌源合生科技（深圳）有限公司（下称“涌源合生”）近期已完成5000万元天使轮融资。本轮融资由顺为资本、云沐资本联合投资。本轮募集资金将用于生产高价值数据集、扩大自研创新的DNA合成技术产能和进一步建设数据铸造基础设施。",
+        "涌源合生定位“AI+生物领域的数据铸造平台”，为科研机构、药企和模型团队提供从序列构建、功能实验到数据整理的一体化服务，并交付AI-ready的序列—功能数据集。",
+        "创始人兼CEO杨宗颖解释，之所以选择这个方向创业，是因为对AI生物设计团队而言，生成候选序列之后，还有一个必须通过实验回答的问题：这些设计在指定条件下究竟表现如何，下一轮应该继续优化哪些方向？“我们希望承接这一环节，将DNA构建、功能测定和数据整理连接起来，围绕客户的研发问题生产序列—功能数据。"
+      ]
+    },
+    {
+      "id": "auto-25bfb2155c",
+      "title": "OpenAI聘请前优步总裁负责全球公关事务，填补空缺10个月职位",
+      "category": "industry",
+      "date": "2026-11-04",
+      "time": "08:54",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4054680839378048?f=rss",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "OpenAI 聘请了优步科技公司的一位高管负责其全球传播事务。这一关键职位此前已空缺近一年；在 OpenAI 应对复杂政治环境并向首次公开募股（IPO）迈进之际，该职位的填补显得尤为重要。",
+      "body": [
+        "OpenAI 聘请了优步科技公司的一位高管负责其全球传播事务。这一关键职位此前已空缺近一年；在 OpenAI 应对复杂政治环境并向首次公开募股（IPO）迈进之际，该职位的填补显得尤为重要。OpenAI周二宣布，吉尔·黑泽尔贝克（Jill Hazelbaker）将加入公司，担任首席企业事务官。黑泽尔贝克此前曾在优步担任总裁兼首席企业事务官。OpenAI表示，她将与公司领导层携手合作，旨在“加深公众对人工智能的理解，并增强公众对其使命的信任”。OpenAI透露，黑泽尔贝克将直接向公司联合创始人兼总裁格雷格·布罗克曼（Greg Brockman）汇报，并于12月初正式入职。（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-ebc887a860",
+      "title": "Edge AI Daily 早报（11月4日）",
+      "category": "industry",
+      "date": "2026-11-04",
+      "time": "08:49",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8192355.html",
+      "featured": false,
+      "tags": [
+        "算力",
+        "融资",
+        "安全"
+      ],
+      "summary": "OpenAI ChatGPT周活达12亿、搜索查询约为谷歌五分之一，GPT-6.2 Astra静默灰度；Anthropic招股书首度披露递归自我改进风险，在8954亿美元算力承诺下",
+      "body": [
+        "OpenAI ChatGPT周活达12亿、搜索查询约为谷歌五分之一，GPT-6.2 Astra静默灰度；Anthropic招股书首度披露递归自我改进风险，在8954亿美元算力承诺下，机构将其估值由2万亿美元下修至1.5万亿–1.6万亿美元。高盛预计五大云厂商2027年AI资本支出达1.2万亿美元，Meta发行投资级债，AMD数据中心营收增97%仍难撼英伟达约80%份额。英伟达、微软押注英国遇电网瓶颈，Marvell以1150亿美元并购Lumentum，YouTube全球推AI替换曲收编版权。国内Apple智能集成阿里千问，影之刃零登顶Steam双区。"
+      ]
+    },
+    {
+      "id": "auto-12cfbf6002",
+      "title": "双11直播间词元热卖，上市公司加码算力经济",
+      "category": "industry",
+      "date": "2026-11-04",
+      "time": "08:47",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4054678231241600?f=rss",
+      "featured": false,
+      "tags": [
+        "算力",
+        "融资"
+      ],
+      "summary": "今年双11大促，词元（Token）一跃成为直播间全新爆款品类。李佳琦直播间上线千问办公个人会员月卡，0.01元体验款半小时售出10万份，对应约2万亿词元调用额度。",
+      "body": [
+        "今年双11大促，词元（Token）一跃成为直播间全新爆款品类。李佳琦直播间上线千问办公个人会员月卡，0.01元体验款半小时售出10万份，对应约2万亿词元调用额度。人工智能（AI）算力服务首次借助头部直播渠道直面海量个人用户，拉开了算力大众化消费的序幕。A股多家算力上市公司在投资者互动平台披露业务进展，从多个维度回复企业在词元经济赛道的布局动态。行云科技相关负责人表示，公司确立“跨境数字贸易+AI算力基础设施”双主业，打造词元工厂业务，在算力合同中设置词元收入分成条款。科大讯飞互动平台信息显示，C端智能办公产品持续放量，个人用户规模扩张带动词元调用规模稳步抬升。（证券时报）"
+      ]
+    },
+    {
+      "id": "auto-9b28b1a699",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "category": "model",
+      "date": "2026-11-04",
+      "time": "08:42",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of ne…",
+      "body": [
+        "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI-generated content on the platform.",
+        "\"One of the most consistent […]"
+      ]
+    },
+    {
+      "id": "auto-3387872182",
+      "title": "科技巨头AI需求放缓？算力产业链企业回应：没有下调迹象，有订单价格上调",
+      "category": "industry",
+      "date": "2026-11-04",
+      "time": "08:36",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4054722107610246?f=rss",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "有传闻称大厂AI需求下调，市场对科技AI支出规模和增长速度担忧加剧。对此，多家算力产业链回应称，目前没有下调迹象，相关业务在手订单充足：协创数据表示，目前没有下调迹象。",
+      "body": [
+        "有传闻称大厂AI需求下调，市场对科技AI支出规模和增长速度担忧加剧。对此，多家算力产业链回应称，目前没有下调迹象，相关业务在手订单充足：协创数据表示，目前没有下调迹象。国内头部互联网厂商明年资本开支预计均维持在较高规模。算力基础设施投资有望维持较高景气度。行云科技表示，公司今年累计公告披露的算力及存储相关订单规模已达约206.41亿元。兆易创新表示，受益于AI快速发展带动对存储芯片需求高增及相关外溢效应，存储行业景气态势仍在延续。行业主要厂商产能收缩/转移（退出利基市场），利基型存储整体仍将处于供应紧张的局面。瑞可达表示，目前，400G/800G AEC产品已实现逐步批量交付，产能持续爬坡。（证券时报）"
+      ]
+    },
+    {
+      "id": "auto-3931f9cfb9",
+      "title": "8点1氪丨豆包用户数被红果超越；iPhone Duo屏幕开裂争议，特努斯首度回应；美股要“通宵”了，纳斯达克将全天交易23小时",
+      "category": "industry",
+      "date": "2026-11-04",
+      "time": "08:01",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4054687391143044?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "多模态",
+        "算力"
+      ],
+      "summary": "今日热点导览 国际奥委会确认中国不申办2036年奥运会 中际旭创总市值跌破6000亿，高盛下调盈利预测 网传昆仑芯IPO推迟，百度否认市场传闻 遭证监会立案调查",
+      "body": [
+        "今日热点导览 国际奥委会确认中国不申办2036年奥运会 中际旭创总市值跌破6000亿，高盛下调盈利预测 网传昆仑芯IPO推迟，百度否认市场传闻 遭证监会立案调查，“好想来”母公司股价大跌 钟薛高“复活”单支低至7.5元 特朗普放话力保马斯克 TOP3大新闻 抖音、红果短剧、豆包、今日头条座次更迭，红果反超豆包成抖音集团第二大应用 QuestMobile发布《中国移动互联网秋季大报告》，截至2026年9月，国内移动互联网月活12.81亿，同比增0.9%，月人均使用时长189.8小时，同比增长6.5%。抖音集团内部应用格局发生重大变化，最新前三大应用为抖音、红果短剧、豆包，去重总用户分别为10.29亿、4.3亿、4.19亿，红果短剧用户规模超过豆包，晋升集团第二大应用；而去年同期集团前三还是抖音、今日头条、抖音极速版。从时长数据看，短剧视频、短视频是拉动全网时长增长两大核心引擎，短剧时长增量断层领先，用户注意力持续从传统长视频向短剧迁移。短剧赛道爆发同时行业洗牌剧烈，河马剧场用户规模下滑，红果漫剧、绿泡泡短剧等新玩家快速起量，流量波动大，能否沉淀留存用户成为下一阶段竞争关键。报告指出，AI原生、短剧内容、社区交易、本地决策与即时履约，正成为大厂重构流量矩阵、争夺用户决策起点的新主战场。（36氪、财联社） 苹果CEO回应iPhone Duo屏幕问题 11月2日美股盘后，苹果公布2026财年第四季度财报，营收同比增长11.7%至1144.77亿美元，摊薄后每股收益同比增长约14%至2.10美元，均高于市场预期。财报电话会上，针对部分用户反馈的iPhone Duo屏幕问题，苹果CEO特努斯回应称，出现问题的设备仅占“极小比例”，苹果正在为受影响用户提供更换服务。此外，特努斯还警告称，受内存价格上涨影响，截至12月的新一季度毛利率将为45%-46%，低于前一季度的47.9%；服务业务收入增速预期为8%-9%，不及分析师10.7%的一致预期。（每日经济新闻） 12月6日起，纳斯达克全天23小时交易 纳斯达克将于12月6日正式实行23小时连续交易，每日仅休市1小时。新增夜盘对应北京时间A股交易时段，美股波动将从隔夜跳空变为盘中实时联动。业内认为，此举意在争夺全球流动性，A股AI、半导体、新能源车等全球化板块会受即时情绪传导；量化机构需要升级跨市场风控模型，多家私募已布局纳指相关产品，而纳指跨境ETF普遍受QDII额度限制出现高溢价。（中新经纬） AI最前沿 近9000亿美元算力支出，Anthropic更新IPO招股书 当地时间11月2日，Anthropic向美国SEC递交修订版S-1招股文件，在首版材料基础上补入三季度完整经营数据。文件显示，三季度，Anthropic营收169.56亿美元，同比增长约12倍；净亏损达233亿美元，高于上年同期的121亿美元。不过，该净亏损含大额优先股、可转债公允价值变动带来的非现金账面损失。同期，公司运营支出同比增长292%，达到175亿美元。截至9月底，Anthropic各项承诺支出总额达8950亿美元，其中约4480亿美元预计将在2030年底前发生。（界面新闻） Seedance海外收入占比已达50%，国内市场腾讯、B站等互联网企业为主要客户 36氪独家获悉，字节跳动旗下视频生成模型Seedance的海外收入占比已达到50%。据接近火山引擎人士透露，过去半年，Seedance在海外市场的收入增长近5倍。目前，海外已经成为Seedance模型的重要战场。在国内，互联网企业仍然是Seedance的主力客户。知情人士透露，从Token消耗和贡献收入来看，腾讯位列Seedance中国区客户前三，B站则进入前十——头部互联网企业正在规模化采购Seedance。",
+        "高通AI Hub面向中国开发者开放 高通技术公司宣布，高通AI Hub现已面向中国开发者开放，为开发者提供用于构建和部署终端侧AI的平台。据介绍，高通AI Hub集高通AI Hub Models、高通AI Hub Workbench、高通AI Hub Apps以及面向终端侧生成式AI推理的GenieX于一体，这些工具能够帮助开发者进行模型探索、模型优化并实现应用集成，以及在智能手机、PC、物联网设备和其他形态上的终端侧部署。（界面新闻） SenseNova 6.8 Flash正式版发布 36氪获悉，11月2日，商汤推出日日新SenseNova 6.8 Flash正式版。围绕真实环境中的复杂任务，持续探索智能能力的边界，针对任务执行与结果交付中的关键难点进行优化。该模型支持跨任务、跨会话协作，将生成能力延伸到更丰富的交付形态。",
+        "大公司/大事件 姚顺宇否认创业：目前仍是DeepMind员工 “我没有创办公司，目前仍是谷歌DeepMind的员工。”11月2日晚间，针对网传其正在筹备一家RSI（递归自我改进）公司的消息，华人AI科学家姚顺宇做出了否认。姚顺宇表示，“我完全不知道这个假消息是从哪里来的。”（澎湃新闻） 国际奥委会确认中国不申办2036年奥运会 国际奥委会当地时间11月2日敲定2036夏奥申办意向名单，共有德国、匈牙利、印度、卡塔尔、韩国、南非、土耳其七国入围，申办窗口期已关闭，没有新增申办国家，中国不在名单内。后续将进入评估流程，2029年年中确定举办地。（新华社） 中际旭创总市值跌破6000亿，高盛下调盈利预测 11月3日，午后CPO概念持续下挫，中际旭创跌超9%，失守500元关口，A+H股总市值跌破6000亿元，股价自2026年6月22日历史高点回撤近65%。消息面上，据金融投资网报道，高盛近日在最新报告中下调中际旭创2026年至2028年收入预测及未来三年净利润预测，核心原因是关键零部件供应紧张已影响公司的生产与交付进度。高盛将2026年收入预测从1318.7亿元下调至1049.14亿元，减少近270亿元，2027年和2028年收入预测分别下调10%和7%。（财联社） 网传昆仑芯IPO推迟，百度否认市场传闻 36氪获悉，11月3日，就近日有关昆仑芯上市时间可能推迟的市场传闻，百度方面回应表示：相关市场传闻及相关报道不属实。百度方面表示，昆仑芯目前处于保密申报阶段。根据监管要求，公司不能披露包括上市流程进展在内的任何重大非公开信息。百度方面表示，未来将适时对外公告，请关注公司后续发布的信息。"
+      ]
+    },
+    {
+      "id": "auto-8ea33bb3c4",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "category": "industry",
+      "date": "2026-11-04",
+      "time": "07:37",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation w…",
+      "body": [
+        "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst.",
+        "I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, […]"
+      ]
+    },
+    {
+      "id": "auto-dd46e92ea7",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "category": "model",
+      "date": "2026-11-04",
+      "time": "06:41",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model…",
+      "body": [
+        "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
+      ]
+    },
+    {
+      "id": "auto-50c17586ad",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "category": "industry",
+      "date": "2026-11-04",
+      "time": "06:19",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn…",
+      "body": [
+        "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
+      ]
+    },
+    {
+      "id": "auto-1c69bd5ae1",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "category": "model",
+      "date": "2026-11-04",
+      "time": "05:43",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund a…",
+      "body": [
+        "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+      ]
+    },
     {
       "id": "auto-9297f87b6a",
       "title": "九赴进博，西门子把工业 AI 推上产线",
