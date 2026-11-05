@@ -1,7 +1,216 @@
 {
-  "updatedAt": "2026-11-04T09:35:08+08:00",
-  "edition": "2026-11-04",
+  "updatedAt": "2026-11-05T09:42:18+08:00",
+  "edition": "2026-11-05",
   "articles": [
+    {
+      "id": "auto-8cf085d77f",
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "category": "model",
+      "date": "2026-11-05",
+      "time": "09:26",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering…",
+      "body": [
+        "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
+      ]
+    },
+    {
+      "id": "auto-a3c3436a81",
+      "title": "腾讯混元Hy4上线，TokenHub调用限时2.5折起",
+      "category": "model",
+      "date": "2026-11-05",
+      "time": "09:02",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4056155946849414?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "多模态",
+        "开源"
+      ],
+      "summary": "11月4日，腾讯混元Hy4正式上线，首次引入视觉理解，可操作电脑完成跨应用任务，综合表现跻身最强开源模型之列。Hy4已上线腾讯云TokenHub，每百万Tokens输入最低0.3元。",
+      "body": [
+        "11月4日，腾讯混元Hy4正式上线，首次引入视觉理解，可操作电脑完成跨应用任务，综合表现跻身最强开源模型之列。Hy4已上线腾讯云TokenHub，每百万Tokens输入最低0.3元。即日起至12月31日，通过TokenHub按量调用享5折；11月18日前通过Token Plan接入享2.5折，全球新老用户同享。"
+      ]
+    },
+    {
+      "id": "auto-db67e22c3f",
+      "title": "Edge AI Daily 早报（11月5日）",
+      "category": "industry",
+      "date": "2026-11-05",
+      "time": "08:36",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8194179.html",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "AI资本竞赛步入重定价期：Meta连发美元与欧元债，Anthropic以五类差异化股权结构备战最高2万亿美元估值IPO，市场对资本开支回报率的质疑显性化。",
+      "body": [
+        "AI资本竞赛步入重定价期：Meta连发美元与欧元债，Anthropic以五类差异化股权结构备战最高2万亿美元估值IPO，市场对资本开支回报率的质疑显性化。"
+      ]
+    },
+    {
+      "id": "auto-210f3f6892",
+      "title": "国金证券：AI眼镜全彩化与AI交互共振，镜片与渠道有望提前受益",
+      "category": "model",
+      "date": "2026-11-05",
+      "time": "08:35",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4056136274465921?f=rss",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "36氪获悉，国金证券研报称，深圳智能眼镜产业发展论坛举办，Rokid Color发布，雷鸟iO+官宣，行业竞争重心转向全彩显示+Agent能力+内容生态的综合体验竞争。",
+      "body": [
+        "36氪获悉，国金证券研报称，深圳智能眼镜产业发展论坛举办，Rokid Color发布，雷鸟iO+官宣，行业竞争重心转向全彩显示+Agent能力+内容生态的综合体验竞争。AI眼镜向可承载社交内容、任务流交互等的下一代近眼终端演进。国金证券认为，内容承载能力提升会提高配套的近视配镜、功能镜片、线下体验、交付与售后体系的重要性，镜片与渠道的产业价值会明显抬升。"
+      ]
+    },
+    {
+      "id": "auto-1bad72cb03",
+      "title": "字节新规限制员工使用外部AI？知情人士回应",
+      "category": "model",
+      "date": "2026-11-05",
+      "time": "08:34",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4056135544165507?f=rss",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "据媒体报道，近日，字节跳动出台新规，将大面积限制Claude、Codex等个人账号的内部使用。消息称，本月起，字节跳动将会对所有L4级别的代码仓库和飞书文档进行外部AI访问封禁，覆盖范围全公司",
+      "body": [
+        "据媒体报道，近日，字节跳动出台新规，将大面积限制Claude、Codex等个人账号的内部使用。消息称，本月起，字节跳动将会对所有L4级别的代码仓库和飞书文档进行外部AI访问封禁，覆盖范围全公司，员工个人采买的AI账号不能再用。对此，有知情人士表示，“员工使用外部AI工具的个人账号处理市场上公开的工作信息，或者用于个人生活等非工作场景，是不受限制的。”（新浪科技）"
+      ]
+    },
+    {
+      "id": "auto-7e5bd8c213",
+      "title": "A One-Cent Livestream Does Not Make Office AI a Mass Habit",
+      "category": "model",
+      "date": "2026-11-05",
+      "time": "08:27",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8194255.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Alibaba used a top host and a near-free month card to put Qwen Office in front of a festival audien…",
+      "body": [
+        "Alibaba used a top host and a near-free month card to put Qwen Office in front of a festival audience.",
+        "The token slogans traveled far.",
+        "The business test starts when the discount ends."
+      ]
+    },
+    {
+      "id": "auto-78e69393a3",
+      "title": "【钛晨报】五部门最新部署：“一行一策”开展节能改造，加强原材料回收利用；字节限制外部AI工具访问内部资料？知情人士回应；倍轻松实控人被罚没1184万元、禁入证券市场5年",
+      "category": "industry",
+      "date": "2026-11-05",
+      "time": "07:20",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8194022.html",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "央行今日开展3000亿元买断式逆回购操作；华为、阿里等20家单位共建智能体互联基础设施，加速智能体赋能千行百业；比亚迪辟谣“天神之眼智驾方案更换及停产”；董宇辉官宣新品牌；",
+      "body": [
+        "央行今日开展3000亿元买断式逆回购操作；华为、阿里等20家单位共建智能体互联基础设施，加速智能体赋能千行百业；比亚迪辟谣“天神之眼智驾方案更换及停产”；董宇辉官宣新品牌；德明利拟每10股派现6元，控股股东承诺延长一年不减持；三环集团拟5亿元至10亿元回购公司股份。"
+      ]
+    },
+    {
+      "id": "auto-23dbcbf1ed",
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "category": "model",
+      "date": "2026-11-05",
+      "time": "06:45",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results.",
+      "body": [
+        "AI industry PACs spent millions influencing the 2026 midterms, with mixed results.",
+        "Political groups are already looking toward the next election cycle."
+      ]
+    },
+    {
+      "id": "auto-118d4ac9e1",
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "category": "model",
+      "date": "2026-11-05",
+      "time": "06:13",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO s…",
+      "body": [
+        "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains."
+      ]
+    },
+    {
+      "id": "auto-787e6b9b72",
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "category": "model",
+      "date": "2026-11-05",
+      "time": "05:56",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+      "body": [
+        "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent."
+      ]
+    },
+    {
+      "id": "auto-5488338aca",
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "category": "model",
+      "date": "2026-11-05",
+      "time": "05:25",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that co…",
+      "body": [
+        "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests."
+      ]
+    },
+    {
+      "id": "auto-5fecffa6a5",
+      "title": "Meta acquires AI coding startup Conductor",
+      "category": "industry",
+      "date": "2026-11-05",
+      "time": "05:10",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "The startup allows software engineers to deploy teams of agents to work on various aspects of a pro…",
+      "body": [
+        "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously."
+      ]
+    },
     {
       "id": "auto-ed0ba2f331",
       "title": "硬氪首发丨快手系AI芯片公司凌川科技完成10亿元B轮融资，3D芯片已回片，明年规模出货",
