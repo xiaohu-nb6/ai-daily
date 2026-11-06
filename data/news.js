@@ -1,8 +1,218 @@
 /* AI 前沿日报 · 数据文件（由 scripts/refresh_news.py 生成，可手工编辑） */
 window.AI_DAILY_DATA = {
-  "updatedAt": "2026-11-05T09:42:18+08:00",
-  "edition": "2026-11-05",
+  "updatedAt": "2026-11-06T09:42:57+08:00",
+  "edition": "2026-11-06",
   "articles": [
+    {
+      "id": "auto-48a66c3a47",
+      "title": "20家大厂签约，AI操作App仍要过三道关",
+      "category": "model",
+      "date": "2026-11-06",
+      "time": "09:40",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8195245.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "20家大厂签约推动AI互联，155款App却拒绝豆包操作。开放背后，谁掌握平台控制权？",
+      "body": [
+        "20家大厂签约推动AI互联，155款App却拒绝豆包操作。开放背后，谁掌握平台控制权？"
+      ]
+    },
+    {
+      "id": "auto-105c0ebeb2",
+      "title": "AI不全是坏消息，这两只股票正逆势走强",
+      "category": "industry",
+      "date": "2026-11-06",
+      "time": "09:38",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8195537.html",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "由人工智能驱动的广告业务推动了两家公司的业绩增长，在外界对数据中心支出担忧、科技股遭受重挫之际，这带来了一抹亮色。",
+      "body": [
+        "由人工智能驱动的广告业务推动了两家公司的业绩增长，在外界对数据中心支出担忧、科技股遭受重挫之际，这带来了一抹亮色。"
+      ]
+    },
+    {
+      "id": "auto-2f9880fc6e",
+      "title": "6只可避开AI交易的安全股息股",
+      "category": "industry",
+      "date": "2026-11-06",
+      "time": "09:36",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8195530.html",
+      "featured": false,
+      "tags": [
+        "安全"
+      ],
+      "summary": "我们寻找的是那些收益率高、安全性强，并且与当前令市场困扰的人工智能交易关联度很低的标的。",
+      "body": [
+        "我们寻找的是那些收益率高、安全性强，并且与当前令市场困扰的人工智能交易关联度很低的标的。"
+      ]
+    },
+    {
+      "id": "auto-fe42d591d0",
+      "title": "货币资金不足12亿，百亿游戏巨头拟砸42亿买GPU",
+      "category": "industry",
+      "date": "2026-11-06",
+      "time": "09:31",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8195221.html",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "这一金额相当于游族网络2025年全年营收14.02亿元的3倍、2026年前三季度营收10.63亿元的4倍。",
+      "body": [
+        "这一金额相当于游族网络2025年全年营收14.02亿元的3倍、2026年前三季度营收10.63亿元的4倍。"
+      ]
+    },
+    {
+      "id": "auto-aa6a15d4bd",
+      "title": "英伟达CPU下场，要推翻Chiplet？",
+      "category": "industry",
+      "date": "2026-11-06",
+      "time": "09:22",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8195036.html",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "方寸芯片之间，藏着性能、成本与集成效率的博弈。",
+      "body": [
+        "方寸芯片之间，藏着性能、成本与集成效率的博弈。"
+      ]
+    },
+    {
+      "id": "auto-9c73930228",
+      "title": "Meta收购AI代码初创公司Conductor",
+      "category": "industry",
+      "date": "2026-11-06",
+      "time": "09:13",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4057581194056834?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体"
+      ],
+      "summary": "多名知情人士透露，Meta收购了AI代码初创企业Conductor，这款产品可以让程序员同时管理多个代码智能体。代码已经成为AI落地、抢占企业开支的关键赛道",
+      "body": [
+        "多名知情人士透露，Meta收购了AI代码初创企业Conductor，这款产品可以让程序员同时管理多个代码智能体。代码已经成为AI落地、抢占企业开支的关键赛道，Meta正加入OpenAI等AI巨头的竞争，争夺开发者工具生态。这笔收购体现Meta持续加码AI的野心，将为其自研模型与生态打下基础，争夺开发者群体——开发者是AI最重要的核心用户。（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-02359ac815",
+      "title": "工信部：加强智能体终端设备进网管理",
+      "category": "model",
+      "date": "2026-11-06",
+      "time": "09:08",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4057584511800452?f=rss",
+      "featured": false,
+      "tags": [
+        "智能体",
+        "安全"
+      ],
+      "summary": "36氪获悉，工信部发布关于加强智能体终端设备进网管理的通知。其中提到，改进智能体终端进网管理。开展风险评估，完善电信设备进网检测机制，细化特别规定事项要求。",
+      "body": [
+        "36氪获悉，工信部发布关于加强智能体终端设备进网管理的通知。其中提到，改进智能体终端进网管理。开展风险评估，完善电信设备进网检测机制，细化特别规定事项要求。预置智能体的手机、平板、可穿戴设备等智能体终端，须在进网检测中依据有关标准开展智能体适配验证；依法开展智能体终端涉诈风险安全评估和反诈能力前置性评测，落实重要通信工作要求。终端上使用的智能体应参考智能体互联系列国家标准配备唯一身份码。终端生产企业应当保证智能体终端获得进网许可证前后的一致性。智能体终端发生重大变化的，终端生产企业应当向工业和信息化部报备，并按要求开展进网检测。"
+      ]
+    },
+    {
+      "id": "auto-aa18dc7561",
+      "title": "芯片股正诸事不顺，5只股票跌到甩卖价",
+      "category": "industry",
+      "date": "2026-11-06",
+      "time": "08:53",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8195357.html",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "这波暴跌并不意味着要夺路而逃，但投资者应当明智地挑选半导体板块的个股。",
+      "body": [
+        "这波暴跌并不意味着要夺路而逃，但投资者应当明智地挑选半导体板块的个股。"
+      ]
+    },
+    {
+      "id": "auto-5dc2b604e9",
+      "title": "对冲基金VARA在AI股票的“惨烈”10月暴跌33%",
+      "category": "industry",
+      "date": "2026-11-06",
+      "time": "08:52",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4057557508379783?f=rss",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "全仓押注AI概念的对冲基金Value Aligned Research Advisors（VARA）上个月遭遇了重创，随着AI股票面临痛苦的估值重估，该基金单月暴跌33%。",
+      "body": [
+        "全仓押注AI概念的对冲基金Value Aligned Research Advisors（VARA）上个月遭遇了重创，随着AI股票面临痛苦的估值重估，该基金单月暴跌33%。据一位要求匿名以讨论非公开信息的知情人士透露，VARA的投资组合与Leopold Aschenbrenner旗下的Situational Awareness基金类似。该机构告知C类份额投资者，尽管遭遇大跌，其基金今年迄今仍录得13%的正收益。而在7月份，该对冲基金的表现更为惨淡，曾一度重挫44%。（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-37e828ada5",
+      "title": "Edge AI Daily 早报（11月6日）",
+      "category": "industry",
+      "date": "2026-11-06",
+      "time": "08:51",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8195291.html",
+      "featured": false,
+      "tags": [
+        "算力",
+        "政策",
+        "融资"
+      ],
+      "summary": "2026年美国中期选举后，民主党横扫关键州长席位，全美多地数据中心公投多数被否，AI基建竞争从资本规模转向政治与许可博弈，英伟达单日重挫9%，AI抛售抹去2.3万亿美元市值",
+      "body": [
+        "2026年美国中期选举后，民主党横扫关键州长席位，全美多地数据中心公投多数被否，AI基建竞争从资本规模转向政治与许可博弈，英伟达单日重挫9%，AI抛售抹去2.3万亿美元市值，而亚马逊、微软等超大规模云厂商因监管预期上涨。融资端，30年期美债收益率守在5.25%，微软下调50亿美元资本开支，谷歌为Anthropic约190亿美元租约提供信用兜底，Anthropic递交最高2万亿美元估值S-1，OpenAI预计2027年具备上市条件。谷歌搜索广告增速放缓至12%，AI查询侵蚀核心变现。OpenAI发布GPT-6 Cyber，其自动化链路10天识别948个Linux提权漏洞，网络安全经济学生变。"
+      ]
+    },
+    {
+      "id": "auto-5219989bfa",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "category": "industry",
+      "date": "2026-11-06",
+      "time": "08:37",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center exp…",
+      "body": [
+        "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials.",
+        "Many data center projects have come under scrutiny for relying on NDAs to hide discussions […]"
+      ]
+    },
+    {
+      "id": "auto-84201cadb8",
+      "title": "Airbnb is working on an AI travel agent",
+      "category": "model",
+      "date": "2026-11-06",
+      "time": "08:06",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book t…",
+      "body": [
+        "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today.",
+        "\"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said."
+      ]
+    },
     {
       "id": "auto-8cf085d77f",
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
