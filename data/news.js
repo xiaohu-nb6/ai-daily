@@ -1,8 +1,228 @@
 /* AI 前沿日报 · 数据文件（由 scripts/refresh_news.py 生成，可手工编辑） */
 window.AI_DAILY_DATA = {
-  "updatedAt": "2026-11-06T09:42:57+08:00",
-  "edition": "2026-11-06",
+  "updatedAt": "2026-11-07T09:30:23+08:00",
+  "edition": "2026-11-07",
   "articles": [
+    {
+      "id": "auto-f0306b5922",
+      "title": "9点1氪丨豆包工作个人版取消5小时额度限制；人类低温纪录被打破；美科技股反弹，SpaceX市值一夜暴涨9653亿",
+      "category": "industry",
+      "date": "2026-11-07",
+      "time": "09:10",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4058997417563266?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "多模态"
+      ],
+      "summary": "今日热点导览 OpenAI完成110亿美元新融资，估值1.25万亿美元 美国企业支付开源模型费用89%流向中国 宝马中国辟谣气囊召回短信 谷歌加入科技企业裁员大潮 日本股市进入技术性熊市",
+      "body": [
+        "今日热点导览 OpenAI完成110亿美元新融资，估值1.25万亿美元 美国企业支付开源模型费用89%流向中国 宝马中国辟谣气囊召回短信 谷歌加入科技企业裁员大潮 日本股市进入技术性熊市，日经225指数盘中跌超6% TOP 3大新闻 豆包工作个人版取消5小时额度限制 记者获悉，11月6日起，豆包工作个人版取消5小时额度限制。调整后，个人用户不再受到5小时短周期额度限制，可以在周额度范围内，根据实际工作节奏灵活安排使用时间。周额度及其他使用规则仍以对应套餐为准。据了解，此前豆包工作个人版与市面上主流大模型类似，采用5小时、7天双周期额度管理。即使周额度仍有剩余，用户在达到5小时额度上限后，也需等待短周期额度重置才能继续使用。（贝壳财经） 人类低温纪录被打破 11月6日，中国科学院空间应用工程与技术中心发布中国空间站最新科研成果。我国科研团队利用中国空间站梦天舱的超冷原子物理实验柜，制造出已知最冷人造物质，刷新人类最低温物质纪录，朝着绝对零度再进一步。绝对零度，即零下273.15摄氏度，是宇宙里最低温度的下限。按照热力学第三定律，人类只能无限接近它，却永远无法真正达到。在本次探索极低温实验中，科研团队利用全光阱冷却技术，成功将中国空间站超冷原子实验柜中的铷原子云等效温度降至9.7皮开尔文，这是室温下物质温度的约一百万亿分之一，并持续观测了7秒。（财联社） 美科技股反弹，SpaceX市值一夜暴涨9653亿 美东时间周五，美股三大指数收盘涨跌不一，道指跌0.46%，标普500指数涨0.31%，纳指涨1.09%。板块方面，大型科技股涨跌不一，特斯拉涨4.23%，英伟达涨2.78%，脸书涨0.84%，谷歌涨0.78%，亚马逊跌0.35%，苹果跌0.52%，微软跌0.99%。存储芯片股多数走强，希捷科技跌1.19%，闪迪涨3.55%，美光科技涨5.12%，西部数据跌1.44%，SK海力士涨2.78%。SpaceX涨超8%，市值一夜大涨约1446 亿美元（约合人民币9653亿元）。半导体股全线收涨，超威半导体涨11.04%，英特尔涨7.71%，台积电涨6.26%，高通涨5.52%，阿斯麦涨5.02%，ARM涨4.74%，博通涨0.74%。（中新经纬） AI最前沿 OpenAI完成110亿美元新融资，估值1.25万亿美元，软银、红杉资本等参投 据知情人士透露，OpenAI已完成约110亿美元的新融资，这是本轮估值1.25万亿美元融资的首笔部分。资金已于周五划入公司账户。本轮剩余部分——总额可能增至最高200亿美元——预计将在未来数周内完成。在推迟了首次公开募股（IPO）计划后，这家AI开发商已就一轮大额融资洽谈了一个多月。OpenAI最初计划以1.4万亿美元估值融资300亿美元或更多，随后在AI板块遭遇公开市场暴跌的背景下缩减了计划。参与首笔交割的投资者包括Coatue Management和T.",
+        "Rowe Price。本轮其他投资者包括软银集团、红杉资本、Founders Fund和Andreessen Horowitz。一个来自阿联酋的投资者财团也已加入。OpenAI正与投行合作，向高净值个人和零售投资者募资。（华尔街见闻） Meta收购AI代码初创公司Conductor 多名知情人士透露，Meta收购了AI代码初创企业Conductor，这款产品可以让程序员同时管理多个代码智能体。代码已经成为AI落地、抢占企业开支的关键赛道，Meta正加入OpenAI等AI巨头的竞争，争夺开发者工具生态。这笔收购体现Meta持续加码AI的野心，将为其自研模型与生态打下基础，争夺开发者群体——开发者是AI最重要的核心用户。（新浪财经） 谷歌推出Gemini Omni 1.2 Flash，价格下调30% 当地时间11月5日，谷歌宣布正式推出视频生成模型Gemini Omni 1.2 Flash，并在Gemini API和Gemini for Business中全面开放。谷歌表示，Gemini Omni 1.2 Flash引入了原生15秒视频创作、多轮对话式编辑功能以及增强的参考遵循能力。该模型价格较Gemini Omni 1.1下调30%，720p分辨率下定价为每秒0.07美元。（界面新闻） OpenAI推出网络安全模型GPT-6 Cyber 北京时间11月6日，OpenAI宣布推出GPT-6 Cyber，一款经过训练、能够发现并验证可被利用的漏洞，同时始终不超出研究人员所设定范围的网络安全模型。GPT-6 Cyber首批通过API与Codex向一小部分获批的Daybreak Red客户开放，并将逐步把访问范围扩大到所有DaybreakRed客户，同时也将GPT-5.6 Cyber开放给全体Daybreak Red客户。（界面新闻） Anthropic为Claude上线个人理财功能 Anthropic宣布，将为Claude推出个人理财功能。在公司筹备IPO的时间点，理财咨询一直是用户向这款对话机器人咨询最多的需求方向之一。（新浪财经） 大公司/大事件 美国企业支付开源模型费用89%流向中国 硅谷知名风险投资机构门罗风投（Menlo Ventures）发布的《2026年企业AI现状报告》显示，美国企业用于开源模型的支出中，89%付给了中国模型。前三名中，Kimi占61%，DeepSeek占15%，GLM占11%。",
+        "在全球AI模型聚合平台OpenRouter上，10月26日至11月1日这一周，中国大模型词元（Token）调用量已连续27周超过美国模型。当周平台模型调用量排名前五的模型中，中国模型占据四席。（第一财经） 小米汽车架构调整：成立国际业务部，副总裁于立国兼任总经理 11月6日消息，据新浪科技报道，小米汽车近日宣布迎来架构调整，成立国际业务部，任命汽车部副总裁于立国兼任国际业务部总经理，向集团CEO、汽车部总裁雷军和集团总裁卢伟冰双线汇报。同时，小米汽车国际业务部下设汽车国际市场部，相关工作向国际业务部总经理于立国和集团副总裁、CMO许斐双线汇报。下设GTM部、销售部、 网络发展部、交付物流部、用户服务部、综合管理部、海外各地区部，相关工作向国际业务部总经理于立国汇报。（新浪科技） 中国石油、宇树科技，联手新设合营企业 据北京市市场监督管理局近日公示信息，中国石油集团昆仑制造有限公司（下称“昆仑制造”）及其一致行动人昆仑资本，拟与宇树科技股份有限公司（下称“宇树科技”）、北京泛界智能科技有限公司（下称“泛界智能”）签署协议，共同新设一家合营企业。该合营企业将主攻工业具身智能机器人解决方案业务，目前相关经营者集中简易案件已进入公示期，公示期为2026年11月4日至11月13日。根据公示的股权结构，交易完成后，昆仑制造及其一致行动人将合计持有合营企业60%的股份，宇树科技与泛界智能则各持有20%股份，三方将共同控制该合营企业。（财联社） OpenAI承诺公布数据中心用水量，并委托进行独立的噪音研究 OpenAI周四表示，将公布其数据中心的用水量，公开建设方案，并在数据中心投入运营前委托进行独立的噪音研究。该公司还承诺，不会要求与其讨论这些备受争议的设施的公职人员签署保密协议。在至少38个司法管辖区的选民通过限制或禁止数据中心建设的法案两天后，OpenAI发布了其“国家社区契约”。（新浪财经） 韩国股市今年第11次触发熔断 韩国综合股价指数（KOSPI）今天（11月6日）暴跌，跌幅超过8%，触发熔断机制，暂停交易20分钟。这是韩国有价证券市场今年第11次触发熔断。熔断解除之后，有价证券市场触发暂停程序化交易卖单的临时停牌机制。KOSPI自今年2月6日以来再次失守5000点，据分析，在美国民主党赢得中期选举的背景下，市场担忧人工智能数据中心项目将面临监管风险，导致美国股市遭遇科技股大抛售，KOSPI受此影响大跌。据财联社消息，韩国财长称，股市对外部因素反应过度。韩国经济基本面稳健，需警惕市场过度恐慌。将主动出手，避免市场恐慌情绪进一步发酵；将以最高警戒级别监控股市；将放宽融资投资相关监管，平抑市场波动。（CCTV国际时讯） 美股持仓遭遇大跌，但斌回应 美股科技股昨夜遭遇大幅抛售，东方港湾董事长但斌旗下海外基金此前披露的多只重仓股也在下跌之列。11月6日上午，面对市场对AI投资前景的担忧，但斌在社交平台回应称，可以承认这是一次阶段性冲击，但就此判定AI时代落幕，他认为概率极小。（财联社） 图片：微博截图 谷歌加入科技企业裁员大潮 谷歌正在推出自愿离职补偿方案；与此同时微软、甲骨文、Meta也在收缩人员规模。今年大型科技企业的裁员+买断离职总人数已经突破10万人。无论裁员动因是AI带来的效率提升，还是数据中心巨额开支造成的压力，裁员节奏几乎没有放缓迹象，甚至可能进一步加速。（新浪财经） 三星电子越南手机基地面临关税风险 越南是三星电子最大智能手机生产基地。随着美国总统特朗普加码关税政策，越南正面临越来越大压力。美国政府正在调查越南的知识产权保护情况，计划在本月底决定是否征额外关税。三星销往美国市场的智能手机有很大一部分在越南生产，一旦加征关税，将冲击其定价能力与利润率。美国贸易代表办公室（USTR）6日称，美方计划在29日完成针对越南知识产权保护与执法情况的301调查。（新浪财经） Martine Rose出任巴黎世家创意总监，11月16日正式履职 11月6日，开云集团宣布，英国时装设计师马丁·罗斯（Martine Rose）出任旗下品牌巴黎世家创意总监，将于11月16日在巴黎正式履职。（界面新闻） 宝马中国辟谣气囊召回短信 11月6日，宝马中国发布声明：近期发现有不法分子冒充宝马官方，以“车辆召回”为名实施电信诈骗。近期流传的此类“召回通知”均非宝马官方发布。宝马官方发布的召回通知不会以任何名义引导车主提供银行卡、验证码等敏感信息，或进行转账、付款等操作。如需确认车辆是否涉及官方召回，请通过国家市场监管总局缺陷产品召回技术中心官方渠道进行查询，或联系宝马客户服务中心、宝马授权经销商进行核实。（界面新闻） 日本股市进入技术性熊市，日经225指数盘中跌超6% 11月6日，随着全球科技股抛售潮蔓延，日本股市遭遇重挫。日经225指数开盘后持续走低，盘中跌幅一度扩大至7%，跌破备受关注的60000点整数关口，较今年6月份创下的历史峰值回撤超过20%，正式步入技术性熊市区间。个股方面，AI及半导体产业链成为抛售重灾区，东京电子下跌13%，爱德万测试跌13%，软银集团跌14%。"
+      ]
+    },
+    {
+      "id": "auto-cd93b258e6",
+      "title": "Anthropic拟于下周启动IPO路演",
+      "category": "industry",
+      "date": "2026-11-07",
+      "time": "09:03",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4058931650761863?f=rss",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "媒体援引知情人士报道称，Anthropic PBC计划于下周启动首次公开募股（IPO）的正式推介，向潜在投资者展开营销。此次IPO路演是在科技股经历两周剧烈波动之后进行的。",
+      "body": [
+        "媒体援引知情人士报道称，Anthropic PBC计划于下周启动首次公开募股（IPO）的正式推介，向潜在投资者展开营销。此次IPO路演是在科技股经历两周剧烈波动之后进行的。此前，投资者对亚马逊和谷歌公布的巨额AI支出计划，以及民主党在中期选举中的压倒性胜利作出了反应。周五，科技股虽出现反弹，但全周仍收跌3%。Anthropic正继续推进其上市计划，拟于11月16日当周挂牌，赶在美国感恩节假期之前。市场此前预计，该公司将以1.5万亿美元的估值筹集超过800亿美元资金，但近期市场对AI相关股票及支出的担忧，可能会促使它寻求一个更低的估值。"
+      ]
+    },
+    {
+      "id": "auto-0c650ea16a",
+      "title": "微软据悉逐步终止从甲骨文租用AI云算力的安排",
+      "category": "industry",
+      "date": "2026-11-07",
+      "time": "08:30",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4058927613580166?f=rss",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "微软正在逐步终止从甲骨文租用AI算力的安排。知情人士称，微软在决定不续签合同后，几个月来微软开始逐步停用从甲骨文租用的算力。",
+      "body": [
+        "微软正在逐步终止从甲骨文租用AI算力的安排。知情人士称，微软在决定不续签合同后，几个月来微软开始逐步停用从甲骨文租用的算力。知情人士表示，随着时间推移，微软租用的这些算力已不再那么有用，因为不再符合公司的规格要求。知情人士称，甲骨文的硬件使用的是较老一代英伟达芯片。（财联社）"
+      ]
+    },
+    {
+      "id": "auto-923d2edde7",
+      "title": "Edge AI Daily 早报（11月7日）",
+      "category": "industry",
+      "date": "2026-11-07",
+      "time": "08:28",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8196982.html",
+      "featured": false,
+      "tags": [
+        "算力",
+        "政策",
+        "融资"
+      ],
+      "summary": "Anthropic递交修订版S-1，机构将估值由2万亿美元压至1.5万亿至1.6万亿；OpenAI完成110亿美元首期交割，投前估值1.25万亿，总额由300亿砍至约200亿",
+      "body": [
+        "Anthropic递交修订版S-1，机构将估值由2万亿美元压至1.5万亿至1.6万亿；OpenAI完成110亿美元首期交割，投前估值1.25万亿，总额由300亿砍至约200亿，AI一级市场进入现金流定价期。中期选举后10州41项数据中心公投多数通过限制，得州、弗吉尼亚监管转向与微软终止甲骨文逾30亿美元租约共振；英伟达单日跌9.26%、纳指周跌5.52%，麦格理套现560亿美元离场转投电力。"
+      ]
+    },
+    {
+      "id": "auto-3dd7e15980",
+      "title": "OpenAI完成110亿美元新融资，估值1.25万亿美元，软银、红杉资本等参投",
+      "category": "industry",
+      "date": "2026-11-07",
+      "time": "08:15",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4058926444729220?f=rss",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "据知情人士透露，OpenAI已完成约110亿美元的新融资，这是本轮估值1.25万亿美元融资的首笔部分。 资金已于周五划入公司账户。",
+      "body": [
+        "据知情人士透露，OpenAI已完成约110亿美元的新融资，这是本轮估值1.25万亿美元融资的首笔部分。",
+        "资金已于周五划入公司账户。本轮剩余部分——总额可能增至最高200亿美元——预计将在未来数周内完成。",
+        "在推迟了首次公开募股（IPO）计划后，这家AI开发商已就一轮大额融资洽谈了一个多月。OpenAI最初计划以1.4万亿美元估值融资300亿美元或更多，随后在AI板块遭遇公开市场暴跌的背景下缩减了计划。"
+      ]
+    },
+    {
+      "id": "auto-10203da498",
+      "title": "美股三大指数收盘涨跌不一，芯片股反弹",
+      "category": "industry",
+      "date": "2026-11-07",
+      "time": "07:46",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4058919436883078?f=rss",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "36氪获悉，11月6日收盘，美股三大指数收盘涨跌不一，道指跌0.46%，纳指涨1.09%，标普500指数涨0.32%。",
+      "body": [
+        "36氪获悉，11月6日收盘，美股三大指数收盘涨跌不一，道指跌0.46%，纳指涨1.09%，标普500指数涨0.32%。芯片股周五反弹，费城半导体指数涨4.2%，AMD涨超11%，Cerebras涨超9%，英特尔涨超7%，台积电涨超6%，高通、阿斯麦涨超5%。美股“科技七巨头”涨跌不一，特斯拉涨4.18%，英伟达涨2.87%，Meta Platforms涨0.84%，谷歌涨0.75%，亚马逊跌0.33%，苹果跌0.51%，微软跌0.98%。"
+      ]
+    },
+    {
+      "id": "auto-90effe4145",
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "category": "industry",
+      "date": "2026-11-07",
+      "time": "07:46",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billio…",
+      "body": [
+        "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg.",
+        "That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion.",
+        "Echoing FT and Wall Street Journal […]"
+      ]
+    },
+    {
+      "id": "auto-db16dc0333",
+      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "category": "industry",
+      "date": "2026-11-07",
+      "time": "07:00",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen H…",
+      "body": [
+        "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times.",
+        "The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]"
+      ]
+    },
+    {
+      "id": "auto-4fbd56783b",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "category": "industry",
+      "date": "2026-11-07",
+      "time": "06:53",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't close…",
+      "body": [
+        "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
+      ]
+    },
+    {
+      "id": "auto-bf8752ca84",
+      "title": "AI is the new dating dealbreaker",
+      "category": "industry",
+      "date": "2026-11-07",
+      "time": "05:51",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new peo…",
+      "body": [
+        "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does.",
+        "After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend."
+      ]
+    },
+    {
+      "id": "auto-f0eea35993",
+      "title": "All the latest updates on AI data centers",
+      "category": "industry",
+      "date": "2026-11-07",
+      "time": "04:03",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI.",
+      "body": [
+        "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI.",
+        "But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment.",
+        "Data centers were a major bipartisan issue ahead […]"
+      ]
+    },
+    {
+      "id": "auto-cc0489bf63",
+      "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+      "category": "model",
+      "date": "2026-11-07",
+      "time": "04:00",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Meta will now allow you to build customized, app-like experiences within Muse.",
+      "body": [
+        "Meta will now allow you to build customized, app-like experiences within Muse.",
+        "The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the Muse app.",
+        "Meta says you can create a new space by […]"
+      ]
+    },
     {
       "id": "auto-48a66c3a47",
       "title": "20家大厂签约，AI操作App仍要过三道关",
