@@ -1,7 +1,209 @@
 {
-  "updatedAt": "2026-11-07T09:30:23+08:00",
-  "edition": "2026-11-07",
+  "updatedAt": "2026-11-08T09:39:41+08:00",
+  "edition": "2026-11-08",
   "articles": [
+    {
+      "id": "auto-fc8dc19e3d",
+      "title": "Edge AI Daily 早报（11月8日）",
+      "category": "industry",
+      "date": "2026-11-08",
+      "time": "08:58",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8197405.html",
+      "featured": false,
+      "tags": [
+        "智能体",
+        "算力",
+        "融资"
+      ],
+      "summary": "AI资本重定价：OpenAI首笔融资110亿美元、估值1.25万亿美元但目标缩减，Anthropic IPO估值下修；",
+      "body": [
+        "AI资本重定价：OpenAI首笔融资110亿美元、估值1.25万亿美元但目标缩减，Anthropic IPO估值下修；科技股抛售、微软停租甲骨文旧芯片、欧央行审查数据中心贷款，Meta发债250亿美元。Meta免费下放Muse主动记忆，谷歌PPG高血压筛查登《自然》，特斯拉拟租赁Optimus，OpenAI逆势扩张数据中心，AWS切割H100。Agent与6G开源标准推进；中国侧苹果Siri AI入华开关现身，美制裁中企。"
+      ]
+    },
+    {
+      "id": "auto-5086a4279d",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "category": "model",
+      "date": "2026-11-08",
+      "time": "05:17",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recr…",
+      "body": [
+        "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+      ]
+    },
+    {
+      "id": "auto-1b9c00e732",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "category": "policy",
+      "date": "2026-11-07",
+      "time": "23:47",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on somet…",
+      "body": [
+        "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at.",
+        "A nightly battle in which the chicken usually wins."
+      ]
+    },
+    {
+      "id": "auto-00109065c6",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "category": "industry",
+      "date": "2026-11-07",
+      "time": "23:43",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due dilig…",
+      "body": [
+        "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips.",
+        "According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]"
+      ]
+    },
+    {
+      "id": "auto-d34e26bef7",
+      "title": "英伟达四处替客户找钱买芯片",
+      "category": "industry",
+      "date": "2026-11-07",
+      "time": "17:32",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8197111.html",
+      "featured": false,
+      "tags": [
+        "算力",
+        "融资"
+      ],
+      "summary": "给账期、买客户股票、替客户担保，还要找保险公司。英伟达正在变成客户的融资方。",
+      "body": [
+        "给账期、买客户股票、替客户担保，还要找保险公司。英伟达正在变成客户的融资方。"
+      ]
+    },
+    {
+      "id": "auto-3871109fbc",
+      "title": "【数智周报】 2026年世界互联网大会乌镇峰会举办；摩根大通副董事长：AI板块估值仍高，预计将出现回调；游族网络拟42亿买GPU；微软收缩AI算力租赁，据称逐步退出甲骨文云协议",
+      "category": "industry",
+      "date": "2026-11-07",
+      "time": "17:28",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8197131.html",
+      "featured": false,
+      "tags": [
+        "智能体",
+        "算力",
+        "融资"
+      ],
+      "summary": "（11月2日~11月7日）OpenAI与Cathedral Systems达成网络安全合作；2026年世界互联网大会乌镇峰会举办；华为、阿里等20家单位共建智能体互联基础设施，加速智能体赋能千行百业。",
+      "body": [
+        "（11月2日~11月7日）OpenAI与Cathedral Systems达成网络安全合作；2026年世界互联网大会乌镇峰会举办；华为、阿里等20家单位共建智能体互联基础设施，加速智能体赋能千行百业。"
+      ]
+    },
+    {
+      "id": "auto-20449779d3",
+      "title": "“不想打工”的人形机器人，在仓库里吃灰 | 潮向",
+      "category": "model",
+      "date": "2026-11-07",
+      "time": "16:36",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8196856.html",
+      "featured": false,
+      "tags": [
+        "机器人"
+      ],
+      "summary": "问题不是机器人还能翻多高，是离车间还有多远。",
+      "body": [
+        "问题不是机器人还能翻多高，是离车间还有多远。"
+      ]
+    },
+    {
+      "id": "auto-fb861dc0f4",
+      "title": "Meta首席战略官离职 转投AI推理初创公司Fireworks",
+      "category": "model",
+      "date": "2026-11-07",
+      "time": "15:26",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4059085827527815?f=rss",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Meta首席战略官戴夫·韦纳周五确认，他将离开公司，出任AI推理初创企业Fireworks的首席财务官。韦纳2012年加入脸书，担任企业财务与业务规划副总裁，2014年升任首席财务官",
+      "body": [
+        "Meta首席战略官戴夫·韦纳周五确认，他将离开公司，出任AI推理初创企业Fireworks的首席财务官。韦纳2012年加入脸书，担任企业财务与业务规划副总裁，2014年升任首席财务官，在该岗位任职逾八年，2022年转任首席战略官。(财联社)"
+      ]
+    },
+    {
+      "id": "auto-db7c29a2cd",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "category": "model",
+      "date": "2026-11-07",
+      "time": "13:43",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity…",
+      "body": [
+        "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now.",
+        "This episode is part one of a special series looking at AI in real life.",
+        "I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]"
+      ]
+    },
+    {
+      "id": "auto-5e8bc69c85",
+      "title": "欧洲央行考虑审查银行对数据中心的贷款，以评估人工智能相关风险",
+      "category": "industry",
+      "date": "2026-11-07",
+      "time": "12:42",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4059026136388742?f=rss",
+      "featured": false,
+      "tags": [
+        "算力",
+        "政策",
+        "融资"
+      ],
+      "summary": "11月6日，据报道，欧洲央行正考虑审查银行对数据中心的贷款，以评估人工智能市场情绪变化及估值波动可能带来的风险。据悉，欧洲央行高级官员已在内部及与受其监管的银行讨论这一方案。",
+      "body": [
+        "11月6日，据报道，欧洲央行正考虑审查银行对数据中心的贷款，以评估人工智能市场情绪变化及估值波动可能带来的风险。据悉，欧洲央行高级官员已在内部及与受其监管的银行讨论这一方案。审查可能包括现场检查，重点考察银行如何评估未来现金流、抵押品价值及应对潜在违约风险。此次审查范围可能小于欧洲央行数年前开展的杠杆融资审查，具体方案尚未敲定。（界面）"
+      ]
+    },
+    {
+      "id": "auto-5bf2acd9c4",
+      "title": "成都具身智能公司获千万级天使轮融资，基于开源鸿蒙开发机器人大脑｜硬氪首发",
+      "category": "industry",
+      "date": "2026-11-07",
+      "time": "09:30",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4052696726328452?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "算力",
+        "政策"
+      ],
+      "summary": "作者 | 黄楠 编辑 | 袁斯来 硬氪获悉，成都具身大脑公司「奇林波」近日完成千万级人民币天使轮融资，投资方包括成都方寸引擎科技有限公司及天使投资人。",
+      "body": [
+        "作者 | 黄楠 编辑 | 袁斯来 硬氪获悉，成都具身大脑公司「奇林波」近日完成千万级人民币天使轮融资，投资方包括成都方寸引擎科技有限公司及天使投资人。本轮资金将重点用于核心技术研发、研发团队建设和市场拓展，为公司持续推进机器脑与多机协作系统的研发、产品化及应用落地提供资金支持。",
+        "奇林波成立于2025年12月，公司聚焦具身智能核心软件，以机器人自主行动与多机协作为核心方向，致力于让机器人具备持续执行任务的能力，并通过多机协作完成更复杂的工作。",
+        "联合创始人兼CEO唐佐林具备跨AI算法、嵌入式系统、国产操作系统的复合技术背景；他早年任职摩托罗拉，深耕嵌入式、芯片与驱动开发；后续作为核心开发者参与开源鸿蒙基座、Python国产化框架相关建设。"
+      ]
+    },
     {
       "id": "auto-f0306b5922",
       "title": "9点1氪丨豆包工作个人版取消5小时额度限制；人类低温纪录被打破；美科技股反弹，SpaceX市值一夜暴涨9653亿",
@@ -182,6 +384,25 @@
       "body": [
         "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does.",
         "After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend."
+      ]
+    },
+    {
+      "id": "auto-3fcf2e1998",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "category": "model",
+      "date": "2026-11-07",
+      "time": "05:48",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with…",
+      "body": [
+        "Anthropic is using AI to build more powerful AI.",
+        "And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down.",
+        "That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]"
       ]
     },
     {
