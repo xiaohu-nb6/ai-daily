@@ -1,8 +1,224 @@
 /* AI 前沿日报 · 数据文件（由 scripts/refresh_news.py 生成，可手工编辑） */
 window.AI_DAILY_DATA = {
-  "updatedAt": "2026-11-09T09:43:17+08:00",
-  "edition": "2026-11-09",
+  "updatedAt": "2026-11-10T09:34:57+08:00",
+  "edition": "2026-11-10",
   "articles": [
+    {
+      "id": "auto-b8c3cfe45c",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "category": "industry",
+      "date": "2026-11-10",
+      "time": "09:27",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "body": [
+        "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+      ]
+    },
+    {
+      "id": "auto-89af62e561",
+      "title": "阿里芯片平头哥拟赴港IPO，募资20亿至30亿美元",
+      "category": "industry",
+      "date": "2026-11-10",
+      "time": "09:22",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8198786.html",
+      "featured": false,
+      "tags": [
+        "算力",
+        "融资"
+      ],
+      "summary": "平头哥的IPO，是阿里在经历云与菜鸟分拆受挫后，重启资本棋局的战略性落子。",
+      "body": [
+        "平头哥的IPO，是阿里在经历云与菜鸟分拆受挫后，重启资本棋局的战略性落子。"
+      ]
+    },
+    {
+      "id": "auto-41b10126ae",
+      "title": "千问新物种，需要旧王李佳琦",
+      "category": "model",
+      "date": "2026-11-10",
+      "time": "09:18",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8198647.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "卖AI“小样”，阿里的双11算盘打到哪儿了？",
+      "body": [
+        "卖AI“小样”，阿里的双11算盘打到哪儿了？"
+      ]
+    },
+    {
+      "id": "auto-263bd717a4",
+      "title": "验证码拦不住个人Agent了",
+      "category": "model",
+      "date": "2026-11-10",
+      "time": "09:10",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8198652.html",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "至少代填邮件验证码这一步，现在AI可以代劳了。",
+      "body": [
+        "至少代填邮件验证码这一步，现在AI可以代劳了。"
+      ]
+    },
+    {
+      "id": "auto-903e16a280",
+      "title": "中信建投计算机行业2027年投资策略：建议关注国产算力等四个方向",
+      "category": "industry",
+      "date": "2026-11-10",
+      "time": "09:09",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4063229051458433?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "算力"
+      ],
+      "summary": "36氪获悉，中信建投证券研报称，2026年A股AI产业基于“小龙虾”的火爆、模型快速迭代和全球Capex投入持续加大，计算机板块走出上半年“资本开支增加带动硬件需求预期持续上升”",
+      "body": [
+        "36氪获悉，中信建投证券研报称，2026年A股AI产业基于“小龙虾”的火爆、模型快速迭代和全球Capex投入持续加大，计算机板块走出上半年“资本开支增加带动硬件需求预期持续上升”，下半年“应用预期升温”的行情。当前，国内智算中心建设加速，国产AI芯片在训练、推理侧渗透率持续提升，AI应用从概念验证走向垂直场景落地，模型ARR和token增长呈指数级，算力服务价格水涨船高，AI产业发展高景气度维持。展望2027年，AI行业投资主线将从投入预期转向ROI兑现，产业核心变量是国产化提升速度与应用商业化验证，建议关注国产算力、AI应用与模型、信创与未来产业四个方向。"
+      ]
+    },
+    {
+      "id": "auto-54644da033",
+      "title": "券商密集发布2027年投资策略：AI叙事尚未结束，做好分散配置",
+      "category": "industry",
+      "date": "2026-11-10",
+      "time": "09:01",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4063197970174850?f=rss",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "进入11月，卖方机构密集发布2027年投资策略。继中信证券、华泰证券之后，中信建投证券、浙商证券等多家券商本周将举办线下策略会。",
+      "body": [
+        "进入11月，卖方机构密集发布2027年投资策略。继中信证券、华泰证券之后，中信建投证券、浙商证券等多家券商本周将举办线下策略会。整体来看，券商普遍认为，AI（人工智能）产业叙事尚未结束，科技板块内部走势或将分化，非AI板块同样具备结构性修复空间，市场不必过度悲观。在结构性机会大于全市场估值抬升的预期下，多家卖方机构建议，投资者布局2027年市场应立足基本面，做好分散配置。（证券时报）"
+      ]
+    },
+    {
+      "id": "auto-0f6032cfaf",
+      "title": "Edge AI Daily 早报（11月10日）",
+      "category": "industry",
+      "date": "2026-11-10",
+      "time": "08:32",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8198977.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "英伟达董事会就CEO黄仁勋被指成为外国情报行动目标启动独立调查，黄仁勋承认个人不忠并配合调查，股价三日累计下跌约13.6%、市值蒸发超7000亿美元",
+      "body": [
+        "英伟达董事会就CEO黄仁勋被指成为外国情报行动目标启动独立调查，黄仁勋承认个人不忠并配合调查，股价三日累计下跌约13.6%、市值蒸发超7000亿美元，亚洲供应链同步重挫——SK海力士跌11.7%、台积电跌8.5%，市场重估关键人依赖与治理折价。"
+      ]
+    },
+    {
+      "id": "auto-1f997ccf9f",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "category": "model",
+      "date": "2026-11-10",
+      "time": "08:28",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI…",
+      "body": [
+        "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI.",
+        "In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has the potential to […]"
+      ]
+    },
+    {
+      "id": "auto-3ddfe84531",
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "category": "model",
+      "date": "2026-11-10",
+      "time": "08:02",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions…",
+      "body": [
+        "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy.",
+        "Huang said this weekend that he had been \"​​unfaithful\" to his wife, and the company has opened an investigation into Huang.",
+        "Recent articles from The New […]"
+      ]
+    },
+    {
+      "id": "auto-1d75d4434d",
+      "title": "8点1氪丨外媒称黄仁勋或被英伟达免职，尚未指定接班人；突然大规模封号，ChatGPT回应；买烟可优先结账？零食有鸣回应",
+      "category": "model",
+      "date": "2026-11-10",
+      "time": "08:01",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4063180322526336?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "算力"
+      ],
+      "summary": "今日热点导览 王健林任万达商管董事长 董宇辉自有品牌回应“首款蛋糕9个月保质期” 玛莎拉蒂将与尊界合作，推动本地化生产 美民主党拟对马斯克等发起调查 SpaceX拟在得州建设240亿美元超级计算设施…",
+      "body": [
+        "今日热点导览 王健林任万达商管董事长 董宇辉自有品牌回应“首款蛋糕9个月保质期” 玛莎拉蒂将与尊界合作，推动本地化生产 美民主党拟对马斯克等发起调查 SpaceX拟在得州建设240亿美元超级计算设施 TOP 3大新闻 外媒：黄仁勋或被英伟达免职，尚未指定接班人 美东时间11月8日，英伟达创始人兼CEO黄仁勋于致员工信中承认婚外情，并向董事会、员工及全球股东致歉。英伟达董事会已宣布由独立董事和外部律师启动调查。彭博社报道称，作为英伟达联合创始人，黄仁勋以亲力亲为、不知疲倦的管理风格著称。这家公司尚未公布明确的接班计划，黄仁勋也没有明显的指定接班人。他多次表示希望在未来数十年继续执掌英伟达，并围绕自己建立了一种非正式的组织架构度。据路透社报道，美国投资机构Yorkville Ives的合伙人兼高级董事总经理丹·艾夫斯表示：“显然，根据董事会的调查结果，黄仁勋可能被免去首席执行官职务。”（中新经纬） 突然大规模封号，ChatGPT回应 11月8日，多家技术社区集中曝出OpenAI突发大规模账号封禁事件，大量用户在Reddit、国内开发者社群反馈ChatGPT账号无预警停用，其中包括每月订阅费用为200美元的Pro用户。部分用户表示，账号被封前没有收到任何通知，长期积累的聊天记录和工作资料也因此无法访问。",
+        "有网友推测这是OpenAI防止用户薅羊毛，开始限制同一台设备的账号上限。业内人士表示，OpenAI这个举止，绝非突然。之前，他们开启了逆向反代，还将ChatGPT和Codex合并为一个Token池。几天前，他们就悄悄锁死了单设备的付费号上限。还上线了一份《理解ChatGPT的支付卡与设备限制》的官方文件，将Go、Plus以及Pro 100、Pro 200、Pro 500档位，全部纳入了硬性配额管控。",
+        "对此，OpenAI Support账号作出回复，表示由于涉及具体账号信息，无法在公开社区论坛处理账号停用申诉。用户应通过封禁通知邮件中的链接提出申诉；如果没有收到邮件，可以通过官方申诉表单或帮助中心联系客服。该回复并未解释用户账号被封的具体原因。（第一财经） 买烟可优先结账？零食有鸣回应 近日，有网友在社交平台发帖称，零食有鸣某门店张贴着“购买香烟者优先结账”的提示，并称“保证真烟，假一赔百”。该消息迅速在网上发酵，引发大量网友吐槽。有消费者在评论区留言，“只听过军人优先、急救优先，第一次看到买烟优先”。还有人表示，“要是大家都排着队，有人直接优先，换谁心里都会不舒服”。大家普遍认为，商家可以设置快速通道，但不能以购买香烟作为享受优先服务的门槛。这种差异化对待，本身就容易传递出不利于控烟的导向。"
+      ]
+    },
+    {
+      "id": "auto-9190d7e75c",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "category": "model",
+      "date": "2026-11-10",
+      "time": "07:46",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Al…",
+      "body": [
+        "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide.",
+        "Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to […]"
+      ]
+    },
+    {
+      "id": "auto-0d809631c7",
+      "title": "【钛晨报】“星云星座计划”发布，中国太空算力网加快部署；对冲基金以史上最快的速度之一抛售全球科技股；谷歌推出两款新TPU芯片，加码与英伟达竞争",
+      "category": "industry",
+      "date": "2026-11-10",
+      "time": "07:20",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8198851.html",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "多模态",
+        "算力"
+      ],
+      "summary": "中国10月CPI同比上涨0.7%，环比持平；李强签署国务院令，公布《中医药传统知识保护条例》；字节跳动发布豆包图像模型Seedream 5.5；英伟达宣布对多家韩国AI初创企业投资计划；",
+      "body": [
+        "中国10月CPI同比上涨0.7%，环比持平；李强签署国务院令，公布《中医药传统知识保护条例》；字节跳动发布豆包图像模型Seedream 5.5；英伟达宣布对多家韩国AI初创企业投资计划；媒体：黄仁勋或被英伟达免职，尚未指定接班人；AMD：第五代EPYC处理器为谷歌TPU 8tx提供主机基础设施"
+      ]
+    },
     {
       "id": "auto-9034dc0cd7",
       "title": "Edge AI Daily 早报（11月9日）",
