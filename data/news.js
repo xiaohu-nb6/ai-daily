@@ -1,8 +1,224 @@
 /* AI 前沿日报 · 数据文件（由 scripts/refresh_news.py 生成，可手工编辑） */
 window.AI_DAILY_DATA = {
-  "updatedAt": "2026-11-10T09:34:57+08:00",
-  "edition": "2026-11-10",
+  "updatedAt": "2026-11-11T09:34:18+08:00",
+  "edition": "2026-11-11",
   "articles": [
+    {
+      "id": "auto-237a1805b4",
+      "title": "券商策略会把脉2027年行业机遇：算力投资看兑现",
+      "category": "industry",
+      "date": "2026-11-11",
+      "time": "08:50",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4064634366547074?f=rss",
+      "featured": false,
+      "tags": [
+        "算力",
+        "开源"
+      ],
+      "summary": "继中信证券11月3日在武汉举行2027年资本市场策略会后，申万宏源证券、中信建投证券、开源证券也于11月10日召开策略会。 展望明年，多家券商仍看好AI产业链，但对投资机会的判断更看重实际回报。",
+      "body": [
+        "继中信证券11月3日在武汉举行2027年资本市场策略会后，申万宏源证券、中信建投证券、开源证券也于11月10日召开策略会。",
+        "展望明年，多家券商仍看好AI产业链，但对投资机会的判断更看重实际回报。随着云厂商加大投入，哪些应用能带来持续收入，哪些硬件企业能把订单转化为利润，成为行业分析师关注的焦点。分析人士认为，国产算力芯片能否稳定交付、高速光模块需求能否延续、电力供应能否跟上机柜上架节奏，将影响算力产业链各环节的业绩表现。除AI外，部分医疗器械企业三季度业绩超预期，纺织服装产业链库存处于低位、资本开支放缓，也为观察行业景气变化提供了线索。（中证报）"
+      ]
+    },
+    {
+      "id": "auto-41fcfed19d",
+      "title": "SK集团高管据悉本周开会讨论明年商业战略，人工智能将是关键议题",
+      "category": "model",
+      "date": "2026-11-11",
+      "time": "08:49",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4064633511416966?f=rss",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "据业内人士透露，韩国SK集团将于本周晚些时候为其高管举办一场研讨会，旨在探讨明年的商业战略。消息人士称，这场为期三天的首席执行官（CEO）研讨会将由集团会长崔泰源主持，于周四至周六举行",
+      "body": [
+        "据业内人士透露，韩国SK集团将于本周晚些时候为其高管举办一场研讨会，旨在探讨明年的商业战略。消息人士称，这场为期三天的首席执行官（CEO）研讨会将由集团会长崔泰源主持，于周四至周六举行，届时集团旗下主要子公司的多位高管将齐聚一堂。此次年度会议包括内部演示、讨论和外部讲座，为SK集团的高管们提供了一个回顾集团范围内关键问题并讨论来年业务战略的论坛。消息人士称，人工智能（AI）预计将成为一个关键主题，重点关注业务战略和集团附属公司之间的潜在协同效应。（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-b68981e0c1",
+      "title": "Anthropic在澳大利亚提交招股文件，当地个人投资者可参与IPO认购",
+      "category": "industry",
+      "date": "2026-11-11",
+      "time": "08:46",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4064633870488708?f=rss",
+      "featured": false,
+      "tags": [
+        "政策",
+        "融资"
+      ],
+      "summary": "Anthropic当地时间11月11日向澳大利亚证券监管机构提交文件称，当地个人投资者从当日起可通过参与此次发行的券商认购Anthropic股票。",
+      "body": [
+        "Anthropic当地时间11月11日向澳大利亚证券监管机构提交文件称，当地个人投资者从当日起可通过参与此次发行的券商认购Anthropic股票。认购预计于11月17日结束，Anthropic股票料于11月20日在纳斯达克上市交易。Anthropic计划通过IPO和私募配售筹资不超过904亿美元，发行价区间为每股70至78美元。除美国外，澳大利亚是投资者能够直接认购Anthropic股票的少数国家之一，其他地区还包括日本、加拿大以及欧洲部分国家。（界面）"
+      ]
+    },
+    {
+      "id": "auto-22d05b5eff",
+      "title": "Anthropic进军人工智能办公软件，IPO前与微软谷歌竞争升温",
+      "category": "industry",
+      "date": "2026-11-11",
+      "time": "08:40",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4064625635185794?f=rss",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "Anthropic推出一系列工具，进一步将人工智能（AI）融入日常办公，与微软和谷歌展开更直接的竞争。这些功能将于周二Anthropic的一场活动上发布，包括视频通话助手、数据仪表板工具",
+      "body": [
+        "Anthropic推出一系列工具，进一步将人工智能（AI）融入日常办公，与微软和谷歌展开更直接的竞争。这些功能将于周二Anthropic的一场活动上发布，包括视频通话助手、数据仪表板工具，以及名为Claude Sheets的电子表格服务。Claude Sheets与微软Excel和谷歌Sheets非常相似，但内置Anthropic的AI功能。许多新工具将以测试版形式向付费用户开放。（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-0ff7768f8f",
+      "title": "Edge AI Daily 早报（11月11日）",
+      "category": "industry",
+      "date": "2026-11-11",
+      "time": "08:34",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8200609.html",
+      "featured": false,
+      "tags": [
+        "智能体",
+        "算力",
+        "政策"
+      ],
+      "summary": "Anthropic以发行8.25亿股、70—78美元定价冲刺纳斯达克（代码ANT），含七家芯片与云巨头260亿美元私募配售，募资上限约900亿美元",
+      "body": [
+        "Anthropic以发行8.25亿股、70—78美元定价冲刺纳斯达克（代码ANT），含七家芯片与云巨头260亿美元私募配售，募资上限约900亿美元，估值自2万亿美元退守至1.2万亿—1.3万亿美元区间；招股书显示前九月营收332亿美元、净亏损1040亿美元，8954亿美元算力承诺与Q3算力成本占营收58%构成核心矛盾。同期发布Fable 5.2与Mythos 5.2，千级智能体8天从零构建可启动操作系统、30小时完成费马大定理形式化，API降价20%。谷歌一年四发TPU并以Gemini Intelligence扩分发，Meta用Muse Ember把竞争推向单位任务成本，OpenAI收购旅行代理Odessia构建服务闭环。纽约、澳大利亚同步推进强制性AI监管。"
+      ]
+    },
+    {
+      "id": "auto-020418820d",
+      "title": "8点1氪丨英伟达及黄仁勋遭股东集体诉讼，市值两天蒸发2.85万亿；Anthropic正式启动IPO路演；阿里拟分拆平头哥独立上市",
+      "category": "industry",
+      "date": "2026-11-11",
+      "time": "08:15",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4064610635781257?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "算力",
+        "政策"
+      ],
+      "summary": "今日热点导览 外交部：中美双方就两国元首年内互动安排保持着沟通 全球芯片LOF于11月10日下午开市起停牌至收市 董明珠回应格力电器业绩下滑 宝马选定LG新能源、三星SDI供应下一代动力电池 百事公…",
+      "body": [
+        "今日热点导览 外交部：中美双方就两国元首年内互动安排保持着沟通 全球芯片LOF于11月10日下午开市起停牌至收市 董明珠回应格力电器业绩下滑 宝马选定LG新能源、三星SDI供应下一代动力电池 百事公司北美业务陷入困境，裁员1000人 TOP3大新闻 黄仁勋及英伟达，被指控涉嫌欺诈股东 当地时间9日，美股收盘五分钟后，英伟达及黄仁勋便遭到股东集体诉讼，指控其涉嫌欺诈股东。分析师认为，一旦黄仁勋离任，英伟达将面临巨大的接班难题。现年63岁的黄仁勋是英伟达的核心支柱，金融数据服务商FactSet的数据显示，黄仁勋是英伟达第五大股东，持股约3.58%。分析师认为，公司目前没有成熟的接班计划，倘若黄仁勋离职，这将是一次大规模的领导层更替，而公司并未为此做好准备。",
+        "受到黄仁勋出轨事件持续发酵影响，算力芯片巨头周二继续下跌超5%，单日市值蒸发超2090亿美元，约合人民币1.39万亿元。本周前两天，公司市值累计蒸发超4200亿美元，相当于2.85万亿元。（第一财经、财联社） Anthropic正式启动IPO路演，发布相关路演视频 Anthropic于11月10日正式启动首次公开募股（IPO）路演，并在官网发布相关路演视频。公司计划发行8.25亿股A类普通股，发行价区间为每股70至78美元，按发行价上限计算，基础发行规模最高约643.5亿美元。其中，Anthropic自身发行约8.014亿股，部分现有股东出售约2365万股。公司拟以代码“ANT”在纳斯达克全球精选市场上市。承销商另拥有30天额外购买最多1.2375亿股的选择权。",
+        "11月10日，一份文件显示，谷歌、英伟达、AMD、博通、美光、微软及台积电合作伙伴公司已同意通过同步私募方式，合计认购260亿美元的Anthropic无投票权普通股，认购价格与IPO发行价相同。（新浪财经、界面新闻、财联社） 阿里巴巴：已正式申请平头哥独立上市 36氪获悉，11月10日晚，阿里巴巴集团发布公告称，已向香港联交所交表，申请旗下子公司平头哥独立上市。上市完成后，平头哥仍将是阿里巴巴子公司。公告显示，2026年9月11日，平头哥已向香港联交所递交上市申请，拟通过H股在香港联交所主板独立上市。据悉，IPO具体规模尚未最终确定。截至2026年4月，平头哥真武系列AI芯片累计出货量达56万片。"
+      ]
+    },
+    {
+      "id": "auto-fe630b3ea0",
+      "title": "【钛晨报】李强签署国务院令，公布修订后的《基金会管理条例》；阿里拟分拆平头哥独立赴港上市；Anthropic IPO定价区间确定，目标市值约1万亿美元低于预期",
+      "category": "industry",
+      "date": "2026-11-11",
+      "time": "07:20",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8200471.html",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "i茅台将从“抢购”模式逐步转为日常售卖；台积电批准409亿美元资本预算，用于长期产能扩张；华为新型存储系统即将启动试商用；贾国龙质押西贝股权，股权数额超2660万；英伟达、黄仁勋遭股东集体诉讼；",
+      "body": [
+        "i茅台将从“抢购”模式逐步转为日常售卖；台积电批准409亿美元资本预算，用于长期产能扩张；华为新型存储系统即将启动试商用；贾国龙质押西贝股权，股权数额超2660万；英伟达、黄仁勋遭股东集体诉讼；国家发改委：多渠道增加普通高中和高等教育学位供给；减少个人信息泄露，首批700专用码号服务业务试点获批。"
+      ]
+    },
+    {
+      "id": "auto-2c1987e2d3",
+      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "category": "industry",
+      "date": "2026-11-11",
+      "time": "05:08",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "OpenAI has not yet said what its plans are for the future of travel.",
+      "body": [
+        "OpenAI has not yet said what its plans are for the future of travel.",
+        "But Sonder founder Francis Davidson is a well-known figure in the travel industry."
+      ]
+    },
+    {
+      "id": "auto-9020f526c6",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "category": "model",
+      "date": "2026-11-11",
+      "time": "04:52",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI…",
+      "body": [
+        "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+      ]
+    },
+    {
+      "id": "auto-a530cb73c0",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "category": "industry",
+      "date": "2026-11-11",
+      "time": "03:57",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which wou…",
+      "body": [
+        "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company."
+      ]
+    },
+    {
+      "id": "auto-3a56552a15",
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "category": "model",
+      "date": "2026-11-11",
+      "time": "03:31",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth.",
+      "body": [
+        "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth.",
+        "The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI boom, and is cozy with presidents, CEOs, and all manner of important people.",
+        "He also wears a cool leather jacket."
+      ]
+    },
+    {
+      "id": "auto-656c0403ac",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "category": "industry",
+      "date": "2026-11-11",
+      "time": "03:23",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “un…",
+      "body": [
+        "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”"
+      ]
+    },
     {
       "id": "auto-b8c3cfe45c",
       "title": "Anthropic reportedly plans to move forward with IPO plans",
