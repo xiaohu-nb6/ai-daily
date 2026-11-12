@@ -1,8 +1,222 @@
 /* AI 前沿日报 · 数据文件（由 scripts/refresh_news.py 生成，可手工编辑） */
 window.AI_DAILY_DATA = {
-  "updatedAt": "2026-11-11T09:34:18+08:00",
-  "edition": "2026-11-11",
+  "updatedAt": "2026-11-12T09:45:46+08:00",
+  "edition": "2026-11-12",
   "articles": [
+    {
+      "id": "auto-15df913ae6",
+      "title": "估值1300亿，字节背后的算力独角兽，要赴美IPO了",
+      "category": "industry",
+      "date": "2026-11-12",
+      "time": "09:02",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8201448.html",
+      "featured": false,
+      "tags": [
+        "算力",
+        "融资"
+      ],
+      "summary": "字节核心算力供应商DayOne递交招股书。",
+      "body": [
+        "字节核心算力供应商DayOne递交招股书。"
+      ]
+    },
+    {
+      "id": "auto-f7a78d8b23",
+      "title": "千问办公换上Qwen4，WorkBuddy慌不慌？",
+      "category": "model",
+      "date": "2026-11-12",
+      "time": "08:57",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8201592.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "千问办公升级了，干活还没WorkBuddy省心。",
+      "body": [
+        "千问办公升级了，干活还没WorkBuddy省心。"
+      ]
+    },
+    {
+      "id": "auto-85aaf148c3",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "category": "model",
+      "date": "2026-11-12",
+      "time": "08:55",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times…",
+      "body": [
+        "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports.",
+        "The second alleged affair was with an executive who […]"
+      ]
+    },
+    {
+      "id": "auto-09bc62a27d",
+      "title": "百亿私募逆势加仓，称AI长期发展趋势未改",
+      "category": "industry",
+      "date": "2026-11-12",
+      "time": "08:52",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4066024373932937?f=rss",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "市场震荡之际，百亿私募仍在逆势加仓。截至10月底，百亿私募仓位指数升至83.10%，连续两周上升。值得关注的是，近期海外人工智能（AI）板块明显调整",
+      "body": [
+        "市场震荡之际，百亿私募仍在逆势加仓。截至10月底，百亿私募仓位指数升至83.10%，连续两周上升。值得关注的是，近期海外人工智能（AI）板块明显调整，市场对科技巨头资本开支、算力需求及未来盈利能力的担忧持续升温。但多家百亿私募认为，AI长期发展趋势并未改变，短期市场仍将以结构性机会为主。（证券时报）"
+      ]
+    },
+    {
+      "id": "auto-1e52dfd833",
+      "title": "Edge AI Daily 早报（11月12日）",
+      "category": "model",
+      "date": "2026-11-12",
+      "time": "08:50",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8201799.html",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "算力",
+        "政策"
+      ],
+      "summary": "Anthropic启动643.5亿美元IPO路演，估值上限1.405万亿美元，11月19日登陆纳斯达克，并推Claude Sheets切入办公。",
+      "body": [
+        "Anthropic启动643.5亿美元IPO路演，估值上限1.405万亿美元，11月19日登陆纳斯达克，并推Claude Sheets切入办公。英伟达因黄仁勋国安调查被董事会审查，两日跌约9.5%，Baird下调评级，电力与出口合规成AI瓶颈。OpenAI季度营收首破100亿美元并上线ChatGPT商家；谷歌发布Gemini 4 Carbon与机器人模型2.5。CoreWeave营收增168%、订单1325亿但净亏7.09亿。微软承担AI电网成本，亚马逊日本算法限价违法。英伟达捐OpenShell入CNCF；港珠澳跨境电商出口破千亿；SpaceX订100GW HJT布局太空算力。"
+      ]
+    },
+    {
+      "id": "auto-14ac565d9d",
+      "title": "AI数据中心初创公司Torus完成5亿美元融资，推出集成储能系统的模块化数据中心",
+      "category": "industry",
+      "date": "2026-11-12",
+      "time": "08:49",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4066023469929351?f=rss",
+      "featured": false,
+      "tags": [
+        "算力",
+        "融资"
+      ],
+      "summary": "11月11日，美国能源存储初创公司Torus宣布完成5亿美元C轮融资，由Magnetar领投，Iconiq Capital、Origin Ventures和Trinity Capital等机构参与。",
+      "body": [
+        "11月11日，美国能源存储初创公司Torus宣布完成5亿美元C轮融资，由Magnetar领投，Iconiq Capital、Origin Ventures和Trinity Capital等机构参与。本轮融资将用于生产名为Foundry的新型模块化AI数据中心产品，该产品将电池储能系统与AI计算设备集成在集装箱大小的模块中，AI基础设施公司Hydra Host是其客户之一。（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-4a43c16838",
+      "title": "8点1氪丨黄仁勋已回英伟达上班，就最近的风波向员工致歉；贾国龙质押西贝全部股份；Anthropic IPO获数倍超额认购",
+      "category": "industry",
+      "date": "2026-11-12",
+      "time": "08:12",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4066019497464960?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "多模态"
+      ],
+      "summary": "今日热点导览 阿里平头哥今年已增资399倍 刘强东也要入局短剧？京东内测独立短剧产品 国内金饰报价集体下调 苹果宣布官方社区将于11月20日永久关闭 SpaceX据悉尝试机架层“去英伟达化”：只买芯…",
+      "body": [
+        "今日热点导览 阿里平头哥今年已增资399倍 刘强东也要入局短剧？京东内测独立短剧产品 国内金饰报价集体下调 苹果宣布官方社区将于11月20日永久关闭 SpaceX据悉尝试机架层“去英伟达化”：只买芯片，研发Kessel机柜绕过L6计算板 TOP3大新闻 美媒：黄仁勋已回英伟达上班 据CNBC报道，知情人士透露，英伟达CEO黄仁勋（Jensen Huang）周一走进了公司位于加州圣克拉拉的总部，照常主持了与高层管理人员的晨会。知情人士称，黄仁勋在这场闭门会议开始时首先就最近的风波向员工表达了歉意。他没有接受任何提问，而是很快将话题转向业务和当天的主要议程。周二，黄仁勋也来到办公室开会。还有一周时间，英伟达就将发布新一季财报。",
+        "另据华尔街日报报道，有知情人士透露，英伟达(NVDA.O)董事会正准备罢免公司创始人兼首席执行官黄仁勋。据悉，英伟达董事会最早可能于今日（当地时间11日）召开会议，以决定黄仁勋的去留。(凤凰网财经、金十数据) 贾国龙质押西贝全部股份，数额超2660万元 11月10日，据财联社报道，西贝餐饮集团创始人贾国龙已将其直接持有的内蒙古西贝餐饮集团有限公司股权全部质押，出质股权数额2660.4027万元，质权人为上海浦东发展银行股份有限公司北京分行，该笔股权出质目前状态为有效。",
+        "需要指出的是，今年9月2日，贾国龙的妻子张丽平已先行办理股权出质登记，将直接持有的西贝集团股权全部质押给中国工商银行股份有限公司呼和浩特如意开发区支行，出质股权数额540.0005万元，目前同样有效。两笔相加，夫妻二人出质股权对应的认缴出资额合计3200.4032万元，约占西贝集团注册资本的30.79%。（财联社、界面新闻） Anthropic IPO认购需求超额数倍，拟通过IPO及私募融资最高904亿美元 11月11日，据报道，Anthropic首次公开募股（IPO）认购需求已达到可供发行股份数量的数倍，主要受到大型基石投资者认购意向推动。公司及其联合创始人计划通过IPO和私募合计融资最高904亿美元，若完成，将超过SpaceX IPO，成为史上规模最大的上市交易。Anthropic目标完全稀释估值约为1.4万亿美元，低于部分投资者此前预期。（界面新闻） AI最前沿 Anthropic世纪IPO恐成AI行情高点，科技老将称禁售期满或现连锁回调 创投公司Copper Sky负责人Jack Selby表示，Anthropic众所瞩目的首次公开募股，可能面临成为AI行情高点的风险，且在首批股票禁售期届满后，还可能引|发连锁式回调。（财联社） 谷歌推出Gemini Decisions API，每百万输入token收费0.10美元 谷歌推出了GeminiDecisionsAPI，这是一个由其Gemini Decision1模型驱动的新端点，可帮助AI智能体做出快速的预设决策，而无需生成冗长的文本回复。该接口允许开发人员针对包含文本、图像、音频、视频和PDF的共享多模态输入，评估多达1000个独立问题。Gemini Decision1不会逐token生成回复，而是在单次前向传递中对预设选项进行评分，返回概率和信度分数，端到端延迟为150–250毫秒。谷歌表示，开发人员可以在一次API调用中提交“是或否”检查、最多包含255个选项的多选题，或基于预设评分标准的打分请求。（新浪财经） 腾讯全新搜索产品元宝搜索正式上线 36氪获悉，腾讯全新搜索产品元宝搜索正式上线。"
+      ]
+    },
+    {
+      "id": "auto-9652297a4a",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "category": "industry",
+      "date": "2026-11-12",
+      "time": "07:28",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "body": [
+        "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
+      ]
+    },
+    {
+      "id": "auto-23072f3ac4",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "category": "model",
+      "date": "2026-11-12",
+      "time": "07:17",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Ch…",
+      "body": [
+        "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate."
+      ]
+    },
+    {
+      "id": "auto-7d8a886d85",
+      "title": "United won’t let your AI agent book your flight",
+      "category": "model",
+      "date": "2026-11-12",
+      "time": "05:54",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy an…",
+      "body": [
+        "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns.",
+        "The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash."
+      ]
+    },
+    {
+      "id": "auto-8921f55be4",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "category": "industry",
+      "date": "2026-11-12",
+      "time": "03:54",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, a…",
+      "body": [
+        "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings."
+      ]
+    },
+    {
+      "id": "auto-69cde51467",
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "category": "industry",
+      "date": "2026-11-12",
+      "time": "03:34",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+      "body": [
+        "Fractile has now become one of the top-funded players in the race for purpose-built AI chips."
+      ]
+    },
     {
       "id": "auto-237a1805b4",
       "title": "券商策略会把脉2027年行业机遇：算力投资看兑现",
