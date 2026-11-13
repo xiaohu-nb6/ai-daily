@@ -1,7 +1,219 @@
 {
-  "updatedAt": "2026-11-12T09:45:46+08:00",
-  "edition": "2026-11-12",
+  "updatedAt": "2026-11-13T09:40:12+08:00",
+  "edition": "2026-11-13",
   "articles": [
+    {
+      "id": "auto-2b34aafa3a",
+      "title": "上一个让CFO接班的芯片巨头，是英特尔",
+      "category": "industry",
+      "date": "2026-11-13",
+      "time": "09:17",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8203641.html",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "财务训练给人的本能是比较回报率。回购的回报当期可见，基带业务的亏损当期可见，把制造外包能省多少资本开支也算得出来。",
+      "body": [
+        "财务训练给人的本能是比较回报率。回购的回报当期可见，基带业务的亏损当期可见，把制造外包能省多少资本开支也算得出来。"
+      ]
+    },
+    {
+      "id": "auto-78d2f98141",
+      "title": "黄仁勋时代落幕，英伟达宣布其卸任，CFO克雷斯出任临时CEO",
+      "category": "model",
+      "date": "2026-11-13",
+      "time": "09:17",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8203591.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "黄仁勋卸任英伟达CEO，巨头开启权力交接过渡期",
+      "body": [
+        "黄仁勋卸任英伟达CEO，巨头开启权力交接过渡期"
+      ]
+    },
+    {
+      "id": "auto-1bcbb31f82",
+      "title": "海联金汇：联动优势业务团队有做过AI漫剧方面的业务尝试，对公司经营业绩基本没有影响",
+      "category": "model",
+      "date": "2026-11-13",
+      "time": "09:09",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4067494870897537?f=rss",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "36氪获悉，海联金汇在互动平台表示，联动优势业务团队有做过AI漫剧方面的业务尝试，试点制作少量漫剧并投放媒体，但目前投入的资源及相应的产出均很少，对公司经营业绩基本没有影响",
+      "body": [
+        "36氪获悉，海联金汇在互动平台表示，联动优势业务团队有做过AI漫剧方面的业务尝试，试点制作少量漫剧并投放媒体，但目前投入的资源及相应的产出均很少，对公司经营业绩基本没有影响，亦不构成公司未来的重点业务方向。公司将在做大做强主业的基础上，积极关注并审慎推进创新业务发展机会。"
+      ]
+    },
+    {
+      "id": "auto-b702dcba97",
+      "title": "即便身处危机，英伟达股票仍具买入价值",
+      "category": "industry",
+      "date": "2026-11-13",
+      "time": "09:01",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8203778.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "英伟达的股价已经有一段时间表现不佳了，而且那还是在黄仁勋担任首席执行官期间。他的突然辞职，给了投资者一个重新评估的机会。",
+      "body": [
+        "英伟达的股价已经有一段时间表现不佳了，而且那还是在黄仁勋担任首席执行官期间。他的突然辞职，给了投资者一个重新评估的机会。"
+      ]
+    },
+    {
+      "id": "auto-f5f88d4a11",
+      "title": "Edge AI Daily 早报（11月13日）",
+      "category": "model",
+      "date": "2026-11-13",
+      "time": "08:58",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8203715.html",
+      "featured": false,
+      "tags": [
+        "智能体",
+        "融资",
+        "开源"
+      ],
+      "summary": "英伟达黄仁勋辞任触发创始人风险重定价，盘前跌超13%，董事会启动独立调查与永久CEO搜寻；出口管制延伸至交付后审计，百亿美元注资Anthropic。",
+      "body": [
+        "英伟达黄仁勋辞任触发创始人风险重定价，盘前跌超13%，董事会启动独立调查与永久CEO搜寻；出口管制延伸至交付后审计，百亿美元注资Anthropic。Anthropic IPO认购数倍而估值预期收紧，Claude连接器切入办公。谷歌AI Mode强化搜索分发权，Gemini接入CarPlay；AWS推进Agent生产化与开源资产复用。"
+      ]
+    },
+    {
+      "id": "auto-a3ccb87e5f",
+      "title": "中芯国际赵海军：Q3客户对人工智能配套芯片需求超过公司预期",
+      "category": "industry",
+      "date": "2026-11-13",
+      "time": "08:54",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4067479402189699?f=rss",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "中芯国际联合CEO赵海军表示，三季度公司整体销售收入再创新高，达到了31.9亿美元，环比增长6.1%。比起三个月前，我们看到客户对BCD、专用存储、Control等人工智能配套芯片的提拉需求",
+      "body": [
+        "中芯国际联合CEO赵海军表示，三季度公司整体销售收入再创新高，达到了31.9亿美元，环比增长6.1%。比起三个月前，我们看到客户对BCD、专用存储、Control等人工智能配套芯片的提拉需求，增量速度比原来预期的更快，使得三季度收入超出指引上限。从量的方面看，公司加快新产线验证，弹性调配已有产能，季度出货量首超300万片，环比增加5.7%；从价的角度看，公司与客户协商的价格分批落地，产品组合持续优化，平均经营单价环比提升1.8%。（财联社）"
+      ]
+    },
+    {
+      "id": "auto-70856b20ef",
+      "title": "应用材料CEO：芯片是AI支出最大去向",
+      "category": "industry",
+      "date": "2026-11-13",
+      "time": "08:43",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4067469434901384?f=rss",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "应用材料首席执行官盖瑞·狄克森在与分析师的电话会议上表示，AI超大规模云服务提供商的大量支出正流向半导体和芯片。狄克森估计，全部资本支出中的60%正投向硅领域",
+      "body": [
+        "应用材料首席执行官盖瑞·狄克森在与分析师的电话会议上表示，AI超大规模云服务提供商的大量支出正流向半导体和芯片。狄克森估计，全部资本支出中的60%正投向硅领域，而其中超过85%的支出正流向晶圆代工、DRAM内存和先进封装，“这三个领域对AI计算路线图的影响最大，预计将在2027年成为晶圆厂设备中增长最快的部分。“（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-a9e76abe20",
+      "title": "8点1氪丨英伟达宣布CEO黄仁勋辞职，特朗普：建议库克接任；腾讯“裁员50%”？知情人士回应；宣扬错误婚恋观，德芙代运营方被罚80万",
+      "category": "industry",
+      "date": "2026-11-13",
+      "time": "08:21",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4067443683120000?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "算力"
+      ],
+      "summary": "今日热点导览 张一鸣再发声谈字节AI 商务部：中美正就降税、贸易、投资等问题保持密切沟通 美股三大指数集体收跌，英伟达跌超4% SpaceX与特斯拉合并谈判取得进展",
+      "body": [
+        "今日热点导览 张一鸣再发声谈字节AI 商务部：中美正就降税、贸易、投资等问题保持密切沟通 美股三大指数集体收跌，英伟达跌超4% SpaceX与特斯拉合并谈判取得进展，最早12月宣布交易 联合航空禁止Muse、Instinct等AI智能体预订航班 TOP3大新闻 英伟达宣布CEO黄仁勋辞职，CFO科莱特·克雷斯出任临时CEO 11月12日，英伟达宣布，公司董事会已批准黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。公司现任执行副总裁兼首席财务官科莱特·克雷斯（Colette Kress）出任临时CEO，并继续担任CFO，直至正式继任者确定。董事会将启动新任CEO遴选程序，同时考虑内部及外部候选人。英伟达董事会还任命Harvey C.",
+        "Jones担任公司首任董事会主席，Jones曾任新思科技CEO兼执行董事长。",
+        "当天，美国总统特朗普表示，在黄仁勋辞职后，蒂姆·库克应该接任英伟达的首席执行官。“黄仁勋表现出色，但他现已辞职，唯一能接替他的人选只有苹果的执行董事长库克，”他说。“让一位传奇人物接替另一位传奇。”同日，美国企业家马斯克在社交媒体平台回应网友建议他聘用黄仁勋时表示：“那将是我的荣幸。” 另据知情人士透露，临时首席执行官科莱特・克雷斯11月13日将在这家芯片企业位于加州圣克拉拉的总部召集高管团队开会。这位因信息涉密而要求匿名的知情人士称，克雷斯将和一众高层管理人员讨论领导层安排以及业务延续方案。（财联社）（界面新闻） 配图 知情人士：腾讯“裁员50%”说法完全不属实 11月12日消息，针对外界关于“腾讯裁员50%”的说法，界面新闻从接近腾讯的知情人士处获悉，在腾讯28周年的Linktime线上直播中，腾讯管理层主动表达了要加快组织变革的决心，同时特别提到，这和几年前那次“降本增效”不一样。前一次相对被动，更偏“降本”；这一次是面向AI时代的主动出击，更偏“增效”，激发团队去创造新的价值，鼓励一线同事积极举手向前冲，中间的管理层则需要变得更扁平和灵敏。为了应对新的变革，内部需要主动思考新打法和新战场，50%的人像陆军一样，守土有责，通过提效去做好现有的核心业务；另50%的人像海军一样，拥抱浪潮，探索AI Native、拓展新的发展空间。这是公司资源适应AI时代的重新调度，可能也是所谓“裁员50%”的谣言误读出处，该说法完全不属实。（界面新闻） 宣扬错误婚恋观，德芙代运营方被罚80万 11月12日，据“上海市场监管”微信公众号发布的长三角违法广告典型案例信息显示，上海宗正食品有限公司作为快手平台“德芙官方旗舰店”的运营主体，于2026年8月为推销“德芙巧克力七彩缤纷礼盒”，自行设计、制作并在店铺内发布含有“跟男朋友要了很久的德芙七彩礼盒也没给我买，今天趁男朋友不在跟暧昧对象分享了抖音，驾车2小时送了过来，很甜”等内容的宣传视频，将对待感情的不忠行为包装成“甜蜜体验”，宣扬错误婚恋观，违背社会良好风尚。"
+      ]
+    },
+    {
+      "id": "auto-c01a4780a3",
+      "title": "【钛晨报】李强主持国务院第二十二次专题学习，聚焦健全多层次社会保障体系；英伟达换帅！黄仁勋辞任CEO，CFO克雷斯临时接棒；国内首个口服GLP-1类减肥药获批上市",
+      "category": "industry",
+      "date": "2026-11-13",
+      "time": "07:20",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8203507.html",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "融资"
+      ],
+      "summary": "国家发改委：11月12日24时起汽、柴油价格每吨分别下调645元、625元；存储涨价潮仍将延续，产品需求现分化；美国FDA终止药物快速审评计划；",
+      "body": [
+        "国家发改委：11月12日24时起汽、柴油价格每吨分别下调645元、625元；存储涨价潮仍将延续，产品需求现分化；美国FDA终止药物快速审评计划；张一鸣：字节AI最早2029年或2030年追平OpenAI与Anthropic；百度推出大模型交易平台词元所；腾讯相关知情人士：微信“看一看”正在小范围测试短剧入口；台积电回应“6.9GB员工资料外泄”：将向相关人员提供必要协助"
+      ]
+    },
+    {
+      "id": "auto-ee3cc70ef0",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "category": "model",
+      "date": "2026-11-13",
+      "time": "06:42",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the secon…",
+      "body": [
+        "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
+      ]
+    },
+    {
+      "id": "auto-53a84d0640",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "category": "model",
+      "date": "2026-11-13",
+      "time": "05:55",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, inc…",
+      "body": [
+        "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses.",
+        "It's available starting today in search, the Gemini app, all tiers of Google […]"
+      ]
+    },
+    {
+      "id": "auto-d52ad701ff",
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "category": "model",
+      "date": "2026-11-13",
+      "time": "04:26",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of…",
+      "body": [
+        "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia."
+      ]
+    },
     {
       "id": "auto-15df913ae6",
       "title": "估值1300亿，字节背后的算力独角兽，要赴美IPO了",
