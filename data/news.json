@@ -1,7 +1,220 @@
 {
-  "updatedAt": "2026-11-13T09:40:12+08:00",
-  "edition": "2026-11-13",
+  "updatedAt": "2026-11-14T09:35:32+08:00",
+  "edition": "2026-11-14",
   "articles": [
+    {
+      "id": "auto-5a5e9db8b9",
+      "title": "9点1氪丨马斯克在X平台公开表态，将参与要求黄仁勋重返英伟达的请愿活动",
+      "category": "industry",
+      "date": "2026-11-14",
+      "time": "09:15",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4068905666859912?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "算力"
+      ],
+      "summary": "今日热点导览 微软：初步迹象显示系统已趋于稳定，复原工作仍在进行中 Anthropic与OpenAI被控抄袭神经网络专利 金价再迎暴跌专家劝别抄底",
+      "body": [
+        "今日热点导览 微软：初步迹象显示系统已趋于稳定，复原工作仍在进行中 Anthropic与OpenAI被控抄袭神经网络专利 金价再迎暴跌专家劝别抄底，国际金价失守3900美元 段永平：目前不会卖出英伟达，当天卖出不少看跌期权 华硕前三季度营收7424亿元新台币，归母净利润505亿元新台币 TOP3大新闻 英伟达市值重返美股第二，马斯克宣布将签名支持黄仁勋职 据《连线》查阅的内部通信，一位英伟达资深工程师在黄仁勋辞职前通过公司内网「建议箱」发帖，要求董事会先听取员工意见。报道发布时，帖子已有逾1600条评论，多数支持黄仁勋复职。还有员工向全公司发邮件，要求董事会解释他的离职经过。《连线》就员工的呼吁向英伟达和琼斯求证，报道刊发时尚未收到回应。与此同时，马斯克在X平台公开表态，将参与要求黄仁勋重返英伟达的请愿活动。他在回复一则讨论英伟达员工如何争取黄仁勋复职的帖子时写道：“目前正在进行要求黄仁勋复职的请愿活动，我也会签名。” 美东时间11月13日，英伟达收报每股162.85美元，下跌2.01%，盘中一度跌至158.39美元。公司市值约为3.92万亿美元，收盘时重新超越微软，位居美股第二，仅次于苹果的约5.18万亿美元。英伟达本周累计下跌12.7%，市值蒸发超过5730亿美元，连续第六周下跌，创下2012年以来最长连跌纪录。（爱范儿） 大疆：11月18日起调整部分产品的建议零售价 36氪获悉，大疆官网今日发布关于DJI大疆部分产品建议零售价调整的说明，受全球半导体及存储等多项关键零部件成本持续大幅上涨的影响，经审慎评估，大疆将于2026年11月18日00:00起，对部分产品的建议零售价进行调整。",
+        "Claude最严封号措施正式生效 11月12日，AI公司Anthropic被称为“Claude史上最严封号机制”正式生效，明确地区准入的穿透式审查标准，目的是封堵壳公司、代理中转等绕开地区限制的方式。当地时间10月8日，Anthropic发布2026版Claude使用政策更新公告，对可接受使用条款（AUP）与支持地区规则作出细化澄清。本次新规覆盖全部Claude相关产品与服务：包括Claude.ai、Claude Code、Cowork等官方应用，API与开发者平台，以及经由云服务商、授权经销商渠道提供的Claude模型服务，所有渠道统一适用这套地区准入与使用约束规则。新规划定三类使用主体准入限制：使用者物理位置落在非支持地区，即便供职于合规区域企业，也无法接入；经营主体注册地或总部设在受限区域，员工身处合规地区也不具备使用资格；企业若受到受限地区主体直接、间接持股或实质控制，无论注册地点、使用者所在地，均被限制访问。（界面新闻） AI最前沿 腾讯混元：发布全新实时语音模型Hy Realtime 36氪获悉，腾讯混元发文称，发布全新实时语音模型Hy Realtime。模型新增Agentic工具调用与唱歌能力。Hy Realtime已在元宝语音通话、腾讯客服等产品上线，近期也将上线腾讯云，对外提供API服务。除了基础对话功能，Hy Realtime还具备工具调用能力，它能根据对话上下文、用户意图准确判断是否执行联网搜索，统一搜索决策、调用工具与生成回答。",
+        "Anthropic与OpenAI被控抄袭神经网络专利 周四，一家由计算机科学家创立的人工智能公司提起诉讼，指控Anthropic PBC和OpenAI OpCo涉嫌侵犯专利权。Flinn人工智能技术有限责任公司（Flinn AI）向美国特拉华州地区法院提交了两份诉状，指控Anthropic和OpenAI均侵犯了由联合发明人史蒂文·弗林和娜奥米·曼尼佩尼获得的五项专利。诉状称，这些发明可追溯至2015年末和2016年初，当时弗林与联合发明人曼尼佩尼提交了专利申请，其“旨在保护这一代全新的基于注意力机制的神经网络技术，而该技术如今构成了现代生成式人工智能系统的重要功能基础”。（新浪财经） 机构：随着生成式AI快速发展，2026年AI软件收入将突破2000亿美元 36氪获悉，据Omdia最新的《AI软件市场预测》报告，2026年全球AI软件收入将超过2000亿美元，达到2024年水平的两倍。Omdia的最新预测显示，生成式AI（Generative AI）和代理式AI（Agentic AI）的需求均呈加速增长态势。"
+      ]
+    },
+    {
+      "id": "auto-61c1d8b470",
+      "title": "Edge AI Daily 早报（11月14日）",
+      "category": "industry",
+      "date": "2026-11-14",
+      "time": "08:51",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8204969.html",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "算力",
+        "融资"
+      ],
+      "summary": "英伟达黄仁勋辞任触发治理与出口审查重估，股价盘中跌破4万亿美元后修复；微软365全球中断暴露云集中化单点风险。Anthropic IPO获六倍认购并签SpaceX月12.5亿美元算力合同",
+      "body": [
+        "英伟达黄仁勋辞任触发治理与出口审查重估，股价盘中跌破4万亿美元后修复；微软365全球中断暴露云集中化单点风险。Anthropic IPO获六倍认购并签SpaceX月12.5亿美元算力合同，OpenAI融资150亿美元但亏损扩大；谷歌Gemini 4 Hydrogen与Claude默认模型推进AI执行层，SpaceX拟投740亿美元建算力设施，AI巨头因末日预言被诉。中国开放权重模型硬件指纹、230亿元项目依赖受限英伟达芯片、欧盟涉华铜管反倾销及A股产业链抗波动，显示出口管制与贸易壁垒重塑算力与制造供应链；Rust 1.100强化供应链治理。"
+      ]
+    },
+    {
+      "id": "auto-1ce4c39115",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "category": "industry",
+      "date": "2026-11-14",
+      "time": "06:43",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Nvidia poured tens of billions into AI startups under Huang.",
+      "body": [
+        "Nvidia poured tens of billions into AI startups under Huang.",
+        "Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+      ]
+    },
+    {
+      "id": "auto-ad1f2d7c71",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "category": "model",
+      "date": "2026-11-14",
+      "time": "04:45",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the…",
+      "body": [
+        "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents.",
+        "ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card […]"
+      ]
+    },
+    {
+      "id": "auto-f65f9383f2",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "category": "model",
+      "date": "2026-11-14",
+      "time": "03:37",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangS…",
+      "body": [
+        "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
+      ]
+    },
+    {
+      "id": "auto-dbebd7ee62",
+      "title": "Let’s talk about Jensen Huang’s many affairs!",
+      "category": "model",
+      "date": "2026-11-14",
+      "time": "03:07",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really…",
+      "body": [
+        "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia.",
+        "I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singularity."
+      ]
+    },
+    {
+      "id": "auto-0453e8b129",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "category": "model",
+      "date": "2026-11-14",
+      "time": "02:40",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "body": [
+        "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+      ]
+    },
+    {
+      "id": "auto-e0ea587f7c",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "category": "model",
+      "date": "2026-11-14",
+      "time": "00:00",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout…",
+      "body": [
+        "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S."
+      ]
+    },
+    {
+      "id": "auto-81c8e049f8",
+      "title": "美股大型科技股盘前涨跌不一，英伟达涨超1%",
+      "category": "model",
+      "date": "2026-11-13",
+      "time": "20:54",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4068187392496512?f=rss",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，亚马逊、英伟达涨超1%，特斯拉涨0.62%，谷歌涨0.97%，苹果涨0.41%，闪迪、微软跌超1%，Meta跌0.03%。",
+      "body": [
+        "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，亚马逊、英伟达涨超1%，特斯拉涨0.62%，谷歌涨0.97%，苹果涨0.41%，闪迪、微软跌超1%，Meta跌0.03%。"
+      ]
+    },
+    {
+      "id": "auto-45f485b642",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "category": "model",
+      "date": "2026-11-13",
+      "time": "20:52",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosyst…",
+      "body": [
+        "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
+      ]
+    },
+    {
+      "id": "auto-333c9322a2",
+      "title": "协创数据回应网传“拿卡渠道受阻”：不属实，当前采购渠道畅通算力业务有序推进",
+      "category": "industry",
+      "date": "2026-11-13",
+      "time": "20:27",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4068159271015558?f=rss",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "36氪获悉，有投资者问，传闻公司部分拿卡渠道受阻，请问是否属实？协创数据在互动平台表示，相关传闻不属实。公司根据业务开展和订单需求统筹安排采购，当前采购渠道畅通，算力业务有序推进。",
+      "body": [
+        "36氪获悉，有投资者问，传闻公司部分拿卡渠道受阻，请问是否属实？协创数据在互动平台表示，相关传闻不属实。公司根据业务开展和订单需求统筹安排采购，当前采购渠道畅通，算力业务有序推进。"
+      ]
+    },
+    {
+      "id": "auto-cce22bf147",
+      "title": "长盈精密：新能源业务稳健增长，具身智能板块爆发式增长，短期利润承压",
+      "category": "industry",
+      "date": "2026-11-13",
+      "time": "20:16",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4068128662508679?f=rss",
+      "featured": false,
+      "tags": [
+        "机器人"
+      ],
+      "summary": "36氪获悉，长盈精密公告，公司前三季度营收164.53亿元，同比增长21.78%。当前，司正配合客户推进AIPC、可穿戴等消费电子新品开发，并推动储能、具身智能及AI硬件等业务加速量产上量。",
+      "body": [
+        "36氪获悉，长盈精密公告，公司前三季度营收164.53亿元，同比增长21.78%。当前，司正配合客户推进AIPC、可穿戴等消费电子新品开发，并推动储能、具身智能及AI硬件等业务加速量产上量。后续随新业务订单持续兑现及规模效应显现，盈利能力有望逐步修复。"
+      ]
+    },
     {
       "id": "auto-2b34aafa3a",
       "title": "上一个让CFO接班的芯片巨头，是英特尔",
