@@ -1,7 +1,110 @@
 {
-  "updatedAt": "2026-11-14T09:35:32+08:00",
-  "edition": "2026-11-14",
+  "updatedAt": "2026-11-15T09:41:57+08:00",
+  "edition": "2026-11-15",
   "articles": [
+    {
+      "id": "auto-b26cef2efd",
+      "title": "Edge AI Daily 早报（11月15日）",
+      "category": "policy",
+      "date": "2026-11-15",
+      "time": "09:09",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8205610.html",
+      "featured": false,
+      "tags": [
+        "算力",
+        "安全"
+      ],
+      "summary": "黄仁勋离任英伟达触发多线连锁：超11.5万人联署要求其回任，马斯克等科技高管声援，董事会曾就继任接触Arm CEO雷内·哈斯的传闻浮出，创始人依赖与制度化治理的张力凸显。",
+      "body": [
+        "黄仁勋离任英伟达触发多线连锁：超11.5万人联署要求其回任，马斯克等科技高管声援，董事会曾就继任接触Arm CEO雷内·哈斯的传闻浮出，创始人依赖与制度化治理的张力凸显。亚洲政府重估单一AI基础设施供应商风险，韩国锁定26万颗先进GPU供应并叠加本土芯片，中国重申出口管制，台湾推进台北总部项目。"
+      ]
+    },
+    {
+      "id": "auto-e0cf8f5ab3",
+      "title": "Where was Nvidia’s security team?",
+      "category": "industry",
+      "date": "2026-11-15",
+      "time": "08:08",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over…",
+      "body": [
+        "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch."
+      ]
+    },
+    {
+      "id": "auto-6bfc65111a",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "category": "model",
+      "date": "2026-11-15",
+      "time": "05:41",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "body": [
+        "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+      ]
+    },
+    {
+      "id": "auto-713f468172",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "category": "model",
+      "date": "2026-11-15",
+      "time": "01:30",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the…",
+      "body": [
+        "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+      ]
+    },
+    {
+      "id": "auto-cd360eafc1",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "category": "industry",
+      "date": "2026-11-15",
+      "time": "00:34",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact o…",
+      "body": [
+        "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
+      ]
+    },
+    {
+      "id": "auto-0f65c4cc49",
+      "title": "AI时代，公司越来越扁平，也越来越官僚",
+      "category": "model",
+      "date": "2026-11-14",
+      "time": "15:21",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8205239.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "未来最有活力的公司，也许不是每件事都管得最细的公司，而是有人敢说：这条规则，该改了。",
+      "body": [
+        "未来最有活力的公司，也许不是每件事都管得最细的公司，而是有人敢说：这条规则，该改了。"
+      ]
+    },
     {
       "id": "auto-5a5e9db8b9",
       "title": "9点1氪丨马斯克在X平台公开表态，将参与要求黄仁勋重返英伟达的请愿活动",
@@ -40,6 +143,25 @@
       "summary": "英伟达黄仁勋辞任触发治理与出口审查重估，股价盘中跌破4万亿美元后修复；微软365全球中断暴露云集中化单点风险。Anthropic IPO获六倍认购并签SpaceX月12.5亿美元算力合同",
       "body": [
         "英伟达黄仁勋辞任触发治理与出口审查重估，股价盘中跌破4万亿美元后修复；微软365全球中断暴露云集中化单点风险。Anthropic IPO获六倍认购并签SpaceX月12.5亿美元算力合同，OpenAI融资150亿美元但亏损扩大；谷歌Gemini 4 Hydrogen与Claude默认模型推进AI执行层，SpaceX拟投740亿美元建算力设施，AI巨头因末日预言被诉。中国开放权重模型硬件指纹、230亿元项目依赖受限英伟达芯片、欧盟涉华铜管反倾销及A股产业链抗波动，显示出口管制与贸易壁垒重塑算力与制造供应链；Rust 1.100强化供应链治理。"
+      ]
+    },
+    {
+      "id": "auto-98ade1c996",
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "category": "policy",
+      "date": "2026-11-14",
+      "time": "08:06",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging…",
+      "body": [
+        "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University.",
+        "This episode is part two of our series on AI in real life.",
+        "Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on […]"
       ]
     },
     {
@@ -216,6 +338,48 @@
       ]
     },
     {
+      "id": "auto-b718f09068",
+      "title": "炸了！英伟达最大的雷，是没接班人",
+      "category": "industry",
+      "date": "2026-11-13",
+      "time": "11:29",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4067628486267780?f=rss",
+      "featured": false,
+      "tags": [
+        "算力",
+        "政策",
+        "融资"
+      ],
+      "summary": "CFO 接任临时 CEO。 文 | 刘思洁 封面来源 | 网络 当地时间2026年11月12日，英伟达官方宣布，联合创始人黄仁勋辞去公司总裁、首席执行官及董事会成员职务，即刻生效。",
+      "body": [
+        "文 | 刘思洁 封面来源 | 网络 当地时间2026年11月12日，英伟达官方宣布，联合创始人黄仁勋辞去公司总裁、首席执行官及董事会成员职务，即刻生效。",
+        "英伟达同时宣布，现任执行副总裁兼首席财务官科Colette Kress，出任临时CEO，并继续担任CFO，直至正式继任者确定。董事会将启动新任CEO遴选程序，同时考虑内部和外部候选人。此外，英伟达董事会还任命Harvey C.",
+        "公告没有说明辞任原因。但过去一周，围绕黄仁勋私人关系的报道持续发酵，11月8日，英伟达董事会已宣布启动独立调查。"
+      ]
+    },
+    {
+      "id": "auto-b072771480",
+      "title": "36氪首发丨北航博士做AI4S，获亿元融资，要造自驱动实验室",
+      "category": "industry",
+      "date": "2026-11-13",
+      "time": "10:04",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4067548192576389?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "多模态"
+      ],
+      "summary": "图源/企业 本文约 3000 字，建议阅读 8 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，面向科学研发的Physical AI公司——青葵智造近日宣布完成亿元A轮融资",
+      "body": [
+        "图源/企业 本文约 3000 字，建议阅读 8 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，面向科学研发的Physical AI公司——青葵智造近日宣布完成亿元A轮融资，由创东方投资、飞荣达股份及金辉大数据共同参与。资金将重点用于核心技术研发、重点行业拓展以及云实验室建设，加速自驱动实验室的产业化落地。",
+        "青葵智造成立于2021年，核心业务是面向生物医药、化学工业、先进材料、新能源等领域，提供“AI设计—自动化执行—多模态数据回流—模型自适应迭代”的干湿实验闭环解决方案。公司创始人、董事长陈南江为北航博士，曾任职于北机械学院，在机器人及智能制造领域有十余年连续创业经验。",
+        "近年来，AI4S（AI for Science）正从计算驱动的科学发现，向AI自主实验执行演进。不过，行业内仍面临着“Execution Gap”（执行鸿沟）与“Data Gap”（数据鸿沟）这样的核心痛点，即数字世界中的智能决策，与真实世界中的实验执行尚未充分打通。"
+      ]
+    },
+    {
       "id": "auto-2b34aafa3a",
       "title": "上一个让CFO接班的芯片巨头，是英特尔",
       "category": "industry",
@@ -337,6 +501,25 @@
       ]
     },
     {
+      "id": "auto-efc94ec1e9",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "category": "model",
+      "date": "2026-11-13",
+      "time": "08:23",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "Normally, the products I test don't offer to help me write up my experience with them.",
+      "body": [
+        "Normally, the products I test don't offer to help me write up my experience with them.",
+        "Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code.",
+        "It's been an interesting couple […]"
+      ]
+    },
+    {
       "id": "auto-a9e76abe20",
       "title": "8点1氪丨英伟达宣布CEO黄仁勋辞职，特朗普：建议库克接任；腾讯“裁员50%”？知情人士回应；宣扬错误婚恋观，德芙代运营方被罚80万",
       "category": "industry",
@@ -425,6 +608,42 @@
       "summary": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of…",
       "body": [
         "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia."
+      ]
+    },
+    {
+      "id": "auto-c4c87928ce",
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "category": "model",
+      "date": "2026-11-13",
+      "time": "03:42",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have d…",
+      "body": [
+        "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico.",
+        "There was just one problem: The site had already been discovered and was published in an academic journal last year.",
+        "The incident, which sparked criticism among archeologists online, underscores a […]"
+      ]
+    },
+    {
+      "id": "auto-1cea6ebd46",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "category": "model",
+      "date": "2026-11-13",
+      "time": "03:11",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outr…",
+      "body": [
+        "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
       ]
     },
     {
