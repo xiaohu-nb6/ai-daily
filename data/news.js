@@ -1,8 +1,223 @@
 /* AI 前沿日报 · 数据文件（由 scripts/refresh_news.py 生成，可手工编辑） */
 window.AI_DAILY_DATA = {
-  "updatedAt": "2026-11-15T09:41:57+08:00",
-  "edition": "2026-11-15",
+  "updatedAt": "2026-11-16T09:54:29+08:00",
+  "edition": "2026-11-16",
   "articles": [
+    {
+      "id": "auto-a2a9de9fd6",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "category": "model",
+      "date": "2026-11-16",
+      "time": "09:47",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with co…",
+      "body": [
+        "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are.",
+        "The company is conducting the Apple Health AI Usage Study in collaboration with OpenEvidence, a clinical AI platform used by healthcare professionals that generates answers based on medical […]"
+      ]
+    },
+    {
+      "id": "auto-d3d040d036",
+      "title": "AI泡沫监测·之三：英伟达的毛利期权——一张美国AI泡沫的层积图",
+      "category": "industry",
+      "date": "2026-11-16",
+      "time": "09:33",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8206051.html",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "英伟达五万亿估值的本质，是70%以上毛利率的期权——全产业链都在替它交租。这篇把债务、选票、公司、收入、全球五层账本拼成一张图：租金退回（毛利归位）与刚性解锁（它亲手废约）两步棋怎么走",
+      "body": [
+        "英伟达五万亿估值的本质，是70%以上毛利率的期权——全产业链都在替它交租。这篇把债务、选票、公司、收入、全球五层账本拼成一张图：租金退回（毛利归位）与刚性解锁（它亲手废约）两步棋怎么走，11月17日英伟达财报是第一场对账。"
+      ]
+    },
+    {
+      "id": "auto-a86d33b389",
+      "title": "汽车激光雷达厂商，又开始抢机器人关节的生意了",
+      "category": "industry",
+      "date": "2026-11-16",
+      "time": "09:12",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8205984.html",
+      "featured": false,
+      "tags": [
+        "机器人"
+      ],
+      "summary": "一家机器人公司，带来禾赛第一批执行器订单。",
+      "body": [
+        "一家机器人公司，带来禾赛第一批执行器订单。"
+      ]
+    },
+    {
+      "id": "auto-d53bbfa52d",
+      "title": "斑马AI学发布2027版本",
+      "category": "model",
+      "date": "2026-11-16",
+      "time": "09:08",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4071740620673924?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "政策"
+      ],
+      "summary": "36氪获悉，近日，斑马AI学发布2027版本，面向小学高年级阶段的斑马英语S8、斑马思维S7、斑马大阅读S7正式发布，这是斑马针对旗下AI学产品体系的一次系统性升级",
+      "body": [
+        "36氪获悉，近日，斑马AI学发布2027版本，面向小学高年级阶段的斑马英语S8、斑马思维S7、斑马大阅读S7正式发布，这是斑马针对旗下AI学产品体系的一次系统性升级，意味着其产品已从兴趣启蒙全面进化至小学高阶的学习阶段。斑马自主研发的斑马儿童科教大模型，面向儿童学习场景打造，并已完成国家网信办生成式人工智能服务备案。基于这款大模型，在此次发布的三个高阶级别产品中，AI不再只是问答入口，而是融入不同类型的学习任务，围绕孩子的理解、练习和表达提供支持。"
+      ]
+    },
+    {
+      "id": "auto-3145d98d77",
+      "title": "韩国LS电气斩获1300亿韩元美国AI数据中心电力设备订单",
+      "category": "industry",
+      "date": "2026-11-16",
+      "time": "08:57",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4071729157641095?f=rss",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "据公司声明，LS电气获得了一家全球大型科技公司约1300亿韩元的订单，将为美国的一座超大规模AI数据中心提供配电系统。该公司将为该数据中心供应38千伏（kV）高压及低压开关柜。",
+      "body": [
+        "据公司声明，LS电气获得了一家全球大型科技公司约1300亿韩元的订单，将为美国的一座超大规模AI数据中心提供配电系统。该公司将为该数据中心供应38千伏（kV）高压及低压开关柜。LS电气自该项目初期便已参与，并在此次扩建项目中再次中标。公司表示，近期已与另一家大型科技公司签署了长期供货协议，并计划继续扩大该业务规模。（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-1e201e2062",
+      "title": "Edge AI Daily 早报（11月16日）",
+      "category": "policy",
+      "date": "2026-11-16",
+      "time": "08:47",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8206064.html",
+      "featured": false,
+      "tags": [
+        "算力",
+        "政策",
+        "机器人"
+      ],
+      "summary": "黄仁勋辞任英伟达CEO触发继任与机构能力考验，出口管制审查、安全团队及32亿美元中国项目凸显合规与算力闭环风险；OpenAI重组机器人团队并重申AI安全治理不能依赖CEO个人；",
+      "body": [
+        "黄仁勋辞任英伟达CEO触发继任与机构能力考验，出口管制审查、安全团队及32亿美元中国项目凸显合规与算力闭环风险；OpenAI重组机器人团队并重申AI安全治理不能依赖CEO个人；苹果借App Intents推动Siri成为执行入口，Meta因默认相册访问被罚8.05亿欧元，AI勒索软件产业化加速。"
+      ]
+    },
+    {
+      "id": "auto-e26ba7aadc",
+      "title": "未提前规划黄仁勋接班人，财富500强前CEO：英伟达董事会严重失职",
+      "category": "policy",
+      "date": "2026-11-16",
+      "time": "08:36",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4071700040668296?f=rss",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "多名见证英伟达这场风波的前企业CEO表示，英伟达董事会没能通过这场最重要的考验。在三位财富500强前CEO以及一位知名咨询顾问看来，这家运营良好的企业本应备好成熟继任案，而英伟达完全没有",
+      "body": [
+        "多名见证英伟达这场风波的前企业CEO表示，英伟达董事会没能通过这场最重要的考验。在三位财富500强前CEO以及一位知名咨询顾问看来，这家运营良好的企业本应备好成熟继任案，而英伟达完全没有，这暴露了其公司治理层面惊人的短板。他们都在知名企业董事会任职。令这些受访人士难以理解的是：这家全球市值第二高的企业，已经经营33年、上市27年，却没有一位经过长期培养、随时可以接棒的成熟高管。尤其黄仁勋明年2月就满64岁，是“七大科技巨头”里年龄遥遥领先的CEO。在他们眼中，这一疏漏就是公司治理失效的终极信号；这家此前几乎方方面面都做得无可挑剔的企业，这次的表现令人大跌眼镜。（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-c0ee957e91",
+      "title": "8点1氪丨黄仁勋考虑回归担任英伟达CEO；129万/支的“天价抗癌药”进医保了；美国罕见全国停飞超4小时",
+      "category": "model",
+      "date": "2026-11-16",
+      "time": "08:09",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4071682515817605?f=rss",
+      "featured": false,
+      "tags": [
+        "智能体",
+        "融资",
+        "机器人"
+      ],
+      "summary": "今日热点导览 OpenAI解散机器人团队 SpaceX首次实现“筷子夹飞船” 2026年版国家基本医保药品目录发布，新增107种药品 微软就全球服务中断道歉 加密货币全线大跳水",
+      "body": [
+        "今日热点导览 OpenAI解散机器人团队 SpaceX首次实现“筷子夹飞船” 2026年版国家基本医保药品目录发布，新增107种药品 微软就全球服务中断道歉 加密货币全线大跳水，超31万人爆仓 TOP3大新闻 黄仁勋讨论重掌英伟达，硅谷盟友游说支持回归 据报道，在被董事会驱逐数天之后，英伟达公司前首席执行官黄仁勋正在讨论重返公司的可能性。随着几位硅谷盟友开始游说支持他回归，黄仁勋已经在讨论重返公司的想法。一名黄仁勋的盟友透露，他们正在组建一个由硅谷企业高管组成的“作战室”，游说推动黄仁勋复职，并计划争取白宫方面的支持。这名人士表示：“在科技行业，除了那些前沿研究实验室之外，所有有影响力的人都喜欢黄仁勋。”他还补充说，黄仁勋本人支持这项行动。",
+        "Altimeter Capital Management和Atreides Management上周晚些时候在社交媒体发文称，鉴于“黄仁勋长期领导下取得的非凡成功”，以及他的离职所带来的不确定性，英伟达董事会在决定未来领导层时应采取“缓慢、审慎且深思熟虑的”方式。（新浪财经、鞭牛士） 原价129万一针的CAR-T抗癌药首次纳入基本医保 11月14日，国家医保局宣布，药明巨诺（02126.HK）的CAR-T药物瑞基奥仑赛已被纳入医保目录。进入医保前，瑞基奥仑赛的定价为129万元/支。哈尔滨血液病肿瘤研究所马军所长告诉记者，纳入医保后，瑞基奥仑赛的定价已降到30万元/支以下。据悉，CAR-T是一种免疫细胞疗法，凭借在血液肿瘤领域取得的惊艳“战绩”，成为近年抗癌治疗的“新秀”。CAR-T药物以“天价”闻名，每针的价格在100万元左右，即便叠加各种优惠，每针价格也在50万元左右。过去几年，CAR-T药物曾多次尝试进入基本医保目录，均因定价过高，止步于形式审查阶段。（经济观察报） 因技术故障，美国停飞全国航班 美国当地时间11月13日，美国联邦航空管理局（FAA）因航空交通管制系统出现通信故障，发布全国性航班地面停飞令，要求全美各机场暂停出港航班起飞。这项指令于当地时间下午3时54分左右发布，持续超过4小时。",
+        "对于事故原因，官方初步表示，FAA航空交通管制中心发生通信故障，老旧系统中的路由器和交换设备因数据负载问题出现异常，影响了通信及雷达信息的稳定传输。为确保飞行安全，当局因此决定暂停全国航班起飞。当地时间15日，美国交通部长达菲表示，美国航空运输预计当天逐步恢复正常，受飞机和机组人员不在预定执勤位置影响，可能到16日才能全面恢复。（新华社） AI最前沿 OpenAI推出ChatGPT钱包 北京时间周五晚间，OpenAI宣布推出ChatGPT钱包。该产品的主要卖点是AI巨头与美国运通、万事达和Visa三大支付网络合作，通过替代支付凭证，让AI代理无需接触用户的真实信用卡信息即可完成付款，同时保留原有信用卡奖励和交易争议保障。OpenAI表示，这项功能上线初期先面向美国成年Pro订阅用户开放，且必须持有符合条件的美国信用卡，ChatGPT钱包上线初期不会从交易中抽成。（财联社） Google为Gemini推出个人财务分析功能，接入银行账户和信用卡，帮用户分析收支 当地时间11月13日，Google宣布为Gemini推出全新的个人财务分析功能，通过整合Google Wallet（Google钱包）以及第三方金融数据服务Plaid，允许用户将银行账户、信用卡等金融账户连接到Gemini，让AI直接读取个人交易记录，分析消费习惯、追踪资金流向，并根据实际财务状况制定预算和储蓄计划。用户启用该功能后，可以在Gemini对话中使用@Google Wallet调用个人财务数据。Google特别强调，这项功能采用只读访问机制。即使用户授权Gemini读取银行账户和信用卡信息，AI也不能直接转移资金、管理账户或者进行投资操作。（IT之家） OpenAI解散机器人团队 据媒体报道称，OpenAI已解散其独立机器人团队，将团队研究人员重新分配至其他部门。一位OpenAI发言人表示，此举并不意味着公司退出机器人领域，机器人技术仍然是OpenAI长期愿景的核心组成部分。OpenAI原机器人研究团队已被并入公司的核心研究团队，向首席研究官Mark Chen汇报；而应用机器人团队和硬件团队则被重新划归公司规模更大的应用部门，该部门由OpenAI总裁Greg Brockman领导。这是OpenAI第二次解散机器人团队。（财联社） 大公司/大事件 英伟达回应黄仁勋继任者传闻 据报道，英伟达董事会在寻找黄仁勋潜在继任者的过程中，已接触Arm首席执行官雷内·哈斯（Rene Haas）。2013年加入Arm前，哈斯曾任英伟达计算产品业务高管。"
+      ]
+    },
+    {
+      "id": "auto-a28a197b8f",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "category": "industry",
+      "date": "2026-11-16",
+      "time": "07:30",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies inc…",
+      "body": [
+        "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics."
+      ]
+    },
+    {
+      "id": "auto-5477d564f8",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "category": "model",
+      "date": "2026-11-16",
+      "time": "05:56",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "body": [
+        "And so much of this economy is riding on Nvidia.\""
+      ]
+    },
+    {
+      "id": "auto-0ecbcbc5c5",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "category": "model",
+      "date": "2026-11-16",
+      "time": "04:49",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly.",
+      "body": [
+        "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly.",
+        "The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning.",
+        "That includes rumors that Jensen Huang might be trying to find a path back to CEO, […]"
+      ]
+    },
+    {
+      "id": "auto-4266bbc403",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "category": "industry",
+      "date": "2026-11-16",
+      "time": "03:15",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected…",
+      "body": [
+        "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips.",
+        "Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress."
+      ]
+    },
     {
       "id": "auto-b26cef2efd",
       "title": "Edge AI Daily 早报（11月15日）",
