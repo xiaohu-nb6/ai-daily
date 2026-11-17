@@ -1,8 +1,221 @@
 /* AI 前沿日报 · 数据文件（由 scripts/refresh_news.py 生成，可手工编辑） */
 window.AI_DAILY_DATA = {
-  "updatedAt": "2026-11-16T09:54:29+08:00",
-  "edition": "2026-11-16",
+  "updatedAt": "2026-11-17T09:46:33+08:00",
+  "edition": "2026-11-17",
   "articles": [
+    {
+      "id": "auto-2f818812c6",
+      "title": "Edge AI Daily 早报（11月17日）",
+      "category": "model",
+      "date": "2026-11-17",
+      "time": "08:55",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8207785.html",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "算力"
+      ],
+      "summary": "英伟达领导层变动、Anthropic拟上市与财报窗口，使AI交易从增长叙事转向现金流、资本效率和治理连续性验证；美国将先进芯片出口管制延伸至远程算力与最终用户审查。",
+      "body": [
+        "英伟达领导层变动、Anthropic拟上市与财报窗口，使AI交易从增长叙事转向现金流、资本效率和治理连续性验证；美国将先进芯片出口管制延伸至远程算力与最终用户审查。OpenAI在儿童安全、媒体分发与健康研究上推进基础设施化，同时因自主智能体安全遭加州起诉。Claude Fable 5.2展现过程智能，谷歌Gemini4Carbon接入腾讯WorkBuddy，国产算力与开放模型战略迎来重估窗口。"
+      ]
+    },
+    {
+      "id": "auto-167a5ed27c",
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "category": "industry",
+      "date": "2026-11-17",
+      "time": "07:32",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 millio…",
+      "body": [
+        "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+      ]
+    },
+    {
+      "id": "auto-ce591f1d9c",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "category": "model",
+      "date": "2026-11-17",
+      "time": "07:20",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throug…",
+      "body": [
+        "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry.",
+        "Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result of a plot against the former CEO."
+      ]
+    },
+    {
+      "id": "auto-25875a1057",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "category": "policy",
+      "date": "2026-11-17",
+      "time": "07:04",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked ot…",
+      "body": [
+        "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face.",
+        "In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters."
+      ]
+    },
+    {
+      "id": "auto-6f12e56032",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "category": "model",
+      "date": "2026-11-17",
+      "time": "06:03",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her c…",
+      "body": [
+        "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results.",
+        "Given the turmoil Nvidia is in, there are a number of questions that Nvidia should answer."
+      ]
+    },
+    {
+      "id": "auto-ca2751a84b",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "category": "model",
+      "date": "2026-11-17",
+      "time": "04:07",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable f…",
+      "body": [
+        "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
+      ]
+    },
+    {
+      "id": "auto-f345bf3ce6",
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "category": "model",
+      "date": "2026-11-17",
+      "time": "03:25",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the u…",
+      "body": [
+        "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors.",
+        "Basic Siri commands and requests will remain free and unlimited, but more advanced features that rely on […]"
+      ]
+    },
+    {
+      "id": "auto-388810ef30",
+      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+      "category": "model",
+      "date": "2026-11-17",
+      "time": "03:23",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the…",
+      "body": [
+        "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly.",
+        "At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether it's AI-generated."
+      ]
+    },
+    {
+      "id": "auto-48af60df8a",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "category": "model",
+      "date": "2026-11-17",
+      "time": "03:12",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice…",
+      "body": [
+        "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy."
+      ]
+    },
+    {
+      "id": "auto-1bfa84953b",
+      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+      "category": "model",
+      "date": "2026-11-17",
+      "time": "02:43",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a r…",
+      "body": [
+        "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC.",
+        "A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, along with current and former Nvidia employees, […]"
+      ]
+    },
+    {
+      "id": "auto-9f7218d9cd",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "category": "model",
+      "date": "2026-11-17",
+      "time": "02:11",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI bo…",
+      "body": [
+        "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm."
+      ]
+    },
+    {
+      "id": "auto-94862caac0",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "category": "model",
+      "date": "2026-11-17",
+      "time": "01:36",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "featured": false,
+      "tags": [
+        "开源"
+      ],
+      "summary": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S.",
+      "body": [
+        "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S.",
+        "IT giant and the South Korean financial industry."
+      ]
+    },
     {
       "id": "auto-a2a9de9fd6",
       "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
