@@ -1,8 +1,223 @@
 /* AI 前沿日报 · 数据文件（由 scripts/refresh_news.py 生成，可手工编辑） */
 window.AI_DAILY_DATA = {
-  "updatedAt": "2026-11-17T09:46:33+08:00",
-  "edition": "2026-11-17",
+  "updatedAt": "2026-11-18T09:49:54+08:00",
+  "edition": "2026-11-18",
   "articles": [
+    {
+      "id": "auto-5b7953db57",
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "category": "industry",
+      "date": "2026-11-18",
+      "time": "09:44",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by J…",
+      "body": [
+        "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies."
+      ]
+    },
+    {
+      "id": "auto-7222505b81",
+      "title": "三星电机与英伟达扩大在AI芯片组件方面的合作",
+      "category": "industry",
+      "date": "2026-11-18",
+      "time": "09:30",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4074592872518793?f=rss",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "三星电子旗下的电子元件子公司三星电机周三表示，已同意扩大与英伟达的合作，以支持这家美国芯片制造商提升其加速计算平台的产量，从而满足全球对人工智能（AI）基础设施日益增长的需求。",
+      "body": [
+        "三星电子旗下的电子元件子公司三星电机周三表示，已同意扩大与英伟达的合作，以支持这家美国芯片制造商提升其加速计算平台的产量，从而满足全球对人工智能（AI）基础设施日益增长的需求。三星电机指出，此次合作扩展是在双方上个月建立的半导体封装基板供应战略合作伙伴关系基础上进行的，重点在于增加用于英伟达下一代图形处理器（GPU）的先进封装基板的供应量。作为协议的一部分，英伟达将提供额外资金，支持三星电机在韩国的两处制造设施进行扩建。（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-d801598cd3",
+      "title": "英伟达季度营收破千亿美金，但昨日的世界已经远去",
+      "category": "industry",
+      "date": "2026-11-18",
+      "time": "09:01",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4074562529645445?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "算力",
+        "政策"
+      ],
+      "summary": "作者 | 邱晓芬 编辑 | 袁斯来 在黄仁勋离职卷起的风暴眼中，英伟达交出了近年来可能最受瞩目的财报。 北京时间11月18日凌晨，英伟达发布2027财年第三季度财报。",
+      "body": [
+        "作者 | 邱晓芬 编辑 | 袁斯来 在黄仁勋离职卷起的风暴眼中，英伟达交出了近年来可能最受瞩目的财报。",
+        "北京时间11月18日凌晨，英伟达发布2027财年第三季度财报。这是原CFO Colette Kress接任临时CEO以来，英伟达的首份成绩单。",
+        "财报数据显示，英伟达第三季度营收达到 1158亿美元 ， 同比增长103%； 净利润达到 653亿美元 ， 同比增长105% ，双双创下历史新高。其中，数据中心业务营收达到 1076亿美元，同比增长110% ，占总营收的93%。"
+      ]
+    },
+    {
+      "id": "auto-1472b6b022",
+      "title": "英伟达临时CEO称AI需求旺盛，预计将持续至2028年",
+      "category": "industry",
+      "date": "2026-11-18",
+      "time": "08:45",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4074538601387141?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体"
+      ],
+      "summary": "英伟达临时CEO兼首席财务官科莱特·克雷斯当地时间11月17日在第三财季财报电话会上表示，目前市场需求非常庞大，大型企业正持续开发各类智能体解决方案和新模型，客户近期仍在不断要求英伟达增加供货。",
+      "body": [
+        "英伟达临时CEO兼首席财务官科莱特·克雷斯当地时间11月17日在第三财季财报电话会上表示，目前市场需求非常庞大，大型企业正持续开发各类智能体解决方案和新模型，客户近期仍在不断要求英伟达增加供货。她预计，相关需求不仅将在2027财年持续，还会延续至2028财年。克雷斯还表示，英伟达将2028财年营收增长预期从此前的约70%上调至约75%，主要考虑了持续增长的客户需求以及供应能力的提升。她称，公司目前仍面临需求超过供应的情况。（界面）"
+      ]
+    },
+    {
+      "id": "auto-8bd4679b6f",
+      "title": "爱尔兰叫停X：禁止用AI智能体抓取第三方数据训练Grok",
+      "category": "model",
+      "date": "2026-11-18",
+      "time": "08:42",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4074539437888390?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "政策"
+      ],
+      "summary": "爱尔兰数据保护委员会（DPC）证实，已勒令X停止将AI智能体采集的数据用于AI模型训练。这家马斯克旗下社交巨头已经暂停使用其Grok Bot AI智能体采集的第三方数据来训练AI系统。",
+      "body": [
+        "爱尔兰数据保护委员会（DPC）证实，已勒令X停止将AI智能体采集的数据用于AI模型训练。这家马斯克旗下社交巨头已经暂停使用其Grok Bot AI智能体采集的第三方数据来训练AI系统。该智能体自10月开始抓取这类数据。爱尔兰数据保护委员会专员戴尔·桑德兰在采访中表示，监管机构近几周对该类数据处理行为提出了“重大关切”。“我们要求他们暂停这项数据处理，他们已于周一向我们确认执行。”（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-94662fdbb7",
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "category": "industry",
+      "date": "2026-11-18",
+      "time": "08:16",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang…",
+      "body": [
+        "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
+      ]
+    },
+    {
+      "id": "auto-8308cdad30",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "category": "model",
+      "date": "2026-11-18",
+      "time": "07:52",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta…",
+      "body": [
+        "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives.",
+        "Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a short clip to promote Muse, the company's consumer AI agent.",
+        "In the AI-generated clip, Wang, Meta CEO Mark Zuckerberg, OpenAI CEO Sam Altman, and […]"
+      ]
+    },
+    {
+      "id": "auto-a1841ed793",
+      "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+      "category": "policy",
+      "date": "2026-11-18",
+      "time": "07:37",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+      "body": [
+        "Nvidia's interim CEO says the company is done selling chips to China."
+      ]
+    },
+    {
+      "id": "auto-93cb42107a",
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+      "category": "industry",
+      "date": "2026-11-18",
+      "time": "07:04",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "featured": false,
+      "tags": [
+        "开源"
+      ],
+      "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, desp…",
+      "body": [
+        "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
+      ]
+    },
+    {
+      "id": "auto-a93c434d22",
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "category": "model",
+      "date": "2026-11-18",
+      "time": "06:50",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially…",
+      "body": [
+        "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return.",
+        "On the earnings call accompanying the release, board chair Harvey Jones kicked things off by saying the board \"does not intend to reinstate Huang […]"
+      ]
+    },
+    {
+      "id": "auto-1f49cd42d4",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "category": "model",
+      "date": "2026-11-18",
+      "time": "06:42",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The former CEO offered to return to his top role at the company after his resignation last week.",
+      "body": [
+        "The former CEO offered to return to his top role at the company after his resignation last week."
+      ]
+    },
+    {
+      "id": "auto-b484c41e98",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "category": "industry",
+      "date": "2026-11-18",
+      "time": "06:29",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher.",
+      "body": [
+        "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher.",
+        "Google is a close second with holdings of nearly 14%."
+      ]
+    },
     {
       "id": "auto-2f818812c6",
       "title": "Edge AI Daily 早报（11月17日）",
