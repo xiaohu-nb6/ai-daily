@@ -1,8 +1,228 @@
 /* AI 前沿日报 · 数据文件（由 scripts/refresh_news.py 生成，可手工编辑） */
 window.AI_DAILY_DATA = {
-  "updatedAt": "2026-11-18T09:49:54+08:00",
-  "edition": "2026-11-18",
+  "updatedAt": "2026-11-19T09:46:43+08:00",
+  "edition": "2026-11-19",
   "articles": [
+    {
+      "id": "auto-a6510ea7a3",
+      "title": "Anthropic IPO日本部分筹资30亿美元，居区间下限",
+      "category": "industry",
+      "date": "2026-11-19",
+      "time": "09:10",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4075944035931012?f=rss",
+      "featured": false,
+      "tags": [
+        "政策",
+        "融资"
+      ],
+      "summary": "根据监管文件，Anthropic PBC作为其首次公开募股（IPO）的一部分，从日本投资者处筹集了约30亿美元，处于其计划筹资区间的下限。日本是少数几个散户投资者能够直接参与此次IPO的市场之一。",
+      "body": [
+        "根据监管文件，Anthropic PBC作为其首次公开募股（IPO）的一部分，从日本投资者处筹集了约30亿美元，处于其计划筹资区间的下限。日本是少数几个散户投资者能够直接参与此次IPO的市场之一。这也为日本资本市场提供了急需的支撑。数据显示，距离2026年结束仅剩约一个月时间，今年以日元计价的IPO筹资额目前低于2011年以来的任何完整年份。继今年6月埃隆·马斯克旗下的SpaceX进行IPO并同样吸引日本资金后，Anthropic也推出了日本发售计划。这类被称为“无上市公开发行”的交易，提升了瑞穗金融集团作为全球交易协调人的知名度。（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-322f9f509c",
+      "title": "Edge AI Daily 早报（11月19日）",
+      "category": "industry",
+      "date": "2026-11-19",
+      "time": "09:05",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8210615.html",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "算力"
+      ],
+      "summary": "英伟达完成创始人离任后治理重置：Q3营收1158亿美元、订单积压2.5万亿美元，停售H200并设董事会出口管制委员会；美出口管制扩至第三国远程算力，AI基础设施碎片化。",
+      "body": [
+        "英伟达完成创始人离任后治理重置：Q3营收1158亿美元、订单积压2.5万亿美元，停售H200并设董事会出口管制委员会；美出口管制扩至第三国远程算力，AI基础设施碎片化。Anthropic拟以约1.4万亿美元估值IPO，算力成本进入公开验证。微软Ignite将Office/Copilot升级为智能体工作系统，推跨供应商AI透明度治理；OpenAI加码销售入口。Claude三日适配AMD、OVHcloud开源Olala，冲击CUDA与云模型入口。速卖通联合CJ、阿里参与系统战，中国出海升温。"
+      ]
+    },
+    {
+      "id": "auto-89dbcc9852",
+      "title": "Cassava寻求筹集10亿美元购买英伟达芯片",
+      "category": "industry",
+      "date": "2026-11-19",
+      "time": "08:53",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4075940799583366?f=rss",
+      "featured": false,
+      "tags": [
+        "算力",
+        "融资"
+      ],
+      "summary": "据报道，非洲科技集团Cassava Technologies正寻求筹集最多10亿美元，用于购买英伟达芯片，以便在整个非洲大陆建设计算基础设施。",
+      "body": [
+        "据报道，非洲科技集团Cassava Technologies正寻求筹集最多10亿美元，用于购买英伟达芯片，以便在整个非洲大陆建设计算基础设施。此次融资是Cassava创始人、津巴布韦亿万富翁斯特赖夫·马西伊瓦（Strive Masiyiwa）推动的一项宏大计划的一部分，旨在抓住人工智能热潮，在非洲建设本土计算基础设施。大部分融资资金将用于购买芯片，为非洲各地的数据中心提供算力，其余资金则将用于升级公司的数字基础设施，以满足人工智能工作负载的需求。Cassava去年曾宣布，已获得美国芯片制造商英伟达的投资。（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-f43bdb89e4",
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "category": "model",
+      "date": "2026-11-19",
+      "time": "08:42",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October…",
+      "body": [
+        "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff.",
+        "The short answer is AI, but not in the way you might expect."
+      ]
+    },
+    {
+      "id": "auto-6b8f33bfcf",
+      "title": "中信建投：建议关注具身智能与国产算力板块",
+      "category": "industry",
+      "date": "2026-11-19",
+      "time": "08:39",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4075937197937799?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "算力",
+        "政策"
+      ],
+      "summary": "36氪获悉，中信建投研报指出，通用大模型快速切入机器人任务规划层，但精密力控仍是落地瓶颈；本体产能爬坡、供给曲线抬升，北京地方产业政策同步加码算力、数据底座与场景建设。",
+      "body": [
+        "36氪获悉，中信建投研报指出，通用大模型快速切入机器人任务规划层，但精密力控仍是落地瓶颈；本体产能爬坡、供给曲线抬升，北京地方产业政策同步加码算力、数据底座与场景建设。海外高端芯片管制持续收紧，境外算力租赁通道不确定性抬升。国产算力芯片供需两旺，叠加封装、HBM上游供给改善以及海外供给收紧，超节点订单落地，行业景气与替代逻辑共振。AI硬件链条景气度持续，最终体现在模型侧持续迭代与应用落地，继续看好GPU、CPU、存储、算力租赁服务、网络安全及业绩释放的SaaS等环节。"
+      ]
+    },
+    {
+      "id": "auto-b77d6c65e3",
+      "title": "OpenAI首款AI硬件或于年底启动出货，立讯精密等中国供应商参与",
+      "category": "industry",
+      "date": "2026-11-19",
+      "time": "08:31",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4075950980699011?f=rss",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "据供应链消息，OpenAI首款AI端侧硬件产品或将于今年年底启动出货，多家中国厂商参与该项目。其中，立讯精密独家承担整机制造，并供应核心零部件。关于这款产品形态OpenAI尚未正式公布。",
+      "body": [
+        "据供应链消息，OpenAI首款AI端侧硬件产品或将于今年年底启动出货，多家中国厂商参与该项目。其中，立讯精密独家承担整机制造，并供应核心零部件。关于这款产品形态OpenAI尚未正式公布。不过，此前有消息称，OpenAI与苹果前首席设计官Jony Ive团队合作开发的首款消费级硬件，将是一款类似“甜甜圈”形状的无屏AI设备，集成麦克风、扬声器、摄像头及多种传感器，主要通过语音与用户交互，并具备感知周围环境的能力，但具体产品信息仍有待进一步确认。（每经）"
+      ]
+    },
+    {
+      "id": "auto-8158821be3",
+      "title": "「镁伽科技」完成近2亿美元融资，建设直接面向真实世界的AI智能基础设施｜36氪首发",
+      "category": "industry",
+      "date": "2026-11-19",
+      "time": "08:30",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4075322592187524?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "融资"
+      ],
+      "summary": "文｜胡香赟 编辑｜海若镜 36氪获悉，近日，镁伽科技已完成新一轮近2亿美元融资。本轮融资由阿曼苏丹国主权财富基金阿曼投资局（OIA）参与投资",
+      "body": [
+        "文｜胡香赟 编辑｜海若镜 36氪获悉，近日，镁伽科技已完成新一轮近2亿美元融资。本轮融资由阿曼苏丹国主权财富基金阿曼投资局（OIA）参与投资，亚投资本、Granite Asia、创新工场等老股东加注，招银国际、苏创投、三江招商集团等机构跟投，覆盖国际主权资本、头部金融资本及地方国资产业资本等。",
+        "当前，AI for Science想要真正跑通绕不开一个底层问题：数据。成规模、高质量、可复用的科研数据目前仍是稀缺资源，而国内绝大多数生命科学实验室的设备和耗材仍不具备大规模、一致性产生数据的能力。",
+        "镁伽创始人、首席执行官黄瑜清曾将其形容为“科学家们对数据日益增长的需求，和相对落后的生产力之间的矛盾”。也正是这一矛盾，让AI自动化实验室在今年的AI4S投资热潮中再度迎来了自己的小高峰。"
+      ]
+    },
+    {
+      "id": "auto-d7e162c88e",
+      "title": "马斯克：特斯拉将在未来两个月内进行Optimus机器人演示",
+      "category": "model",
+      "date": "2026-11-19",
+      "time": "08:26",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4075928048702593?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "机器人"
+      ],
+      "summary": "马斯克称，特斯拉将在未来两个月内进行Optimus机器人演示。SpaceX正在开发AI模型Grok 4.8。（财联社）",
+      "body": [
+        "马斯克称，特斯拉将在未来两个月内进行Optimus机器人演示。SpaceX正在开发AI模型Grok 4.8。（财联社）"
+      ]
+    },
+    {
+      "id": "auto-9bf9a8597b",
+      "title": "8点1氪丨Anthropic IPO定价83美元；iPhone Duo铰链风波升级；浑水宣布做空英伟达",
+      "category": "industry",
+      "date": "2026-11-19",
+      "time": "08:01",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4075920892581000?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "算力"
+      ],
+      "summary": "今日热点导览 OpenAI发布GPT-6.2 Astra，GPT-6.2双模型分层定价 董明珠APEC现场寻找合作机会",
+      "body": [
+        "今日热点导览 OpenAI发布GPT-6.2 Astra，GPT-6.2双模型分层定价 董明珠APEC现场寻找合作机会，称格力研发机器人十几年了 马斯克：预计SpaceX不会向OpenAI出售任何算力 大疆Osmo Pocket 4系列涨价，最高涨560元 三星电机与英伟达扩大在AI芯片组件方面的合作 TOP 3大新闻 Anthropic IPO定价每股83美元 当地时间11月18日，Anthropic将其IPO发行价定为每股83美元，这一定价高于该公司此前的预估。该公司将于周四在纳斯达克开始交易。首席执行官达里奥·阿莫代伊及其他联合创始人将敲响纳斯达克交易所的开市钟。",
+        "此次IPO可能使公司估值达到1.5万亿美元。另外，此前有消息人士称，鉴于投资者需求强劲，Anthropic还扩大了此次发行规模，但未透露具体增加幅度。（界面新闻、金十数据） iPhone Duo铰链风波升级，消息称苹果曾要求供应商撤下声明 11月18日，苹果被指曾对韩国零部件供应商Fine M-Tec提出异议，促使后者撤回有关折叠手机质量问题的声明。该事件让苹果首款折叠手机iPhone Duo的屏幕开裂风波进一步升级。Fine M-Tec主要生产用于支撑折叠OLED面板的内置铰链金属板，被认为是iPhone Duo供应链企业之一。10月26日，该公司在官网发布声明，称近期部分产品出现的质量问题并非由其供应零部件的缺陷引起，同时表示可能对未经验证便将问题归咎于公司的行为采取法律措施。该声明随后于11月4日从官网撤下。由于该公司同时也向三星供应铰链组件，且未点名客户，不过从时间节点来看，外界普遍推测其所指正是苹果公司。",
+        "韩媒The Elec、DealSite随后援引业内消息称，苹果曾要求供应商撤下声明。《The Elec》记者进一步表示，Fine M-Tec公关团队曾联系他，要求删除其此前关于声明被撤回的报道；该代表称，苹果反对供应商公开否认对故障负责。(凤凰网科技、IT之家) 浑水宣布做空英伟达 当地时间11月17日，美国知名做空机构浑水（Muddy Waters Research）发文披露已建立英伟达空头仓位，并质疑英伟达前高管阿贾伊・K・普里（Ajay K."
+      ]
+    },
+    {
+      "id": "auto-ba6da08f9b",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "category": "model",
+      "date": "2026-11-19",
+      "time": "07:45",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opport…",
+      "body": [
+        "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
+      ]
+    },
+    {
+      "id": "auto-ec22deb838",
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "category": "model",
+      "date": "2026-11-19",
+      "time": "07:17",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is…",
+      "body": [
+        "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
+      ]
+    },
+    {
+      "id": "auto-0c6398005a",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "category": "model",
+      "date": "2026-11-19",
+      "time": "06:58",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies…",
+      "body": [
+        "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
+      ]
+    },
     {
       "id": "auto-5b7953db57",
       "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
