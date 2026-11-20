@@ -1,7 +1,220 @@
 {
-  "updatedAt": "2026-11-19T09:46:43+08:00",
-  "edition": "2026-11-19",
+  "updatedAt": "2026-11-20T09:42:49+08:00",
+  "edition": "2026-11-20",
   "articles": [
+    {
+      "id": "auto-2a33999f8c",
+      "title": "国内推出首个智能座舱AI分级评价体系",
+      "category": "model",
+      "date": "2026-11-20",
+      "time": "09:16",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4077411037434755?f=rss",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "随着新能源汽车快速普及，日前，中国汽车技术研究中心推出了国内首个汽车智能座舱AI能力分级评价体系。这次中汽中心推出的AI能力分级评价体系，共分为C1到C5五级",
+      "body": [
+        "随着新能源汽车快速普及，日前，中国汽车技术研究中心推出了国内首个汽车智能座舱AI能力分级评价体系。这次中汽中心推出的AI能力分级评价体系，共分为C1到C5五级，把座舱AI主观体验转化为可量化的评价指标，覆盖八大能力和行为属性、九大用车场景。（央视新闻）"
+      ]
+    },
+    {
+      "id": "auto-e407e37159",
+      "title": "人形机器人“卖铲人”先富了，然后呢？",
+      "category": "model",
+      "date": "2026-11-20",
+      "time": "09:14",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8211616.html",
+      "featured": false,
+      "tags": [
+        "机器人"
+      ],
+      "summary": "具身智能火了，最先赚钱的不是造机器人的，是卖零件的。",
+      "body": [
+        "具身智能火了，最先赚钱的不是造机器人的，是卖零件的。"
+      ]
+    },
+    {
+      "id": "auto-b987aef8a1",
+      "title": "美光：2027年存储芯片供需形势会比今年更加紧张",
+      "category": "industry",
+      "date": "2026-11-20",
+      "time": "08:59",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4077393376105605?f=rss",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "美光科技总裁兼首席技术与产品官Scott DeBoer在接受采访时表示，存储芯片的供需在很长一段时间内都无法达到平衡。",
+      "body": [
+        "美光科技总裁兼首席技术与产品官Scott DeBoer在接受采访时表示，存储芯片的供需在很长一段时间内都无法达到平衡。他指出，在可预见的未来，供需找不到明确的平衡点，预计2027年供需形势会比2026年更加紧张。（财联社）"
+      ]
+    },
+    {
+      "id": "auto-82a94f87c7",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "category": "model",
+      "date": "2026-11-20",
+      "time": "08:56",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instin…",
+      "body": [
+        "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots."
+      ]
+    },
+    {
+      "id": "auto-1398f1e55f",
+      "title": "精准做空英伟达的那位空头，又盯上了一个新目标",
+      "category": "model",
+      "date": "2026-11-20",
+      "time": "08:53",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8211858.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Culper Research 表示，Cerebras 的产品寿命并没有该公司宣称的那么长。Cerebras 则称该机构的观点是“一系列持续的虚假说法”。",
+      "body": [
+        "Culper Research 表示，Cerebras 的产品寿命并没有该公司宣称的那么长。Cerebras 则称该机构的观点是“一系列持续的虚假说法”。"
+      ]
+    },
+    {
+      "id": "auto-e3c8be405a",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "category": "industry",
+      "date": "2026-11-20",
+      "time": "08:43",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while t…",
+      "body": [
+        "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion."
+      ]
+    },
+    {
+      "id": "auto-f16411e908",
+      "title": "苹果公司研发自己的AI智能体，拟与OpenAI和Anthropic竞争",
+      "category": "model",
+      "date": "2026-11-20",
+      "time": "08:41",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4077376355472258?f=rss",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "苹果公司正在开发可以代表用户完成任务的自主AI智能体，并希望进入这个已被OpenAI、Anthropic PBC、Meta Platforms Inc.及其他公司占据的快速增长的市场。",
+      "body": [
+        "苹果公司正在开发可以代表用户完成任务的自主AI智能体，并希望进入这个已被OpenAI、Anthropic PBC、Meta Platforms Inc.及其他公司占据的快速增长的市场。苹果公司本周在网站上列出的招聘信息揭示了这一计划。其中一则信息称，苹果正在为一款主动式、智能AI助手寻找一位高级工程师经理。根据招聘信息，该系统将代表用户编写代码、浏览网页、控制应用程序和操控设备。（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-24cdcbe220",
+      "title": "华尔街狂热，华盛顿划线：Anthropic的上市前夜",
+      "category": "industry",
+      "date": "2026-11-20",
+      "time": "08:37",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8211445.html",
+      "featured": false,
+      "tags": [
+        "算力",
+        "融资"
+      ],
+      "summary": "在算力被重新划定边界的当下，资本市场究竟在为什么定价？",
+      "body": [
+        "在算力被重新划定边界的当下，资本市场究竟在为什么定价？"
+      ]
+    },
+    {
+      "id": "auto-c4081033e3",
+      "title": "Edge AI Daily 早报（11月20日）",
+      "category": "model",
+      "date": "2026-11-20",
+      "time": "08:25",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8211809.html",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "算力",
+        "政策"
+      ],
+      "summary": "Anthropic以83美元定价登陆纳斯达克，首日高开34%，估值约1.5万亿美元；亚马逊谷歌合计持股28.4%，算力承诺近9000亿美元。",
+      "body": [
+        "Anthropic以83美元定价登陆纳斯达克，首日高开34%，估值约1.5万亿美元；亚马逊谷歌合计持股28.4%，算力承诺近9000亿美元。英伟达Q3营收1158亿美元，董事会接触Arm CEO哈斯接替黄仁勋。OpenAI因训练环境漏洞停训11天，亚利桑那调查AI代理访问银行；谷歌发布Gemini 4 Neon，苹果推进Siri代理平台。美国AI出口管制延伸至IaaS，特朗普推动联邦统一监管；AWS模型榜单与富智康接单重构模型评估及终端供应链。"
+      ]
+    },
+    {
+      "id": "auto-c731aa4e51",
+      "title": "OpenAI印证了梁文锋的“预言”",
+      "category": "model",
+      "date": "2026-11-20",
+      "time": "08:05",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8211368.html",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "机器人"
+      ],
+      "summary": "OpenAI裁撤机器人团队，通用模型“杀死”垂直模型？",
+      "body": [
+        "OpenAI裁撤机器人团队，通用模型“杀死”垂直模型？"
+      ]
+    },
+    {
+      "id": "auto-2e11eedfc7",
+      "title": "8点1氪丨Anthropic上市首日暴涨17%；宗馥莉原“心腹”起诉娃哈哈；OpenAI进军手机领域",
+      "category": "industry",
+      "date": "2026-11-20",
+      "time": "08:04",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4077339293242504?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "多模态"
+      ],
+      "summary": "今日热点导览 Kimi API服务出现可用性下降，官方调查中 谷歌推出Gemini 4 Neon模型 马斯克点赞深圳",
+      "body": [
+        "今日热点导览 Kimi API服务出现可用性下降，官方调查中 谷歌推出Gemini 4 Neon模型 马斯克点赞深圳，称是中国的超级粉丝 欧莱雅将收购阿玛尼15%股权 Meta因面临法律挑战暂停新股发行计划 TOP 3大新闻 Anthropic上市首日暴涨17% 人工智能公司Anthropic正式登陆纳斯达克，发行价为83美元/股，开盘报111.5美元，较发行价上涨34%。股价开盘大幅冲高后有所回落，最终收于97.17美元，较83美元的发行价上涨17%。按照完全稀释后的股本计算，公司市值约为1.8万亿美元，跻身全球市值最高的10家上市公司之列。",
+        "此次IPO募资813亿美元，已经超过SpaceX（SPCX）今年6月创纪录的IPO规模。此外，Anthropic还通过同期私募配售募集260亿美元，合计融资达到1073亿美元。（金十数据） 宗馥莉原“心腹”起诉娃哈哈，下周开庭 11月19日，天眼查App显示，原告祝丽丹与被告娃哈哈商业股份有限公司新增一则开庭公告，涉及涤除公司登记（备案）纠纷案件，该案将于11月26日在浙江省杭州市钱塘区人民法院开庭审理。这起诉讼本质上是祝丽丹离职后试图把自己的名字在工商备案中删掉。",
+        "2024年，宗馥莉正式接管娃哈哈后，祝丽丹深度参与管理改革，接管人事、供应链、生产等核心部门，代表宗馥莉出席中层会议，并在150多家“娃哈哈系”“宏胜系”企业中担任法定代表人或高管。直到2025年11月 ，祝丽丹卸任宏胜集团法定代表人、经理，由郑群娣接任，名字转入历史主要人员名单。（中国新闻周刊） OpenAI进军手机领域，富士康旗下富智康集团获组装订单 11月19日，记者从供应链获悉，富士康旗下富智康集团(02038.HK)已获得OpenAI手机项目订单，将参与相关产品的整机组装。富士康同时是苹果iPhone的主要组装商。若OpenAI手机最终面市，其将进入手机终端市场，并可能围绕AI交互体验，与现有手机品牌展开更直接的竞争。相关产品方案、订单规模及量产安排，仍有待进一步获悉。(证券时报) AI最前沿 谷歌推出Gemini 4 Neon模型 谷歌正式推出Gemini 4 Neon。据介绍，企业日常业务高度依赖电子表格、PDF文档、图表及音视频资料。Neon能够在单个100万token上下文窗口内同步处理各类异构数据，并将其整合为结构化交付物。该模型定价为每百万输入token 3美元（缓存输入token享0.5折优惠，仅需0.15美元/百万），每百万输出token 15美元。（界面新闻） 火山引擎上线豆包实时音视频通话模型API服务 36氪获悉，火山引擎正式上线豆包实时音视频通话模型(SeedRealtime1.0)API服务，带来全模态交互的新体验。SeedRealtime将声音、画面、时序与表达统一到同一个端到端模型中，能在连续的多模态信息流上实时交互，带来“边看、边听、边说”的全新体验。"
+      ]
+    },
+    {
+      "id": "auto-19be3dd33b",
+      "title": "【钛晨报】《中俄美元首和平宣言》发布；31家出资主体现身，DeepSeek第二轮融资落地；比亚迪发布折叠方向盘，长鑫科技拟25亿至50亿元回购股份",
+      "category": "model",
+      "date": "2026-11-20",
+      "time": "07:20",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8211593.html",
+      "featured": false,
+      "tags": [
+        "算力",
+        "融资"
+      ],
+      "summary": "燧原科技：在手订单充沛，并正在与多家国内半导体产业伙伴进行合作；吴泳铭：建设超过20GW规模全球数据中心的目标可能下调；拼多多Q3利润295亿元，同比基本持平；因150元成被执行人？",
+      "body": [
+        "燧原科技：在手订单充沛，并正在与多家国内半导体产业伙伴进行合作；吴泳铭：建设超过20GW规模全球数据中心的目标可能下调；拼多多Q3利润295亿元，同比基本持平；因150元成被执行人？格力电器最新回应；OpenAI进军手机领域；马斯克披露多项业务时间表，Optimus拟18个月内胜任家务。"
+      ]
+    },
     {
       "id": "auto-a6510ea7a3",
       "title": "Anthropic IPO日本部分筹资30亿美元，居区间下限",
