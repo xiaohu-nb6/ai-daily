@@ -1,7 +1,218 @@
 {
-  "updatedAt": "2026-11-20T09:42:49+08:00",
-  "edition": "2026-11-20",
+  "updatedAt": "2026-11-21T09:44:25+08:00",
+  "edition": "2026-11-21",
   "articles": [
+    {
+      "id": "auto-13d55e6b96",
+      "title": "Edge AI Daily 早报（11月21日）",
+      "category": "industry",
+      "date": "2026-11-21",
+      "time": "09:19",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8213305.html",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "苹果以Siri争夺系统级代理入口，OpenAI将ChatGPT改为多模块工作台，微软用USB4 RDMA聚合多机算力，谷歌直采HBM重构TPU供应链。",
+      "body": [
+        "苹果以Siri争夺系统级代理入口，OpenAI将ChatGPT改为多模块工作台，微软用USB4 RDMA聚合多机算力，谷歌直采HBM重构TPU供应链。亚洲股市创2020年3月以来最大单周跌幅，AI支出进入回报审计。"
+      ]
+    },
+    {
+      "id": "auto-b8fa0366a5",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "category": "model",
+      "date": "2026-11-21",
+      "time": "03:53",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researc…",
+      "body": [
+        "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher.",
+        "Here's what the startup is building."
+      ]
+    },
+    {
+      "id": "auto-5243729dcd",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "category": "model",
+      "date": "2026-11-21",
+      "time": "03:32",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competin…",
+      "body": [
+        "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too."
+      ]
+    },
+    {
+      "id": "auto-091fd72c75",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "category": "industry",
+      "date": "2026-11-21",
+      "time": "02:50",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outs…",
+      "body": [
+        "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them.",
+        "\"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]"
+      ]
+    },
+    {
+      "id": "auto-1fb1da6d01",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "category": "model",
+      "date": "2026-11-21",
+      "time": "00:57",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathemati…",
+      "body": [
+        "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades.",
+        "If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]"
+      ]
+    },
+    {
+      "id": "auto-fc0c9e942d",
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "category": "model",
+      "date": "2026-11-20",
+      "time": "23:13",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing…",
+      "body": [
+        "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services.",
+        "That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI […]"
+      ]
+    },
+    {
+      "id": "auto-420e84af29",
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "category": "industry",
+      "date": "2026-11-20",
+      "time": "22:55",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its…",
+      "body": [
+        "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue.",
+        "At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]"
+      ]
+    },
+    {
+      "id": "auto-0209e678eb",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "category": "model",
+      "date": "2026-11-20",
+      "time": "22:36",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to pr…",
+      "body": [
+        "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data.",
+        "The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]"
+      ]
+    },
+    {
+      "id": "auto-7bb0aeea19",
+      "title": "A brief history of Nvidia’s recent stock fluctuations",
+      "category": "industry",
+      "date": "2026-11-20",
+      "time": "22:20",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the em…",
+      "body": [
+        "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call.",
+        "By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]"
+      ]
+    },
+    {
+      "id": "auto-bc6bd4902a",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "category": "model",
+      "date": "2026-11-20",
+      "time": "22:00",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
+      "body": [
+        "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+      ]
+    },
+    {
+      "id": "auto-18e617a8bb",
+      "title": "美股大型科技股盘前普跌，Anthropic跌超9%",
+      "category": "model",
+      "date": "2026-11-20",
+      "time": "20:54",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4078096790525063?f=rss",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "36氪获悉，美股大型科技股盘前普跌，截至发稿，Anthropic跌超9%，闪迪跌超6%，Meta跌超3%，英伟达、亚马逊、微软跌超2%，特斯拉跌超1%，谷歌跌0.57%，苹果涨0.15%。",
+      "body": [
+        "36氪获悉，美股大型科技股盘前普跌，截至发稿，Anthropic跌超9%，闪迪跌超6%，Meta跌超3%，英伟达、亚马逊、微软跌超2%，特斯拉跌超1%，谷歌跌0.57%，苹果涨0.15%。"
+      ]
+    },
+    {
+      "id": "auto-c794f1a65d",
+      "title": "Anthropic IPO募集资金总额约为935亿美元",
+      "category": "industry",
+      "date": "2026-11-20",
+      "time": "20:48",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4078090882601862?f=rss",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "Anthropic报告称IPO已结束，承销商全额行使超额配售权，公司IPO募集资金总额约为935亿美元。（财联社）",
+      "body": [
+        "Anthropic报告称IPO已结束，承销商全额行使超额配售权，公司IPO募集资金总额约为935亿美元。（财联社）"
+      ]
+    },
     {
       "id": "auto-2a33999f8c",
       "title": "国内推出首个智能座舱AI分级评价体系",
