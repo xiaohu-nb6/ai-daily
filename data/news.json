@@ -1,7 +1,221 @@
 {
-  "updatedAt": "2026-11-21T09:44:25+08:00",
-  "edition": "2026-11-21",
+  "updatedAt": "2026-11-22T09:43:17+08:00",
+  "edition": "2026-11-22",
   "articles": [
+    {
+      "id": "auto-2e969bfb82",
+      "title": "Edge AI Daily 早报（11月22日）",
+      "category": "model",
+      "date": "2026-11-22",
+      "time": "09:06",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8213684.html",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "算力"
+      ],
+      "summary": "英伟达同时面临治理追问、加州传票与SEC调查传闻，AI芯片估值经历重估；亚马逊拟以最高75亿美元收购Decart，AWS将LLM缓存推向集群。",
+      "body": [
+        "英伟达同时面临治理追问、加州传票与SEC调查传闻，AI芯片估值经历重估；亚马逊拟以最高75亿美元收购Decart，AWS将LLM缓存推向集群。谷歌调整TPU出货并研究Agent记忆迁移，OpenAI把对抗性蒸馏防护推进API层。Anthropic黎曼猜想主张待验证，IPO定价为模型公司提供估值参照。Meta Muse用户破千万，AI脱衣应用引发参议员质询；特斯拉FSD V15与马斯克上海行受关注；GrapheneOS指控谷歌限制Android开源生态。"
+      ]
+    },
+    {
+      "id": "auto-92e6668dc0",
+      "title": "特锐德、LG抢跑进场，AI抢电抢到气田门口，气电先端走69%份额，真正的账单还在后面",
+      "category": "industry",
+      "date": "2026-11-22",
+      "time": "08:45",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8213639.html",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "数据中心抢购稳定电力，重画美国气电定价与电网调峰；国内东数西算调峰账本同步重算，订单兑现待观察。",
+      "body": [
+        "数据中心抢购稳定电力，重画美国气电定价与电网调峰；国内东数西算调峰账本同步重算，订单兑现待观察。"
+      ]
+    },
+    {
+      "id": "auto-d11f7cae25",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "category": "model",
+      "date": "2026-11-22",
+      "time": "05:37",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "body": [
+        "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+      ]
+    },
+    {
+      "id": "auto-14c47dae19",
+      "title": "A tale of two Nvidias",
+      "category": "model",
+      "date": "2026-11-22",
+      "time": "05:07",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs.",
+      "body": [
+        "We got two very different pictures of Nvidia — the company’s latest earnings report vs.",
+        "the tech executives loudly calling for Jensen Huang’s return."
+      ]
+    },
+    {
+      "id": "auto-9694e264af",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "category": "model",
+      "date": "2026-11-22",
+      "time": "04:03",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rul…",
+      "body": [
+        "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations.",
+        "According to NPR: Before the negotiations got underway, the […]"
+      ]
+    },
+    {
+      "id": "auto-ed0b5b6c01",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "category": "model",
+      "date": "2026-11-22",
+      "time": "01:00",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general a…",
+      "body": [
+        "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+      ]
+    },
+    {
+      "id": "auto-26ffa7925d",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "category": "model",
+      "date": "2026-11-22",
+      "time": "00:00",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China…",
+      "body": [
+        "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China.",
+        "Experts question the long-term consequences if this becomes a trend in Hollywood, too."
+      ]
+    },
+    {
+      "id": "auto-edeea31619",
+      "title": "Can Anthropic afford to put safety first?",
+      "category": "model",
+      "date": "2026-11-21",
+      "time": "21:29",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for t…",
+      "body": [
+        "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life.",
+        "The AI lab behind Claude went public on the Nasdaq last Thursday.",
+        "The numbers are gigantic, but not really that important for this conversation, except to […]"
+      ]
+    },
+    {
+      "id": "auto-d2041304e7",
+      "title": "【数智周报】 Anthropic敲响纳斯达克开市钟，创史上最大规模IPO纪录；美国限制远程获取AI算力，海外数据中心出租算力须许可；DeepSeek第二轮融资落地",
+      "category": "industry",
+      "date": "2026-11-21",
+      "time": "19:19",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8213535.html",
+      "featured": false,
+      "tags": [
+        "算力",
+        "融资"
+      ],
+      "summary": "（11 月 16 日-21 日）英伟达史上首次单季营收突破1000亿美元，净利润同比翻倍；阿里巴巴：2027财年第二季度营收2715.2亿元，同比增长10%，AI相关产品收入超179亿元",
+      "body": [
+        "（11 月 16 日-21 日）英伟达史上首次单季营收突破1000亿美元，净利润同比翻倍；阿里巴巴：2027财年第二季度营收2715.2亿元，同比增长10%，AI相关产品收入超179亿元，连续13个季度实现三位数增长；腾讯：WorkBuddy近七天年化收入超5亿美元，三季度收入是第二季度的5倍以上；豆包工作日活突破800万，企业客户ARR突破20亿元..."
+      ]
+    },
+    {
+      "id": "auto-236d674b14",
+      "title": "沐曦股份曦云C系列GPU率先完成腾讯混元Hy4 Day 0适配",
+      "category": "model",
+      "date": "2026-11-21",
+      "time": "14:44",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4079148232168323?f=rss",
+      "featured": false,
+      "tags": [
+        "算力",
+        "开源"
+      ],
+      "summary": "据沐曦股份消息，11月20日，腾讯混元正式开源Hy4。沐曦股份旗下曦云C系列GPU率先完成Hy4的Day 0适配。（财联社）",
+      "body": [
+        "据沐曦股份消息，11月20日，腾讯混元正式开源Hy4。沐曦股份旗下曦云C系列GPU率先完成Hy4的Day 0适配。（财联社）"
+      ]
+    },
+    {
+      "id": "auto-f913d63ec0",
+      "title": "美国证券交易委员会据悉正对英伟达潜在会计问题展开调查",
+      "category": "industry",
+      "date": "2026-11-21",
+      "time": "14:20",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4079125046449286?f=rss",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "据美国媒体11月20日引述知情人士消息报道，美国证券交易委员会（SEC）正在对英伟达潜在会计问题展开调查。这一消息进一步加剧英伟达投资者的担忧情绪，英伟达股价当天跌超14%，报125.5美元",
+      "body": [
+        "据美国媒体11月20日引述知情人士消息报道，美国证券交易委员会（SEC）正在对英伟达潜在会计问题展开调查。这一消息进一步加剧英伟达投资者的担忧情绪，英伟达股价当天跌超14%，报125.5美元，较10月高点243.4美元跌超48%，接近腰斩。从单周来看，英伟达股价重挫23%，创2008年10月以来最大单周跌幅，单周市值缩水近9000亿美元（约合人民币超6万亿元）。对比其10月6日的历史最高价，英伟达市值已累计蒸发约2.7万亿美元（约合人民币超18万亿元），最新市值为3.03万亿美元，排在苹果、微软和Alphabet之后。"
+      ]
+    },
+    {
+      "id": "auto-a34fb69c54",
+      "title": "腾讯姚顺雨团队：Hy4仍有很大改进空间，计划训练更大规模模型",
+      "category": "model",
+      "date": "2026-11-21",
+      "time": "11:33",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4078961086764168?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "安全"
+      ],
+      "summary": "11月21日凌晨，腾讯首席AI科学家姚顺雨带着混元团队出现在海外社交媒体社区，做了一场文字AMA（公开问答）。问答环节，有人直言：字节跳动和Kimi等（参数量）似乎都在往3T甚至5T推",
+      "body": [
+        "11月21日凌晨，腾讯首席AI科学家姚顺雨带着混元团队出现在海外社交媒体社区，做了一场文字AMA（公开问答）。问答环节，有人直言：字节跳动和Kimi等（参数量）似乎都在往3T甚至5T推，你们为什么停在700B？混元团队回应：“Hy3和Hy4已经证明，较小的模型也能超越较大的模型，而且更便宜。”不过，混元团队也表示，Hy4仍有很大的改进空间，尤其是通过后训练。“我们正投入大量精力进行大规模强化学习，同时继续改善用户体验和模型安全。我们还计划训练更大规模的模型。”（每日经济新闻）"
+      ]
+    },
     {
       "id": "auto-13d55e6b96",
       "title": "Edge AI Daily 早报（11月21日）",
