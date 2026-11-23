@@ -1,8 +1,166 @@
 /* AI 前沿日报 · 数据文件（由 scripts/refresh_news.py 生成，可手工编辑） */
 window.AI_DAILY_DATA = {
-  "updatedAt": "2026-11-22T09:43:17+08:00",
-  "edition": "2026-11-22",
+  "updatedAt": "2026-11-23T09:50:17+08:00",
+  "edition": "2026-11-23",
   "articles": [
+    {
+      "id": "auto-ed601c9b84",
+      "title": "AI抛售潮来袭，新兴市场股票势将抹去2026年全部涨幅",
+      "category": "industry",
+      "date": "2026-11-23",
+      "time": "09:46",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4081686973485954?f=rss",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "随着市场对人工智能交易可持续性的担忧不断加剧，抛售潮从美国蔓延至亚洲，新兴市场股票正面临抹去今年全部涨幅的局面。周一，MSCI新兴市场股指下跌1.2%至1404.03点",
+      "body": [
+        "随着市场对人工智能交易可持续性的担忧不断加剧，抛售潮从美国蔓延至亚洲，新兴市场股票正面临抹去今年全部涨幅的局面。周一，MSCI新兴市场股指下跌1.2%至1404.03点，有望创下自2023年以来最长的“八连跌”纪录。上周五，该指数较6月份的高点下跌逾20%，正式进入技术性熊市。（新浪财经）"
+      ]
+    },
+    {
+      "id": "auto-35fded8da3",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "category": "industry",
+      "date": "2026-11-23",
+      "time": "09:25",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "body": [
+        "Three significant backers share what gave them conviction to bet billions on Anthropic."
+      ]
+    },
+    {
+      "id": "auto-8dc94b9776",
+      "title": "Edge AI Daily 早报（11月23日）",
+      "category": "industry",
+      "date": "2026-11-23",
+      "time": "08:48",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8214195.html",
+      "featured": false,
+      "tags": [
+        "算力",
+        "融资"
+      ],
+      "summary": "英伟达季度营收1158亿美元、下季指引1300亿美元，市场焦点转向基建支出能否转化为可量化回报；Anthropic完成IPO募资约916亿美元，却背负约9009亿美元算力采购承诺",
+      "body": [
+        "英伟达季度营收1158亿美元、下季指引1300亿美元，市场焦点转向基建支出能否转化为可量化回报；Anthropic完成IPO募资约916亿美元，却背负约9009亿美元算力采购承诺，成本刚性与收入弹性错配待解；甲骨文筹足OpenAI合同资金，阿比林园区进入GPT-6 Astra训练。Anthropic数学家称与Claude提出黎曼猜想证明并经Lean/Mathlib形式化检查。"
+      ]
+    },
+    {
+      "id": "auto-9a7ee6ddd9",
+      "title": "微软AI首席执行官苏莱曼：支持OpenAI提高透明度的倡议",
+      "category": "model",
+      "date": "2026-11-23",
+      "time": "08:47",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4081628288881544?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "安全"
+      ],
+      "summary": "微软人工智能首席执行官穆斯塔法·苏莱曼转发OpenAI首席科学家雅库布·帕乔茨基的文章，表示微软完全支持OpenAI提高透明度的倡议，并将共同分享预训练进展。",
+      "body": [
+        "微软人工智能首席执行官穆斯塔法·苏莱曼转发OpenAI首席科学家雅库布·帕乔茨基的文章，表示微软完全支持OpenAI提高透明度的倡议，并将共同分享预训练进展。苏莱曼透露，经OpenAI许可，微软公布了MAI-2基础模型在OpenAI评估数据集上的对数困惑度为0.819，与GPT-5.6 Sol基础模型处于相近水平。他表示，AI安全与协调应成为行业首要任务，微软承诺推动行业建立共同评估标准和AI发展节奏协调机制。（财联社）"
+      ]
+    },
+    {
+      "id": "auto-6e872533bc",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "category": "model",
+      "date": "2026-11-23",
+      "time": "05:14",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "body": [
+        "To establish a speed limit on AI development, you need to agree on how to measure speed."
+      ]
+    },
+    {
+      "id": "auto-ee2ee4b8b8",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "category": "model",
+      "date": "2026-11-23",
+      "time": "01:25",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam af…",
+      "body": [
+        "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music.",
+        "Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section.",
+        "They found several audio files with Suno metadata that pointed back to […]"
+      ]
+    },
+    {
+      "id": "auto-e7efe2348f",
+      "title": "从黄仁勋看AI时代的领导力：为什么有些企业能够实现指数级增长？",
+      "category": "model",
+      "date": "2026-11-22",
+      "time": "22:09",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8214129.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "领导者的决策边界仍然比较有限。企业能够走多远，很大程度上取决于领导者本人能够看到多大的范围，以及能不能把个人判断变成组织能力。",
+      "body": [
+        "领导者的决策边界仍然比较有限。企业能够走多远，很大程度上取决于领导者本人能够看到多大的范围，以及能不能把个人判断变成组织能力。"
+      ]
+    },
+    {
+      "id": "auto-6f68fb6fe3",
+      "title": "拆解大厂财报：谁最舍得为AI花钱？",
+      "category": "industry",
+      "date": "2026-11-22",
+      "time": "19:05",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8212870.html",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "算力"
+      ],
+      "summary": "四家大厂的业务线里，算力、模型服务和AI工具已经形成可以辨认的收入模式。",
+      "body": [
+        "四家大厂的业务线里，算力、模型服务和AI工具已经形成可以辨认的收入模式。"
+      ]
+    },
+    {
+      "id": "auto-c257bc775a",
+      "title": "跨境收款之后，中国公司盯上智能体支付的新生意",
+      "category": "model",
+      "date": "2026-11-22",
+      "time": "16:19",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8213773.html",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "中国公司正在通过智能体支付，从赚通道费走向把经营能力捆绑进企业的日常工作流。",
+      "body": [
+        "中国公司正在通过智能体支付，从赚通道费走向把经营能力捆绑进企业的日常工作流。"
+      ]
+    },
     {
       "id": "auto-2e969bfb82",
       "title": "Edge AI Daily 早报（11月22日）",
@@ -426,6 +584,27 @@ window.AI_DAILY_DATA = {
       "summary": "Anthropic报告称IPO已结束，承销商全额行使超额配售权，公司IPO募集资金总额约为935亿美元。（财联社）",
       "body": [
         "Anthropic报告称IPO已结束，承销商全额行使超额配售权，公司IPO募集资金总额约为935亿美元。（财联社）"
+      ]
+    },
+    {
+      "id": "auto-7acc03d317",
+      "title": "Anthropic上市首日涨17%，市值一度冲至2万亿刀，AI热潮还能持续多久？",
+      "category": "industry",
+      "date": "2026-11-20",
+      "time": "17:14",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4077873869099904?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "算力",
+        "政策"
+      ],
+      "summary": "Anthropic与科技巨头们唇齿相依 文 | 刘思洁 封面来源 | Unsplash 11月19日，Anthropic（Nasdaq：ANT） 正式登陆纳斯达克 ，股票发行价最终定在83美元",
+      "body": [
+        "Anthropic与科技巨头们唇齿相依 文 | 刘思洁 封面来源 | Unsplash 11月19日，Anthropic（Nasdaq：ANT） 正式登陆纳斯达克 ，股票发行价最终定在83美元，开盘价111.50美元，盘中最高涨至115.10美元，按完全稀释口径计算，市值一度约 2.08万亿美元，按已发行股份计算约1.51万亿美元， 收盘报97.17美元，收盘时较发行价高约17%。",
+        "其募资额也超越SpaceX，为813亿美元，刷新了全球IPO募资纪录。盘中最高时，Anthropic一度成为全球市值第六大的上市公司（ 完全稀释市值口径）， 位于Apple、Microsoft、Nvidia、Alphabet和Amazon之后。",
+        "截至2026年9月30日约有5300名员工，按照盘中最高时市值计算，也就是说人均创造了3.925亿美元的市值，约为英伟达的4.7倍。而按照招股书的披露，过去12个月人均创造的营收超过660万美元。按照盘中最高股价计算，其七位联创的身家合计超过1900亿美元。"
       ]
     },
     {
