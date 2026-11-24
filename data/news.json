@@ -1,7 +1,220 @@
 {
-  "updatedAt": "2026-11-23T09:50:17+08:00",
-  "edition": "2026-11-23",
+  "updatedAt": "2026-11-24T09:47:15+08:00",
+  "edition": "2026-11-24",
   "articles": [
+    {
+      "id": "auto-17a2a2d150",
+      "title": "三成门店暴毙，“酸奶贵族”靠AI续命？",
+      "category": "model",
+      "date": "2026-11-24",
+      "time": "09:20",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8215060.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "千店目标落空，Blueglass靠新科技能续命多久？",
+      "body": [
+        "千店目标落空，Blueglass靠新科技能续命多久？"
+      ]
+    },
+    {
+      "id": "auto-372180b684",
+      "title": "Edge AI Daily 早报（11月24日）",
+      "category": "model",
+      "date": "2026-11-24",
+      "time": "08:54",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8215144.html",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "算力"
+      ],
+      "summary": "本期核心情报由三条主线构成。其一，英伟达董事会于11月23日一致恢复黄仁勋总裁、CEO及董事职务，股价日内大涨逾30%、纳指与标普同步反弹，特朗普公开背书称不构成国家安全风险；",
+      "body": [
+        "本期核心情报由三条主线构成。其一，英伟达董事会于11月23日一致恢复黄仁勋总裁、CEO及董事职务，股价日内大涨逾30%、纳指与标普同步反弹，特朗普公开背书称不构成国家安全风险；公司同步设立国家安全与出口管制监督委员会并启动首席合规官招聘，但独立调查、国会12月3日听证及Megaspeed实体清单风险未消，涨势被定性为治理溢价修复而非业绩验证，AI芯片出口管制正由货物流向转向远程算力访问与终端用户识别。其二，谷歌DeepMind与量子AI以Gemini 4智能体协同搜索、Lean验证重写量子算法，聚变与光化学模拟获优化但未及商业化；谷歌同时将Drive、Wallet、Gemini接入搜索AI Mode，搜索竞争焦点转向生态数据关系。其三，模型经济学加速转向：OpenAI以困惑度、交叉熵为能力与安全共同尺度并倡议行业限速，甲骨文完成OpenAI合同融资，Anthropic千亿募资对应约9000亿算力承诺、债券大概率落于BB区间，Arm续约至2033年锚定软银AI底座，马斯克警告明年算力投入或面临数千亿营运资金缺口。开源侧，记忆张量联合英伟达开源554B记忆原生模型MemT-1.0-Pro，Thinking Machines发布26.4B循环Transformer模型Inkling 2 Mini，开放模型竞争由参数规模转向有效计算与部署效率。"
+      ]
+    },
+    {
+      "id": "auto-a4e25b517e",
+      "title": "【钛晨报】英伟达董事会一致同意恢复黄仁勋CEO职务；荣耀CEO李健：荣耀阔折叠明年3月发布｜独家；中汽协：1-10月，销量排名前十位的MPV生产企业共销售64.8万辆",
+      "category": "model",
+      "date": "2026-11-24",
+      "time": "07:20",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8215026.html",
+      "featured": false,
+      "tags": [
+        "智能体",
+        "政策",
+        "融资"
+      ],
+      "summary": "蚂蚁阿福App新版发布，蚂蚁阿福医生版上线“循证金标准”UpToDate；亚马逊将支付75亿美元获取人工智能初创公司Decart的技术；微软AI首席执行官苏莱曼：支持OpenAI提高透明度的倡议；",
+      "body": [
+        "蚂蚁阿福App新版发布，蚂蚁阿福医生版上线“循证金标准”UpToDate；亚马逊将支付75亿美元获取人工智能初创公司Decart的技术；微软AI首席执行官苏莱曼：支持OpenAI提高透明度的倡议；四部门：鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品；人社部：非法骗取社保基金支出或者社保待遇，拟处骗取金额2倍以上5倍以下的罚款；市场监管总局发布《婴幼儿辅助食品生产许可审查细则（2026版）》；“固态锂电池标准项目组”将成立，正式编制《固态锂离子电池和电池组安全技术规范》；中国牵头的摩托车及轻便摩托车信息与服务国际标准正式立项；监管明确两融调整要求，违约处置要稳妥审慎；中金所增加10年期国债期货合约可交割国债；深交所首批主动ETF平稳上市，引入180亿元增量资金；首批主动ETF在沪深交易所上市；乘联分会秘书长崔东树：2026年动力电池市场竞争趋向多元化"
+      ]
+    },
+    {
+      "id": "auto-50fc913d11",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "category": "model",
+      "date": "2026-11-24",
+      "time": "06:05",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck…",
+      "body": [
+        "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
+      ]
+    },
+    {
+      "id": "auto-104e82dc9a",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "category": "industry",
+      "date": "2026-11-24",
+      "time": "06:02",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind you…",
+      "body": [
+        "Think you know where the market is headed?",
+        "A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+      ]
+    },
+    {
+      "id": "auto-bf60588e73",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "category": "model",
+      "date": "2026-11-24",
+      "time": "05:47",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "body": [
+        "\"The mistake has been corrected,\" Elon Musk chimed in."
+      ]
+    },
+    {
+      "id": "auto-0f4581ae6a",
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "category": "industry",
+      "date": "2026-11-24",
+      "time": "05:09",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry d…",
+      "body": [
+        "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging.",
+        "It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called COP31, that came to a chaotic and unsatisfying close in Antalya, Turkey, on Sunday."
+      ]
+    },
+    {
+      "id": "auto-8212d4d965",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "category": "model",
+      "date": "2026-11-24",
+      "time": "04:38",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "body": [
+        "\"I'm going to be a better CEO the second time around,\" Huang told employees."
+      ]
+    },
+    {
+      "id": "auto-bfe0e89135",
+      "title": "How Jensen Huang ended up as Nvidia CEO again",
+      "category": "model",
+      "date": "2026-11-24",
+      "time": "04:38",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The Jensen Huang era of Nvidia nearly came to an end this month.",
+      "body": [
+        "The Jensen Huang era of Nvidia nearly came to an end this month.",
+        "Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs.",
+        "Huang admitted he had been \"unfaithful\" to his wife […]"
+      ]
+    },
+    {
+      "id": "auto-d0ae482dbe",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "category": "model",
+      "date": "2026-11-24",
+      "time": "03:14",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is levera…",
+      "body": [
+        "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
+      ]
+    },
+    {
+      "id": "auto-5cfbb472fc",
+      "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+      "category": "model",
+      "date": "2026-11-24",
+      "time": "03:04",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging ca…",
+      "body": [
+        "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, transcriptions and AI-generated summaries, similar to Apple's new Watch feature and devices like Amazon's Bee wearable.",
+        "Nothing CEO Carl Pei demonstrated the new device […]"
+      ]
+    },
+    {
+      "id": "auto-5369c477c4",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "category": "model",
+      "date": "2026-11-24",
+      "time": "02:12",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspecte…",
+      "body": [
+        "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy."
+      ]
+    },
     {
       "id": "auto-ed601c9b84",
       "title": "AI抛售潮来袭，新兴市场股票势将抹去2026年全部涨幅",
