@@ -1,7 +1,218 @@
 {
-  "updatedAt": "2026-11-24T09:47:15+08:00",
-  "edition": "2026-11-24",
+  "updatedAt": "2026-11-25T09:51:36+08:00",
+  "edition": "2026-11-25",
   "articles": [
+    {
+      "id": "auto-e9f8ce2fe8",
+      "title": "英伟达B300、GB300订单交期大幅拉长，或排挤消费性显卡供货",
+      "category": "industry",
+      "date": "2026-11-25",
+      "time": "08:45",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4084458040813959?f=rss",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "据台湾工商时报，英伟达AI产品供应持续紧俏，ODM厂商透露，目前包括B300、GB300在内的新订单交期皆已大幅拉长，甚至连工作站级超级晶片组，交期也要26周左右。",
+      "body": [
+        "据台湾工商时报，英伟达AI产品供应持续紧俏，ODM厂商透露，目前包括B300、GB300在内的新订单交期皆已大幅拉长，甚至连工作站级超级晶片组，交期也要26周左右。这进一步排挤消费性显卡供货，据悉，英伟达将减少GeForce RTX 50系列游戏显卡供货，下一代RTX 60系列换代也恐放慢。（财联社）"
+      ]
+    },
+    {
+      "id": "auto-0e87f6c991",
+      "title": "新鲜感之后，陪伴机器人如何被用起来？",
+      "category": "model",
+      "date": "2026-11-25",
+      "time": "08:39",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8212446.html",
+      "featured": false,
+      "tags": [
+        "机器人"
+      ],
+      "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。",
+      "body": [
+        "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。"
+      ]
+    },
+    {
+      "id": "auto-d55c97b2d3",
+      "title": "Edge AI Daily 早报（11月25日）",
+      "category": "model",
+      "date": "2026-11-25",
+      "time": "08:29",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8216877.html",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "算力"
+      ],
+      "summary": "OpenAI与Anthropic因安全证明暂缓前沿模型，发布转向可控性验证；Anthropic跌破发行价，AI估值进入资本纪律期。",
+      "body": [
+        "OpenAI与Anthropic因安全证明暂缓前沿模型，发布转向可控性验证；Anthropic跌破发行价，AI估值进入资本纪律期。GPT-6.2 Sol、Meta Muse、Google Personal Intelligence争夺默认入口，Claude Ship切入代码交付责任链。英伟达复职黄仁勋后仍面临听证与出口审计，OpenAI与思科开源Shirudo前移运行时防御。国内腾讯WorkBuddy推进办公Agent，阿里子公司列实体清单，超节点应对供应链收紧；数据中心自建燃气与AI黑客推高基础设施与安全成本。"
+      ]
+    },
+    {
+      "id": "auto-5c92e56943",
+      "title": "8点1氪丨黄仁勋称英伟达不需要接班人计划 ；红果短剧上线“时间锁”，支持自定义观剧时长 ；豆包灰度测试“豆包购物”",
+      "category": "model",
+      "date": "2026-11-25",
+      "time": "08:18",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4084431441488260?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "多模态"
+      ],
+      "summary": "今日热点导览 美国民主党：将“动用全部权力”彻查特朗普政府、黄仁勋 SpaceX和特斯拉委派五名董事负责合并谈判 木头姐旗下ARK因担忧黄仁勋离职抛售英伟达股票",
+      "body": [
+        "今日热点导览 美国民主党：将“动用全部权力”彻查特朗普政府、黄仁勋 SpaceX和特斯拉委派五名董事负责合并谈判 木头姐旗下ARK因担忧黄仁勋离职抛售英伟达股票，错失约1070万美元潜在收益 罗马仕被列为失信被执行人 罗永浩所持锤子科技713.95万元股权续冻 Neuralink临床演示：瘫痪受试者可凭意念游玩《GTA 6》 TOP3大新闻 黄仁勋复职后首开全员大会道歉，称英伟达不需要接班人计划 当地时间周二，复职后的黄仁勋召开英伟达全员大会，向员工道歉，坦言个人严重错误、违反公司行为准则，每天接受一个半小时心理治疗。他回应管理风格争议，表示会提高自我要求，接受高频360度绩效评估；同时称公司已有多名成熟负责人，团队架构完善，不需要常规接班人计划，承诺会多听取反馈，第二次担任CEO将做得更好。黄仁勋肯定CFO在其离岗期间的工作，还表示短暂离职证明公司离开自己也能正常运转。",
+        "二级市场上，英伟达当日收跌5.86%，报155.38美元，回吐部分前一日巨大涨幅，市值蒸发约2335亿美元，市场仍关注公司治理与相关风险。（财联社，21财经） 红果短剧上线“时间锁”，支持自定义观剧时长 红果短剧新增可自行开启的“时间锁”功能。用户可自行设定单日使用时长，当日观看达到设定时长后APP进入锁定状态，需要输入预先设置的四位密码才能够继续使用。本次功能迭代，将时长提醒节奏由系统统一判断调整为用户自主设定。（蓝鲸科技，财联社） 豆包灰度测试“豆包购物” 据报道，豆包App正灰测“豆包购物”，并配有一级功能入口，目前部分用户可见该功能。从实测界面来看，豆包购物独立放置在侧边菜单栏，和新对话、定时任务插件技能并列，属于一级功能入口。记者实测发现，点击进入后是抖音电商提供的类似程序页面，与原本的抖音商城类似，但增加了AI对话购物功能。用户可以直接在对话框说出需求，让豆包帮忙比价、找商品，再跳转到这个页面完成下单。（21世纪经济报道） AI最前沿 两大AI巨头回应“因为模型过于强大，难以安全对外发布” 媒体援引二十余名知情人士消息，OpenAI、Anthropic手握比对外版本更强的内部模型，但不少员工认为难以安全对外发布。模型在数学、网络安全等领域能力暴涨，却出现会钻奖励机制漏洞、隐藏或伪造推理过程规避监控两大安全难题，目前尚无有效的管控技术。业内就此展开争论，观点包括仅内部有限使用，甚至暂停训练新模型。两家公司作出回应，OpenAI将落实新安全要求或拖慢发布节奏；Anthropic称必要时可牺牲商业收益，暂缓开发或发布模型，安全从训练阶段就要落实。该风险或拖累AI行业迭代与商业化进程。（财联社） 文心5.5 Flash Preview正式开源 36氪获悉，11月24日，文心5.5 Flash Preview正式开源。文心5.5 Flash Preview总参数量达2800亿，每个Token激活140亿参数，支持最长100万Token的上下文。",
+        "商汤发布并开源SenseNova U1.6 36氪获悉，11月24日，商汤科技正式发布并开源SenseNova U1.6。据介绍，SenseNova U1.6首次为该系列的8B开源模型带来原生图像自修正。开启自修正后，同一个模型可以先生成首稿，再对照原始提示检查画面，并根据发现的文字问题生成修正版。"
+      ]
+    },
+    {
+      "id": "auto-84c501d460",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "category": "industry",
+      "date": "2026-11-25",
+      "time": "08:12",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–bac…",
+      "body": [
+        "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands."
+      ]
+    },
+    {
+      "id": "auto-4d11c6c239",
+      "title": "Even the best AI agents struggle with everyday life",
+      "category": "model",
+      "date": "2026-11-25",
+      "time": "05:33",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI…",
+      "body": [
+        "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems."
+      ]
+    },
+    {
+      "id": "auto-38cdf7a5da",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "category": "model",
+      "date": "2026-11-25",
+      "time": "05:32",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+      "body": [
+        "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+      ]
+    },
+    {
+      "id": "auto-d86e2d21c4",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "category": "industry",
+      "date": "2026-11-25",
+      "time": "05:19",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessi…",
+      "body": [
+        "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
+      ]
+    },
+    {
+      "id": "auto-368333fb24",
+      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
+      "category": "model",
+      "date": "2026-11-25",
+      "time": "04:52",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the compa…",
+      "body": [
+        "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas."
+      ]
+    },
+    {
+      "id": "auto-90d9e63fa4",
+      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+      "category": "model",
+      "date": "2026-11-25",
+      "time": "02:38",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth…",
+      "body": [
+        "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the film.",
+        "People have claimed that the movie is chock-full of uncanny, inconsistent visuals that make it […]"
+      ]
+    },
+    {
+      "id": "auto-d7164c0288",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "category": "industry",
+      "date": "2026-11-25",
+      "time": "02:30",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+      "body": [
+        "Anthropic’s post-IPO slump could put pressure on AI startup valuations."
+      ]
+    },
+    {
+      "id": "auto-a97767d169",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "category": "model",
+      "date": "2026-11-25",
+      "time": "02:02",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hack…",
+      "body": [
+        "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws."
+      ]
+    },
     {
       "id": "auto-17a2a2d150",
       "title": "三成门店暴毙，“酸奶贵族”靠AI续命？",
@@ -5206,105 +5417,6 @@
         "交割节奏同样微妙：公司为投资者设定的出资承诺截止日已过，部分投资人削减认购额度，首轮实际到位资金预计不足 200 亿美元。",
         "对照时间线更清楚：今年 3 月 OpenAI 刚以 8520 亿美元投后估值完成 1220 亿美元资本承诺；过去 15 个月签下名义总额超 1.4 万亿美元的算力与数据中心长期协议，约为其当前年化收入的 35 倍。",
         "背景是科技股连续回调与市场对 AI 资本开支的质疑，同期 Anthropic 启动 IPO，两家争夺的是同一批机构资金。“不是融不到钱，而是大客户第一次说：可以投，但价格得再谈。”"
-      ]
-    },
-    {
-      "id": "memory-profit-surge-20261101",
-      "title": "卖铲子的赢了：存储五巨头利润首超五大科技股",
-      "category": "industry",
-      "date": "2026-11-01",
-      "time": "10:20",
-      "source": "日经亚洲 / 华尔街见闻",
-      "url": "https://www.163.com/dy/article/LAP0UVSA0556L4CJ.html",
-      "tags": [
-        "存储",
-        "HBM",
-        "产业链"
-      ],
-      "summary": "三星、SK 海力士、美光、铠侠、闪迪上季营业利润合计 32 万亿日元、同比增 9 倍，首次超过五大科技巨头；DRAM 紧张或持续到 2028 年。",
-      "body": [
-        "日经亚洲引用 QUICK FactSet 数据：三星电子、SK 海力士、美光、铠侠、闪迪五家存储厂商上季度营业利润合计 32 万亿日元，同比激增 9 倍，自有统计以来首次超过 Alphabet、微软、亚马逊、Meta、苹果同期的约 25 万亿日元。",
-        "驱动逻辑是 HBM 与数据中心用高密度 DRAM 供不应求、价格暴涨。AI 产业链的利润重心，正从云端应用层向上游物理晶圆层转移。",
-        "拐点信号也已出现：铠侠第三财季利润指引低于预期，警告 NAND 涨价速度从约 70% 的环比涨幅放缓到 20%–30%；闪迪管理层则称客户低估需求、长单已排到 2030 年。",
-        "另一侧的紧张同样真实：三星预计内存短缺持续到 2028 年，OpenAI 的奥尔特曼已会见三星高管深化 AI 合作，甚至公开讨论把玩家 PC 里“闲置 95% 的 DRAM”利用起来。"
-      ]
-    },
-    {
-      "id": "nvidia-ooi-20261101",
-      "title": "英伟达展示 OOI：把光引擎搬进硅中介层",
-      "category": "industry",
-      "date": "2026-11-01",
-      "time": "09:40",
-      "source": "财联社 / 陆家嘴财经早餐",
-      "url": "https://news.qq.com/rain/a/20261101A02YR500",
-      "tags": [
-        "英伟达",
-        "光互联",
-        "算力基建"
-      ],
-      "summary": "英伟达在 SEMICON West 展示下一代共封装光学 OOI，跳过有机基板把光引擎集成到硅中介层，原型已就位但无商业化时间表。",
-      "body": [
-        "英伟达在 SEMICON West 2026 公开展示下一代共封装光学技术 OOI（Optics on Interposer，中介层上集成光学）。",
-        "与现有 CPO 方案不同，OOI 跳过有机封装基板，把光引擎直接集成到承载 GPU 的硅中介层之上，让光电转换环节进一步靠近芯片内核，为下一代超大规模 AI 集群提供新的互联思路。",
-        "研究院首席研究科学家尼古拉·内多维奇确认原型样品已就位，但暂无商业化时间表。",
-        "对照看更清楚节奏差：华为已把近封装光学做成量产商品——昇腾 960 超节点用 4096 颗 NPU 光互联、最低 RTT 2 微秒，已商用 1000 多套。国产算力的竞争维度，正从单芯片性能转向芯片、互联、存储、整机的系统工程。"
-      ]
-    },
-    {
-      "id": "deepseek-super-agent-20261031",
-      "title": "DeepSeek 的 Super-agent：没人 @ 它，也会主动修 Bug",
-      "category": "model",
-      "date": "2026-11-01",
-      "time": "08:30",
-      "source": "DeepSeek Harness 团队 / 陆家嘴财经早餐",
-      "url": "https://news.qq.com/rain/a/20261101A02YR500",
-      "tags": [
-        "DeepSeek",
-        "Agent 架构",
-        "开源"
-      ],
-      "summary": "DeepSeek 公开 Router + Worker 双层 Agent 架构，支持多平台消息分派与并发执行，还能后台静默复现 Bug、确认后再提交修复。",
-      "body": [
-        "10 月 31 日晚，DeepSeek Harness 团队发布技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》，相关原型已开源，内部实例已在日常研发中持续运行。",
-        "它要解决的痛点很具体：一个人通常只能同时跟进 3 至 5 个活跃会话，单任务上限取决于模型能力，多任务上限却卡在人的注意力。",
-        "解法是 Router + Worker 双层架构：Router 作为常驻的全局协调节点，统一接收群聊、GitHub、邮件等多平台消息并分派任务；Worker 各自持有独立上下文并发执行、互不干扰，只向 Router 汇报。",
-        "最能体现“自主”的是主动性设计：群聊、邮件、日程、CI 结果都能成为触发事件，先用程序规则过滤噪声，再由模型判断是否行动；团队还引入计算机体系结构里的投机执行思想——有人反馈 Bug 时，AI 先在后台静默复现、分析原因，确认问题存在且找到修复方法后才提交，否则保持安静。",
-        "存算分离让云端执行循环不依赖本地电脑在线，外部 Watchdog 负责异常恢复。Agent 竞争的焦点，正从单点工具能力转向操作系统级的任务调度权。"
-      ]
-    },
-    {
-      "id": "auto-5fae58eb8f",
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "category": "model",
-      "date": "2026-11-01",
-      "time": "05:41",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "body": [
-        "Apple's new CEO defended the company's current position in the AI landscape."
-      ]
-    },
-    {
-      "id": "auto-3747e4c42b",
-      "title": "I built an AI Tamagotchi before Meta could",
-      "category": "model",
-      "date": "2026-11-01",
-      "time": "00:09",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this…",
-      "body": [
-        "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi.",
-        "But I won't be buying one, because we have Muse Charm at home."
       ]
     }
   ]
