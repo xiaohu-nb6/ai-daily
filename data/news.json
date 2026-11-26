@@ -1,7 +1,222 @@
 {
-  "updatedAt": "2026-11-25T09:51:36+08:00",
-  "edition": "2026-11-25",
+  "updatedAt": "2026-11-26T09:51:29+08:00",
+  "edition": "2026-11-26",
   "articles": [
+    {
+      "id": "auto-3868e30637",
+      "title": "中信建投：AI科研取得突破，办公Agent需求增长",
+      "category": "model",
+      "date": "2026-11-26",
+      "time": "09:33",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4085884337580680?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体"
+      ],
+      "summary": "36氪获悉，中信建投研报称，AI能力向科研与实际工作持续拓展，继续看好模型领先、拥有应用入口的头部平台。Claude辅助数学家证明黎曼猜想，获Lean与Mathlib社区验证；",
+      "body": [
+        "36氪获悉，中信建投研报称，AI能力向科研与实际工作持续拓展，继续看好模型领先、拥有应用入口的头部平台。Claude辅助数学家证明黎曼猜想，获Lean与Mathlib社区验证；GPT-6.2与Gemini 4 Neon提升复杂任务能力与执行效率。11月16日至22日，OpenRouter周用量增长8.38%，腾讯用量增长300.66%；Claude Code的7日平均下载量增长25.79%，WorkBuddy商店收入增长23.03%。科研突破打开专业任务空间，低成本模型与产品接入推动用户采用，编程、办公Agent需求增长明确。重点关注腾讯、谷歌及Anthropic的模型与应用进展。"
+      ]
+    },
+    {
+      "id": "auto-2c158a3267",
+      "title": "千亿“果链”巨头利润腰斩，中国女首富要靠芯片突围？",
+      "category": "industry",
+      "date": "2026-11-26",
+      "time": "09:14",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8217779.html",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "在周群飞投资版图不断向外延伸之际，其执掌的“果链”巨头蓝思科技正面临着业绩下滑的窘境。",
+      "body": [
+        "在周群飞投资版图不断向外延伸之际，其执掌的“果链”巨头蓝思科技正面临着业绩下滑的窘境。"
+      ]
+    },
+    {
+      "id": "auto-ee74aafa81",
+      "title": "这5只科技股正在避开AI低迷期",
+      "category": "model",
+      "date": "2026-11-26",
+      "time": "09:12",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8218273.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "苹果、Gen Digital 和 Take-Two 只是一些在这波 AI 抛售潮中逆势走强的科技股。",
+      "body": [
+        "苹果、Gen Digital 和 Take-Two 只是一些在这波 AI 抛售潮中逆势走强的科技股。"
+      ]
+    },
+    {
+      "id": "auto-8ae881fc0f",
+      "title": "AI时代，MBA的黄金时代到头了吗？",
+      "category": "industry",
+      "date": "2026-11-26",
+      "time": "09:02",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8217713.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "MBA仍然值钱，但年轻人的投资逻辑变了。",
+      "body": [
+        "MBA仍然值钱，但年轻人的投资逻辑变了。"
+      ]
+    },
+    {
+      "id": "auto-f0a11d7d71",
+      "title": "机构11月以来调研近1800家上市公司，后市看好物理AI等方向机遇",
+      "category": "industry",
+      "date": "2026-11-26",
+      "time": "08:47",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4085839144168073?f=rss",
+      "featured": false,
+      "tags": [
+        "智能体",
+        "融资",
+        "机器人"
+      ],
+      "summary": "Wind数据显示，11月以来，截至11月25日发稿时，已有近1800家上市公司接待机构调研，机械设备、电子等行业是机构重点关注的方向。",
+      "body": [
+        "Wind数据显示，11月以来，截至11月25日发稿时，已有近1800家上市公司接待机构调研，机械设备、电子等行业是机构重点关注的方向。在二级市场整体承压的背景下，部分被调研标的股价11月以来逆势反弹，汽车、纺织服饰、家用电器等行业部分标的涨幅居前。对于相关板块的后市投资机遇，业内人士较为看好物理AI、消费电子等方向。其中，在物理AI方面，看好机器人、AIDC、智能驾驶三条产业链；受益于存储价格下行以及Agent快速落地，消费电子板块有望迎来盈利修复。（中证报）"
+      ]
+    },
+    {
+      "id": "auto-a25262984e",
+      "title": "Edge AI Daily 早报（11月26日）",
+      "category": "model",
+      "date": "2026-11-26",
+      "time": "08:27",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8218001.html",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "融资"
+      ],
+      "summary": "英伟达复任黄仁勋后治理与出口管制压力未消，标普负面观察及AI循环融资争议使市场转向回报、现金流与交付能力审查。Anthropic与OpenAI推进VP≠VNP形式化证明并讨论停训最强模型；",
+      "body": [
+        "英伟达复任黄仁勋后治理与出口管制压力未消，标普负面观察及AI循环融资争议使市场转向回报、现金流与交付能力审查。Anthropic与OpenAI推进VP≠VNP形式化证明并讨论停训最强模型；Siren、ShellBench、gBench指向智能体越界、可托付执行与开放模型评测。"
+      ]
+    },
+    {
+      "id": "auto-b716d77d54",
+      "title": "8点1氪丨英伟达市值一夜蒸发近9800亿元；福布斯中国辟谣“8万元包上榜”；斗鱼及创始人陈少杰被执行1.9亿余元",
+      "category": "industry",
+      "date": "2026-11-26",
+      "time": "08:18",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4085847020153478?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "多模态"
+      ],
+      "summary": "今日热点导览 特朗普：必要时愿意赦免黄仁勋 Anthropic上市次日，创始人兄妹套现5.6亿美元 星巴克据悉正与银行洽谈出售其日本业务事宜 黄仁勋复职不穿皮衣改穿棉夹克，迪奥同款售价28000元",
+      "body": [
+        "今日热点导览 特朗普：必要时愿意赦免黄仁勋 Anthropic上市次日，创始人兄妹套现5.6亿美元 星巴克据悉正与银行洽谈出售其日本业务事宜 黄仁勋复职不穿皮衣改穿棉夹克，迪奥同款售价28000元，官网多尺寸售罄 比特币基金即将创下史上最差单月表现，资金流出规模逼近50亿美元 野人先生创始人退股运营主体 TOP3大新闻 英伟达市值一夜蒸发近9800亿元 北京时间11月26日，美国三大股指收盘涨跌不一，道指涨0.33%，标普500指数跌0.25%，纳指跌0.62%。大型科技股多数收跌，Meta涨3.40%，苹果涨0.43%，特斯拉跌1.18%，微软跌1.25%，谷歌跌2.02%，亚马逊跌3.12%，英伟达跌3.91%，市值报3.61万亿美元，较上一个交易日蒸发约1468亿美元（约合人民币9790亿元），据财联社报道，当地时间周三，标普全球评级将英伟达的发行人信用评级及其高级无抵押债务评级列入负面信用观察名单，两项评级目前均为AA。这家评级巨头认为，黄仁勋短暂离任后重掌公司，凸显了英伟达对这位联合创始人的依赖，也让董事会的独立性和接班安排受到审视。(21世纪经济报道） 福布斯中国辟谣“8万元包上榜”“青年领袖招募”未获官方授权 11月24日，福布斯中国发布严正声明称，社交媒体流传的“8万元包上榜”“付费内推上榜”“付费获奖”均系虚假信息，公司不存在任何付费上榜或付费保证入选榜单业务。“2026福布斯青年领袖招募”未经品牌方授权，相关证书中的高层签名均系伪造。（21财经） 斗鱼及创始人陈少杰被执行1.9亿余元 11月25日，据界面新闻援引天眼查，武汉斗鱼网络科技有限公司、创始人陈少杰新增被执行人记录，立案时间11月24日，执行标的1.9亿余元，执行法院为都江堰市人民法院。武汉斗鱼网络科技有限公司成立于2015年5月，法定代表人高杰，注册资本约2234万元，由陈少杰、林芝利创信息技术有限公司、武汉超赛商务信息咨询合伙企业（有限合伙）等共同持股。斗鱼今年4月向美国证券交易委员会（SEC）提交的2025年年报显示，陈少杰涉嫌开设赌场罪一案当时已由检察机关移送法院，尚未确定开庭时间。此次1.9亿余元执行款项是否涉及该案，目前尚不明确。（界面新闻） AI最前沿 Meta与亚马逊磋商解除对Muse购物AI代理的封锁 亚马逊与Meta Platforms正在持续洽谈一项合作方案，计划让Meta热门AI智能体Muse接入这家电商巨头的线上商城，解除亚马逊两个月前对该购物机器人实施的封锁。知情人士透露，两大科技公司已经进行多轮谈判，磋商的两大核心议题是合作框架下搜索结果与广告的处置方式。谈判仍存在变数，目前尚不确定能否达成协议、以及多久能够落地。双方存在大量待协商问题，既包括亚马逊自身的AI购物布局，也涉及Muse接入亚马逊平台的具体技术方案。（新浪财经） 腾讯混元发布Hy4 flash本地部署 36氪获悉，腾讯混元通过大模型压缩加速工具箱AngelSlim开源Hy4 flash GGUF量化权重及配套推理代码。经过压缩和运行优化，Hy4 flash这款总参数量为224B的模型可以部署到个人设备上——体积最小的版本，权重仅约为原始版本的30%。此外，借助优化后的Strata offload框架，模型也可以在64GB的Mac mini等设备上运行。实测数据显示，在配备48GB显存的设备上，模型生成速度最高可达每秒89个token。",
+        "Sand.ai正式发布新一代视频生成模型MAGI-2 36氪获悉，Sand.ai正式发布新一代视频生成模型MAGI-2，在Artificial Analysis（AA）榜单中登顶全球第一。支持原生30秒的1080P视频及音频生成，定价为每秒0.5元。Sand.ai宣布，将尽快开放MAGI-2模型权重。",
+        "大公司/大事件 宁德时代总市值跌破1万亿，跌超8%创19个月新低 半年时间，宁德时代从2.1万亿市值的历史高点，跌到了万亿关口之下。11月25日，宁德时代A股全天震荡下行，午后跌幅持续扩大。截至收盘报208.42元，单日跌幅8.33%，对应总市值9644亿元，跌破1万亿元整数关口，创下19个月以来新低。同日创业板指收跌超3%，锂电池、半导体等成长赛道集体领跌，全市场超4900只个股收跌。（新浪财经） 特朗普：必要时愿意赦免黄仁勋 据央视财经综合多家媒体援引美国《纽约邮报》11月24日报道，美国总统特朗普接受采访时透露，英伟达公司首席执行官黄仁勋下周出席国会听证会后，如果有必要，他愿意对黄仁勋予以赦免。不过，特朗普认为，赦免始终是一个选项，但没有必要。特朗普表示，黄仁勋在国会作证时，无需援引美国宪法第五修正案赋予的权利来避免自证其罪。当天，特朗普接受采访时还指出，他对美国政府持有英伟达公司股权持开放态度，并表示英伟达公司的成功对于美国维持人工智能领域领先地位至关重要。（财联社） Anthropic上市次日，创始人兄妹套现5.6亿美元 根据监管文件，AI企业Anthropic上市次日，CEO达里奥·阿莫代伊、总裁丹妮拉·阿莫代伊兄妹，均以83美元IPO发行价各出售2.804亿美元股票，合计套现5.6亿美元，该笔交易已于招股书中提前披露。减持完成后，达里奥·阿莫代伊直接及信托合计持股对应市值约195亿美元。该股上市第四天破发，周二收跌6.54%报81.91美元，盘中市值一度跌破1万亿美元。本次IPO承销商行使超额配售权后募资935亿美元，创下IPO募资纪录，叠加七大科技巨头同步私募，合计再融资260亿美元。分析称，创始人减持并非股价破发主因，科技板块回调、市场重估AI估值才是主要推手；同时创始团队还受锁定期协议约束，剩余大部分股份存在出售限制。（财联社） 星巴克据悉正与银行洽谈出售其日本业务事宜 据知情人士透露，星巴克已聘请顾问，为可能以数十亿美元的价格出售其日本业务做准备。这家美国咖啡连锁店正在与包括花旗和摩根士丹利在内的多家银行合作。知情人士称，该公司已开始试探一些战略和财务投资者的兴趣。正式的流程最早可能在今年启动。星巴克在日本拥有约2000家咖啡店，是该公司最大的市场之一。知情人士称，有关该业务的讨论仍在进行中，最终可能不会达成出售协议。星巴克发言人表示，公司会持续评估最适合顾客并为股东创造价值的组织架构。该发言人还表示，星巴克在日本拥有强劲的业务，已在日本经营超过30年。（新浪财经） 现货黄金跌破3500美元关口 11月25日，现货黄金持续下挫，盘中跌破3500美元/盎司关口，日内跌1.7%，创近15个月新低。与此同时，现货白银同步下挫，跌超2%，报40.07美元/盎司。国际油价下跌，布油、美油均跌近0.5%。消息面上，高盛、摩根大通等机构近期相继调整黄金价格预期。在最新研报中，高盛将2027年底黄金价格目标下调至4650美元/盎司。高盛策略师团队认为，持续加息将成为未来一段时间黄金市场面临的主要阻力。这已是高盛本月内第二次下调黄金价格预期。（中新经纬） 美股三大指数收盘涨跌不一，大型科技股跌多涨少 36氪获悉，11月25日收盘，美股三大指数收盘涨跌不一，纳指跌0.62%，标普500跌0.25%，道指涨0.33%；大型科技股跌多涨少，英伟达跌近4%，亚马逊跌超3%，谷歌跌超2%，微软、特斯拉跌超1%，元涨超3%，苹果小幅上涨；热门中概股多数上涨，理想汽车涨超11%，蔚来涨超4%，网易、爱奇艺涨超3%，哔哩哔哩、京东涨超2%，阿里巴巴涨超1%，拼多多小幅上涨，小鹏集团、百度小幅下跌。"
+      ]
+    },
+    {
+      "id": "auto-43f8383fb5",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "category": "model",
+      "date": "2026-11-26",
+      "time": "06:44",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "body": [
+        "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating."
+      ]
+    },
+    {
+      "id": "auto-58b65c7261",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "category": "model",
+      "date": "2026-11-26",
+      "time": "05:51",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds fil…",
+      "body": [
+        "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users.",
+        "The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]"
+      ]
+    },
+    {
+      "id": "auto-8b455206df",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "category": "model",
+      "date": "2026-11-26",
+      "time": "04:03",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experien…",
+      "body": [
+        "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences."
+      ]
+    },
+    {
+      "id": "auto-e445eb1bff",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "category": "model",
+      "date": "2026-11-26",
+      "time": "03:54",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Most codes of conduct serve as a reflection of corporate culture.",
+      "body": [
+        "Most codes of conduct serve as a reflection of corporate culture.",
+        "In Nvidia's case, that could have consequences."
+      ]
+    },
+    {
+      "id": "auto-fb371b6b19",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "category": "model",
+      "date": "2026-11-26",
+      "time": "03:44",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering huma…",
+      "body": [
+        "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development."
+      ]
+    },
     {
       "id": "auto-e9f8ce2fe8",
       "title": "英伟达B300、GB300订单交期大幅拉长，或排挤消费性显卡供货",
@@ -5182,241 +5397,6 @@
       "body": [
         "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes.",
         "The announcement comes as opposition to […]"
-      ]
-    },
-    {
-      "id": "auto-f282ddf4dd",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "00:30",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before…",
-      "body": [
-        "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
-      ]
-    },
-    {
-      "id": "auto-d0324cea77",
-      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "00:23",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen i…",
-      "body": [
-        "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\""
-      ]
-    },
-    {
-      "id": "anthropic-s1-20261026",
-      "title": "Anthropic 递表：上半年营收 162.9 亿美元，冲刺史上最大 IPO",
-      "category": "industry",
-      "date": "2026-11-02",
-      "time": "23:05",
-      "source": "上海证券报 / 北京日报",
-      "url": "https://www.cnstock.com/commonDetail/816272",
-      "featured": true,
-      "tags": [
-        "Anthropic",
-        "IPO",
-        "算力开支"
-      ],
-      "summary": "Anthropic 提交 S-1，代码 ANT，上半年营收 162.86 亿美元、同比增约 13 倍，Q2 经营利润首次转正，目标 11 月中旬挂牌。",
-      "body": [
-        "当地时间 10 月 26 日，Anthropic 向美国证券交易委员会公开提交 S-1 招股书，拟以股票代码“ANT”在纳斯达克上市。据《华尔街日报》，公司目标在 11 月 16 日当周挂牌，具体时间仍可能调整。",
-        "财务数据是核心看点：2026 年上半年营收 162.86 亿美元，同比增长约 1300%；第二季度 GAAP 经营利润 9.74 亿美元、Non-GAAP 经营利润 22.35 亿美元，为披露期内首次单季经营利润转正。第三季度单季营收进一步升至 168 亿美元。",
-        "净亏损 807.48 亿美元看似惊人，但其中约 724 亿美元来自可转换票据等金融工具的公允价值变动，属非现金会计费用，并不等于同期现金消耗。",
-        "另一面是算力账单：招股书披露的长期算力义务至少 6570 亿美元，8 份长期合同期限最长至 2045 年；上半年算力与基础设施支出约 89.5 亿美元，已超 2025 年全年 73 亿美元的水平。",
-        "估值预期已从最初约 2 万亿美元下调至约 1.5 万亿。作为美股首家聚焦大模型研发的上市公司，它的定价将成为检验 AI 投资信心的压力测试。"
-      ]
-    },
-    {
-      "id": "auto-fcdd9e81af",
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "category": "industry",
-      "date": "2026-11-02",
-      "time": "23:00",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
-      "body": [
-        "Two startups tackling the data center water problem are joining forces in a $16 million deal."
-      ]
-    },
-    {
-      "id": "auto-fdfdd9fe03",
-      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
-      "category": "model",
-      "date": "2026-11-02",
-      "time": "21:57",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
-      "body": [
-        "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
-      ]
-    },
-    {
-      "id": "cac-algorithm-filing-19-20261102",
-      "title": "网信办公布第十九批深度合成算法备案",
-      "category": "policy",
-      "date": "2026-11-02",
-      "time": "20:29",
-      "source": "国家互联网信息办公室 / 澎湃新闻",
-      "url": "https://www.thepaper.cn/newsDetail_forward_34389300",
-      "tags": [
-        "网信办",
-        "算法备案",
-        "合规"
-      ],
-      "summary": "国家网信办公布第十九批境内深度合成服务算法备案清单，未履行备案的提供者与技术支持者被要求尽快申请。",
-      "body": [
-        "国家互联网信息办公室公布第十九批境内深度合成服务算法备案信息，完整清单（2026 年 10 月）可通过互联网信息服务算法备案系统查询。",
-        "依据《互联网信息服务深度合成管理规定》第十九条，具有舆论属性或社会动员能力的深度合成服务提供者，应按《算法推荐管理规定》履行备案及变更、注销手续；技术支持者参照执行。",
-        "备案正在成为大模型进入主航道的“通行证”。本期清单里不乏垂直行业模型，覆盖社会治理、地质、固废分拣等场景——例如面向垃圾分拣的“云联固废大模型”，官方称分选精度达 99%。",
-        "对开发者而言，备案不是一次性动作：模型用途、服务对象发生变化时需及时变更，否则合规链条会断在“已备案”这三个字上。"
-      ]
-    },
-    {
-      "id": "qwen-apple-intelligence-20261031",
-      "title": "千问进苹果：国行 iPhone 的系统级 AI 入口定了",
-      "category": "industry",
-      "date": "2026-11-02",
-      "time": "16:33",
-      "source": "央广网 / 新华网",
-      "url": "https://www.cnr.cn/tech/techph/20261031/t20261031_527858383.shtml",
-      "tags": [
-        "阿里",
-        "苹果",
-        "生态入口"
-      ],
-      "summary": "阿里与苹果合作将千问集成至 Apple 智能，11 月 4 日开发者 Beta 测试，12 月随 iOS 27.3 上线，Siri、写作、视觉智能均可调用。",
-      "body": [
-        "10 月 31 日，阿里巴巴宣布与 Apple 达成合作，将千问集成至 Apple 智能。中国用户可在 Siri、写作工具与视觉智能中直接调用千问的文本与图像理解、内容生成能力。",
-        "时间表明确：11 月 4 日随最新 iOS 开发者 Beta 开放测试，12 月随 iOS 27.3 正式版向中国用户推送。首批适配 iPhone 15 Pro 系列、iPhone 16 系列、iPhone Air 以及折叠屏 iPhone Duo，要求设备与 Apple 账号地区均设置为中国；iPad、Mac 需待后续监管审批。",
-        "功能落点有三处：Siri 可调用千问知识库回答问题，也能针对用户选定的照片与文档提问；“千问创作”进入系统写作工具，支持生成内容与图像；视觉智能新增“询问千问”，通过相机控制、操作按钮或控制中心启用。",
-        "隐私与合规安排是开通前提：功能默认关闭、由用户自主选择，任何问题、文档、图片发送给千问前都要先征得同意，阿里承诺不将提问与生成内容用于模型训练。今年 7 月，苹果技术开发（上海）的“Apple 智能”已完成手机端侧生成式 AI 服务备案。",
-        "行业意义在于“入口”：这是国产大模型首次以系统级 AI 底座的身份进入全球头部硬件生态，竞争维度从参数对标转向生态卡位。"
-      ]
-    },
-    {
-      "id": "gemini-4-carbon-20261029",
-      "title": "Gemini 4 Carbon 登顶智能指数，但暂时用不上",
-      "category": "model",
-      "date": "2026-11-02",
-      "time": "09:10",
-      "source": "智东西 / 第一财经",
-      "url": "https://www.163.com/dy/article/LACSOT530511D2LM.html",
-      "featured": true,
-      "tags": [
-        "谷歌",
-        "基准第一",
-        "智能体",
-        "网络安全"
-      ],
-      "summary": "Gemini 4 Carbon 以 59 分登顶 Artificial Analysis 智能指数，主打长程任务与网络安全，首批仅向安全防御人员开放，公众暂无时间表。",
-      "body": [
-        "10 月 29 日，谷歌发布旗舰模型 Gemini 4 Carbon。在 Artificial Analysis Intelligence Index v5.0 上，Carbon（high）以 59 分排名第一，超过 Claude Opus 5.5 的 58 分与 GPT-6 Astra 的 57 分。",
-        "它的定位不是“单次回答更强”，而是能连续运行数天的智能体工作流：遇到死胡同会自行换方案，目标是把多步骤工程任务做完。编程侧 SWE-sweep、Terminal-Bench 4.0 排名第一，WebDev Arena 的 Elo 提升 89 分至 1769（第四）。",
-        "网络安全是本次升级重点：SEC-bench Pro 漏洞发现 88.2%、ExploitGym 漏洞利用验证 54.8%、CWE-bench 根因修复 71%。谷歌称生成安全代码的成功率是上代 Argon 的两倍以上，Chrome 团队测试中高质量补丁表现比其他实验室的前沿模型好 10 倍以上。",
-        "价格延续 Argon 首发优惠：每百万 token 输入 2 美元、输出 10 美元，优惠结束后恢复 4 / 20 美元，缓存输入减免 95%。上下文窗口 1M，支持文本、图像、视频与语音输入。",
-        "争议在开放节奏：Carbon 先提供给部分网络安全防御人员，再通过 Fairwind 计划扩大至可信合作伙伴，普通开发者与消费者的开放时间未定。发布会当天 Alphabet 财报显示云业务收入同比增长 103%，但自由现金流转负 90.65 亿美元，盘后股价跌近 10%。"
-      ]
-    },
-    {
-      "id": "auto-b99d43a436",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "category": "industry",
-      "date": "2026-11-02",
-      "time": "05:55",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
-      "body": [
-        "Data centers are deeply unpopular.",
-        "But what if we called them something else?"
-      ]
-    },
-    {
-      "id": "auto-b0b0207f4c",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "category": "model",
-      "date": "2026-11-02",
-      "time": "04:57",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "body": [
-        "On Equity, we discuss why tech CEO statements can seem so tone deaf."
-      ]
-    },
-    {
-      "id": "gpt61-terra-20261101",
-      "title": "OpenAI 上线 GPT-6.1 Terra：把“电脑操作”打到平价",
-      "category": "model",
-      "date": "2026-11-01",
-      "time": "23:05",
-      "source": "霞光 AI 实验室（周报转述）",
-      "url": "https://www.163.com/dy/article/LAP0UVSA0556L4CJ.html",
-      "tags": [
-        "OpenAI",
-        "定价",
-        "电脑操作"
-      ],
-      "summary": "GPT-6.1 Terra 输入 1 美元、输出 5 美元（每百万 token），约为 Sol 的一半、Astra 的十分之一，官方称完成任务速度快三倍以上。",
-      "body": [
-        "据霞光 AI 实验室周报，OpenAI 发布新模型 GPT-6.1 Terra，面向视觉推理、精准电脑操作与自然写作。",
-        "定价是最大的信息量：每百万 token 输入 1 美元、输出 5 美元，约为 GPT-6.1 Sol 的一半、GPT-6 Astra 的十分之一；官方称完成同类任务的速度比此前版本快三倍以上。",
-        "把“操作电脑”这一智能体核心能力拉进平价区间，被普遍解读为模型层主动为应用放量让路——当能力趋同，价格与渠道成为胜负手。",
-        "需要注意的是，该消息目前主要来自行业周报转述，具体开放范围与限速策略仍以 OpenAI 官方文档为准。"
-      ]
-    },
-    {
-      "id": "openai-funding-cut-20261031",
-      "title": "OpenAI 融资“打折”：300 亿变 200 亿美元",
-      "category": "industry",
-      "date": "2026-11-01",
-      "time": "20:48",
-      "source": "每日经济新闻 / 金融时报",
-      "url": "https://www.163.com/dy/article/LAM6QKA90512B07B.html",
-      "tags": [
-        "OpenAI",
-        "融资",
-        "估值"
-      ],
-      "summary": "OpenAI 将本轮融资目标从 300 亿美元下调至约 200 亿，估值由 1.4 万亿降至 1.25 万亿美元，部分投资人削减认购额度。",
-      "body": [
-        "据英国金融时报等多家媒体报道，OpenAI 把本轮融资目标从 300 亿美元下调至约 200 亿美元，目标估值从 1.4 万亿美元降至 1.25 万亿美元，估值缩水约 1500 亿美元、降幅 10.7%，融资规模直接砍掉三分之一。",
-        "交割节奏同样微妙：公司为投资者设定的出资承诺截止日已过，部分投资人削减认购额度，首轮实际到位资金预计不足 200 亿美元。",
-        "对照时间线更清楚：今年 3 月 OpenAI 刚以 8520 亿美元投后估值完成 1220 亿美元资本承诺；过去 15 个月签下名义总额超 1.4 万亿美元的算力与数据中心长期协议，约为其当前年化收入的 35 倍。",
-        "背景是科技股连续回调与市场对 AI 资本开支的质疑，同期 Anthropic 启动 IPO，两家争夺的是同一批机构资金。“不是融不到钱，而是大客户第一次说：可以投，但价格得再谈。”"
       ]
     }
   ]
