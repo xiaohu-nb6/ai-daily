@@ -1,8 +1,133 @@
 /* AI 前沿日报 · 数据文件（由 scripts/refresh_news.py 生成，可手工编辑） */
 window.AI_DAILY_DATA = {
-  "updatedAt": "2026-11-26T09:51:29+08:00",
-  "edition": "2026-11-26",
+  "updatedAt": "2026-11-27T09:53:02+08:00",
+  "edition": "2026-11-27",
   "articles": [
+    {
+      "id": "auto-7d9c7acd8e",
+      "title": "AI制药：科技巨头集体下注，研发从“工具外挂”奔赴临床大考丨盘点2026",
+      "category": "model",
+      "date": "2026-11-27",
+      "time": "09:08",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8219609.html",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "算力"
+      ],
+      "summary": "这是一场缓慢而务实的范式迁移，算力、模型、数据、实验能力、临床证据，缺一不可。",
+      "body": [
+        "这是一场缓慢而务实的范式迁移，算力、模型、数据、实验能力、临床证据，缺一不可。"
+      ]
+    },
+    {
+      "id": "auto-ebb50cef40",
+      "title": "Edge AI Daily 早报（11月27日）",
+      "category": "model",
+      "date": "2026-11-27",
+      "time": "09:00",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8219678.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "OpenAI宣称将方阵矩阵乘法渐近指数ω精确证明为9/4，谷歌以Cogentic生成6篇数学预印本，OpenAI与Anthropic同日发布VP≠VNP论文及Lean形式化材料",
+      "body": [
+        "OpenAI宣称将方阵矩阵乘法渐近指数ω精确证明为9/4，谷歌以Cogentic生成6篇数学预印本，OpenAI与Anthropic同日发布VP≠VNP论文及Lean形式化材料，AI科研正逼近机器可验证边界。OpenAI测试面向企业客户的私有推理，零数据留存与运行时保护成竞争焦点。"
+      ]
+    },
+    {
+      "id": "auto-e12379ec50",
+      "title": "【钛晨报】部署7方面25项重点任务，《服务贸易发展“十五五”规划》印发；英伟达据悉暂停向四个东南亚国家出货服务器；四大商业银行已与上市公司签订股票回购增持贷款合同超6000亿元",
+      "category": "industry",
+      "date": "2026-11-27",
+      "time": "07:20",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8219586.html",
+      "featured": false,
+      "tags": [
+        "政策",
+        "融资"
+      ],
+      "summary": "爱奇艺触发退市警告，回应：暂不停牌，180日内整改；美团、淘宝闪购官宣：全面取消超时扣款处罚；祝丽丹起诉娃哈哈商业股份有限公司案件未开庭，法院工作人员称“已撤诉”；",
+      "body": [
+        "爱奇艺触发退市警告，回应：暂不停牌，180日内整改；美团、淘宝闪购官宣：全面取消超时扣款处罚；祝丽丹起诉娃哈哈商业股份有限公司案件未开庭，法院工作人员称“已撤诉”；SpaceX官宣儿童赠股计划，马斯克个人捐赠等额匹配；三部委：积极推进5G-A网络规模覆盖，适时开展6G网络建设；五部门部署推进技工教育高质量特色发展，将建设100个优质专业；国家数据局：人工智能企业不得侵害他人隐私、商业秘密、著作权等合法权益；有饮料可以不标生产日期？市场监管总局回应；中国央行1000亿元人民币2个月国库现金定期存款定于12月1日招投标；中上协：以10月收盘价计算，上市公司境内股份总市值100万亿元；中信证券：11月30日起两融保证金比例降至80%；香港联交所对中国恒大集团、恒大物业集团有限公司及七名董事采取纪律行动；国家发改委：自11月26日24时起，国内汽、柴油（标准品）价格每吨分别下调440元、425元"
+      ]
+    },
+    {
+      "id": "auto-5e7b1c60b8",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "category": "industry",
+      "date": "2026-11-27",
+      "time": "04:03",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand a…",
+      "body": [
+        "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S.",
+        "tightens its push to keep AI chips out of China."
+      ]
+    },
+    {
+      "id": "auto-44755714ab",
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "category": "model",
+      "date": "2026-11-26",
+      "time": "20:29",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the f…",
+      "body": [
+        "Jensen Huang is partying it up in Ibiza.",
+        "In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket.",
+        "Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]"
+      ]
+    },
+    {
+      "id": "auto-bdec40bcd7",
+      "title": "Anthropic上市：从Uber的预算看Claude怎么赚钱",
+      "category": "industry",
+      "date": "2026-11-26",
+      "time": "18:34",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8218636.html",
+      "featured": false,
+      "tags": [
+        "融资"
+      ],
+      "summary": "Anthropic 在纳斯达克上市。今年前三季度，它近八成收入来自按使用量计费的业务。",
+      "body": [
+        "Anthropic 在纳斯达克上市。今年前三季度，它近八成收入来自按使用量计费的业务。"
+      ]
+    },
+    {
+      "id": "auto-a241ace8ec",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "category": "model",
+      "date": "2026-11-26",
+      "time": "17:54",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user d…",
+      "body": [
+        "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings.",
+        "In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S."
+      ]
+    },
     {
       "id": "auto-3868e30637",
       "title": "中信建投：AI科研取得突破，办公Agent需求增长",
@@ -216,6 +341,97 @@ window.AI_DAILY_DATA = {
       "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering huma…",
       "body": [
         "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development."
+      ]
+    },
+    {
+      "id": "auto-7f4ff6f338",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "category": "policy",
+      "date": "2026-11-26",
+      "time": "02:11",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals…",
+      "body": [
+        "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development."
+      ]
+    },
+    {
+      "id": "auto-07fb5d0c6f",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "category": "policy",
+      "date": "2026-11-26",
+      "time": "01:35",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 millio…",
+      "body": [
+        "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S.",
+        "accounts, including 2.1 million registered to minors, the state AGs said."
+      ]
+    },
+    {
+      "id": "auto-a948d6806d",
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "category": "model",
+      "date": "2026-11-26",
+      "time": "00:00",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December…",
+      "body": [
+        "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release.",
+        "The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations.",
+        "Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you […]"
+      ]
+    },
+    {
+      "id": "auto-bdd520a632",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "category": "industry",
+      "date": "2026-11-25",
+      "time": "23:41",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and tha…",
+      "body": [
+        "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt.",
+        "The message to developers is that land, power, and a finished building matter more than a pitch deck.",
+        "⁠Anita Verma-Lallian⁠ has been selling exactly that."
+      ]
+    },
+    {
+      "id": "auto-7c9015661d",
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "category": "model",
+      "date": "2026-11-25",
+      "time": "22:12",
+      "source": "The Verge AI",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "featured": false,
+      "tags": [
+        "智能体"
+      ],
+      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according…",
+      "body": [
+        "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune.",
+        "The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue."
       ]
     },
     {
@@ -5168,236 +5384,6 @@ window.AI_DAILY_DATA = {
         "一场快闪、一次联名、新的概念，也许能为一家消费品牌带来几个月的新客流，但新鲜感过去后，品牌还如何留住用户？",
         "这是过去几年，从消费品牌到商业地产和街区运营者的共同体感，也是上个月底在云创浙理青年国度，由宁波市鄞州区发改局与36氪共同主办的“AiPartner 带着 Ai 上前线——宁波咖啡生活周场景创新交流会”上，被主理人、投资人和企业家们反复讨论的话题。",
         "以鄞州为例，当地不缺丰富的制造业生态与消费场景，也不缺年轻人。当场景、设备、人才三个要素都落在同一个地理半径，可以催生出怎样的消费场景创新“新物种”？"
-      ]
-    },
-    {
-      "id": "longcat-25-20261102",
-      "title": "美团 LongCat-2.5：1.6 万亿参数，全程国产算力跑出来",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "12:08",
-      "source": "环球网 / 中关村在线",
-      "url": "https://www.163.com/dy/article/LANVLBJH0514R9OJ.html",
-      "featured": true,
-      "tags": [
-        "国产算力",
-        "多模态",
-        "智能体"
-      ],
-      "summary": "美团发布 1.6 万亿参数原生多模态模型 LongCat-2.5，训练全程用国产算力，多项智能体基准登顶，部分指标超过 Claude Opus 5。",
-      "body": [
-        "11 月 2 日，美团发布新一代大模型 LongCat-2.5。总参数 1.6 万亿，单次推理激活约 480 亿，训练全程依托国产算力完成，是继 6 月 LongCat-2.0 之后“国芯国模”路线的再进一步。",
-        "能力上重点补强原生视觉理解与智能体编程：视觉信号被编码为多层级离散 token，与文本进入统一 token 空间；训练阶段采用最长 100 万 token 的序列做长上下文建模，累计数万亿 token，并用大规模长程强化学习提升端到端工程能力。",
-        "评测方面，官方数据显示 AutomationBench 得 51.8 分（Claude-Opus-5 为 50.3），BrowseComp 91.9 分位列第一，3DCodeBench 55.4 分；综合成绩介于 Claude-Opus-4.8 与 Claude-Opus-5 之间，纯代码编写与终端指令执行仍存小幅差距。",
-        "工程细节上，团队与国产算力厂商协同优化显存调度、跨卡通信与超节点任务分工，长上下文监督微调的单卡吞吐较 DDP 基线提升 86%。开发者可通过同步上线的 API 调用，普通用户可在 longcat.ai 体验。",
-        "美团对它的定位仍是“支持主业”：重点落在商业分析与软件开发，为本地生活商家提供 AI 帮手，而不是做“Token 工厂”。"
-      ]
-    },
-    {
-      "id": "ndrc-ai-governance-20261103",
-      "title": "发改委定调“十五五”AI 治理：立法、沙盒、就业监测",
-      "category": "policy",
-      "date": "2026-11-03",
-      "time": "11:59",
-      "source": "南方都市报 / 中国新闻网",
-      "url": "https://www.163.com/dy/article/LAQDBUR005129QAF.html",
-      "featured": true,
-      "tags": [
-        "发改委",
-        "立法",
-        "监管沙盒",
-        "就业"
-      ],
-      "summary": "发改委提出四方面举措：推进人工智能基础性综合性立法、建设分领域监管沙盒、明确多元主体责任，并监测 AI 对就业结构的冲击。",
-      "body": [
-        "11 月 3 日，国家发展改革委举行“奋进十五五”系列首场新闻发布会。创新和高技术发展司副司长王若蒙回应称，“十五五”时期将统筹发展与安全，把安全贯穿人工智能研发、应用、治理各环节，重点抓四方面工作。",
-        "一是健全治理规则体系。系统总结现有治理经验，加快推进人工智能基础性、综合性立法，构建法律法规体系的“四梁八柱”；同时完善数据、算力、算法等共性要素以及重点应用场景立法，建立覆盖全生命周期的安全标准与伦理准则，并对制度实施情况开展周期性评估、动态调整。",
-        "二是优化监管环境。合理设置监管政策过渡期，给出透明可预期的监管要求与执行标准；面向不同行业开展应用合规指导，完善评估、咨询、认证等合规服务；支持建设分领域“监管沙盒”，同步健全申请、测试、使用、退出机制，预置风险缓冲方案。",
-        "三是明确多元主体协同治理责任：政府部门加强统筹、推动监管结果互认，行业组织形成自律公约，企业及时披露安全风险、主动上报安全事件与漏洞。",
-        "四是回应社会影响：密切监测 AI 对就业结构的冲击，推动模型训练师、数据标注员等新职业纳入国家职业分类体系，强化社保衔接；对算法歧视、深度伪造、隐私泄露增强溯源追踪能力，并规范人机边界、防范情感依赖。"
-      ]
-    },
-    {
-      "id": "auto-b2ea45b15c",
-      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "11:30",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-      "body": [
-        "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
-      ]
-    },
-    {
-      "id": "auto-10d658f75f",
-      "title": "36氪首发丨交大博士融合世界模型和六臂机器人，再获数亿融资，合作多家500强客户",
-      "category": "industry",
-      "date": "2026-11-03",
-      "time": "10:06",
-      "source": "36氪",
-      "url": "https://36kr.com/p/4053394503603076?f=rss",
-      "featured": false,
-      "tags": [
-        "大模型",
-        "智能体",
-        "多模态"
-      ],
-      "summary": "图源/企业 本文约 3000 字，建议阅读 7 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，全球工业具身智能机器人企业——上海飒智智能科技有限公司（下称“飒智智能”）近期已完成数亿元Pre-B轮融资。",
-      "body": [
-        "图源/企业 本文约 3000 字，建议阅读 7 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，全球工业具身智能机器人企业——上海飒智智能科技有限公司（下称“飒智智能”）近期已完成数亿元Pre-B轮融资。投资方包括建投投资有限责任公司、南通投管和云启资本三家机构。本轮资金将主要用于大模型研发、多臂机器人本体迭代、产线扩建以及全球市场的深度拓展。",
-        "飒智智能成立于2017年，核心团队兼具近20年机器人研发经验与头部人工智能算法基因。创始人兼CEO张建政为上海交通大学机械工程专业（智能机器人方向）工学博士，曾任职于新时达与发那科。",
-        "在工业制造向柔性化、复杂化演进的当下，传统工业机器人受限于固定作业与单一任务，而多数通用具身机器人又难以满足工业级的高精度与确定性要求。飒智智能切入的正是这复杂工业场景空白——如精密装配、灵巧包装、长序测试等。"
-      ]
-    },
-    {
-      "id": "auto-03e2e4cc51",
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-      "category": "industry",
-      "date": "2026-11-03",
-      "time": "09:49",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Mond…",
-      "body": [
-        "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
-      ]
-    },
-    {
-      "id": "auto-6fcccb9cd2",
-      "title": "36氪首发丨上海交大副教授做光计算芯片，成立半年获云启、原子等连投5轮，已送流片",
-      "category": "industry",
-      "date": "2026-11-03",
-      "time": "09:09",
-      "source": "36氪",
-      "url": "https://36kr.com/p/4053338933105795?f=rss",
-      "featured": false,
-      "tags": [
-        "大模型",
-        "智能体",
-        "算力"
-      ],
-      "summary": "图源/企业 本文约 3300 字，建议阅读 8 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，光计算芯片公司智子光垣已完成数亿元种子轮融资。",
-      "body": [
-        "图源/企业 本文约 3300 字，建议阅读 8 分钟 作者丨欧雪 编辑丨袁斯来 硬氪获悉，光计算芯片公司智子光垣已完成数亿元种子轮融资。公司成立后已连续完成5轮种子轮次融资，投资方包括海桐国际创新中心、云启资本、国泰海通、险峰长青、原子创投、同鑫资本和上海交通大学AI未来基金。资金将主要用于核心芯片研发与流片迭代、高端人才引进与团队建设，以及应用场景拓展与生态合作。",
-        "智子光垣于2026年5月成立，聚焦可重构全光计算架构与光子处理器研发，利用光的并行计算特性直接参与AI运算，绕开传统电子芯片在制程微缩、功耗和散热上的瓶颈，推动光计算从专用加速走向更具通用性的计算平台。",
-        "目前，智子光垣已组建近50人的研发团队，核心成员长期深耕光计算与芯片设计领域，累计完成数十款光芯片的设计、流片及验证，并发表了近20篇Nature/Science系列论文。创始人程远为上海交大人工智能学院副教授，长期从事光子芯片与边缘智能研究，曾任辛米尔科技联合创始人/CTO，主导全栈产品体系搭建。"
-      ]
-    },
-    {
-      "id": "auto-f16256b17f",
-      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "08:35",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "featured": false,
-      "tags": [
-        "智能体"
-      ],
-      "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely s…",
-      "body": [
-        "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents.",
-        "On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion."
-      ]
-    },
-    {
-      "id": "auto-74809303ae",
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "category": "policy",
-      "date": "2026-11-03",
-      "time": "07:20",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "The New York Times and a group of other publications have filed lawsuits against the company that m…",
-      "body": [
-        "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters.",
-        "According to a complaint filed by the New York Daily News, the Chicago Tribune, and […]"
-      ]
-    },
-    {
-      "id": "auto-560372c941",
-      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "07:13",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "The one-year-old startup is now valued at $300 million.",
-      "body": [
-        "The one-year-old startup is now valued at $300 million."
-      ]
-    },
-    {
-      "id": "auto-b628aad82e",
-      "title": "Anthropic clamps down on Claude’s AI video game clones",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "06:57",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-crea…",
-      "body": [
-        "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware.",
-        "Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to […]"
-      ]
-    },
-    {
-      "id": "auto-577e89226c",
-      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "06:14",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleratio…",
-      "body": [
-        "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities.",
-        "To the AI doomers, RSI represents the cataclysm from which there is no return."
-      ]
-    },
-    {
-      "id": "auto-6426084df5",
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "category": "industry",
-      "date": "2026-11-03",
-      "time": "02:01",
-      "source": "The Verge AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcomin…",
-      "body": [
-        "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes.",
-        "The announcement comes as opposition to […]"
       ]
     }
   ]
