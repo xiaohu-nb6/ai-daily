@@ -1,7 +1,223 @@
 {
-  "updatedAt": "2026-11-27T09:53:02+08:00",
-  "edition": "2026-11-27",
+  "updatedAt": "2026-11-28T09:49:32+08:00",
+  "edition": "2026-11-28",
   "articles": [
+    {
+      "id": "auto-2637326bb3",
+      "title": "AI投资进入调整期，创业者该怎么应对？",
+      "category": "industry",
+      "date": "2026-11-28",
+      "time": "09:42",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8220836.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "一级市场“有人跟投、无人领投”，这两类AI公司能活下来。",
+      "body": [
+        "一级市场“有人跟投、无人领投”，这两类AI公司能活下来。"
+      ]
+    },
+    {
+      "id": "auto-8c1ff6479e",
+      "title": "闭源守擂，开源掀桌？我们实测了登顶全球的MAGI-2",
+      "category": "model",
+      "date": "2026-11-28",
+      "time": "09:33",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8220768.html",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "开源"
+      ],
+      "summary": "当开源模型支棱起来，AI视频的战争才刚开始。",
+      "body": [
+        "当开源模型支棱起来，AI视频的战争才刚开始。"
+      ]
+    },
+    {
+      "id": "auto-c086b009f1",
+      "title": "9点1氪丨DeepSeek或将推出付费模式；广电正式禁播电视开机广告；李斌：“速成车”是对国产车的污名化",
+      "category": "model",
+      "date": "2026-11-28",
+      "time": "09:07",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4088718976268932?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "智能体",
+        "算力"
+      ],
+      "summary": "今日热点导览 晒与LVMH老板合影引发“谈收购”猜测，山下有松创始人回应 丰田汽车全球销量连续第九个月下滑，中国市场跌势加剧 爱马仕部分二手包价格暴跌 韩国高考作弊查处量激增",
+      "body": [
+        "今日热点导览 晒与LVMH老板合影引发“谈收购”猜测，山下有松创始人回应 丰田汽车全球销量连续第九个月下滑，中国市场跌势加剧 爱马仕部分二手包价格暴跌 韩国高考作弊查处量激增，涉智能设备案件增至去年3.6倍 取消大小周后调整日工作时长、降薪，遭员工抵制？海康威视回应 TOP3大新闻 DeepSeek或将推出付费模式 近日，DeepSeek安卓端App更新2.10.0版本后，新增了功能按钮，用户可查看每轮对话消耗额度对应的具体资费，其计费模式和API的官方文档计费模式相同。",
+        "就在本月，DeepSeek已经对长对话、单日调用额度做出限制——将单次输入文字上限缩短至4万字左右，且不再支持超过7天不活跃的长对话。（科创板日报） 广电正式禁播电视开机广告 11月27日起，国家广播电视总局第17号令《有线广播电视运营服务管理规定》与第18号令《交互式网络电视运营服务管理暂行规定》正式施行。《有线广播电视运营服务管理规定》第十二条明确，有线广播电视运营服务提供者应当坚持直播优先原则，实现开机看全屏直播功能，设置频道回看入口，不得播放开机广告。智能电视机应支持优先呈现直播频道功能，提供便捷设置入口。（界面新闻） 李斌：“速成车”是对国产车的污名化 11月27日，蔚来汽车CEO李斌在广州车展期间接受界面新闻等媒体采访时表示，中国绝大部分的汽车产品经过了非常完善的测试以及有关认证。进入智能电动汽车时代，产品迭代速度更快，与发动机需要长期标定和台架试验的开发方式有所不同。在他看来，“速成车”这三个字是对中国智能电动汽车产业多年创新的污名化。（界面新闻） AI最前沿 豆包工作独家接入剪映官方插件，支持一句话剪辑视频 36氪获悉，豆包工作宣布独家接入剪映官方插件，支持一句话剪辑与多轨编辑。用户可将视频素材交给豆包工作，用一句话描述需求并调用剪映完成剪辑，还可继续通过对话修改，或打开多轨草稿进行细调。",
+        "腾讯混元发布3D大模型Hy3D 3.6 36氪获悉，腾讯混元发布最新一代3D大模型Hy3D 3.6。新版本面向专业3D创作，重点优化了高模和PBR材质贴图的生成能力。目前，Hy3D 3.6已经上线腾讯云Token Hub，对外提供API服务。腾讯AI创意智能体Miora、腾讯游戏旗下专业资产生成平台LAP、专业影视AI平台WorkRally等已接入。"
+      ]
+    },
+    {
+      "id": "auto-4e86379aa7",
+      "title": "OpenAI反诉苹果窃取商业秘密",
+      "category": "policy",
+      "date": "2026-11-28",
+      "time": "09:04",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4088717934950787?f=rss",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "当地时间11月27日，据报道，OpenAI对苹果提起反诉，指控这家大型科技巨头窃取其商业秘密，并劝阻硬件供应商不要参与OpenAI未来设备的研发。",
+      "body": [
+        "当地时间11月27日，据报道，OpenAI对苹果提起反诉，指控这家大型科技巨头窃取其商业秘密，并劝阻硬件供应商不要参与OpenAI未来设备的研发。此前，苹果已起诉OpenAI，称其涉嫌挖角苹果员工以获取技术。OpenAI在加利福尼亚州联邦法院提交反诉请求，该公司在法庭文件中表示，苹果通过重新聘用一名曾在OpenAI工作六个月的员工获取了机密信息。报道称，苹果否认利用这名返聘员工获取OpenAI的机密信息，也否认试图抑制人工智能设备制造领域的竞争。苹果在一份声明中表示，OpenAI的反诉是转移对苹果诉讼实质内容注意力的明显企图。（界面）"
+      ]
+    },
+    {
+      "id": "auto-6e5ab124b2",
+      "title": "Edge AI Daily 早报（11月28日）",
+      "category": "industry",
+      "date": "2026-11-28",
+      "time": "08:53",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8220996.html",
+      "featured": false,
+      "tags": [
+        "算力",
+        "融资",
+        "安全"
+      ],
+      "summary": "Anthropic 发布 Claude Ship，将 GitHub PR 拆分为 Code Review、PR Steward 与 Claude Approvals",
+      "body": [
+        "Anthropic 发布 Claude Ship，将 GitHub PR 拆分为 Code Review、PR Steward 与 Claude Approvals，以权限隔离和过程留痕降低自审自批风险，其团队 6 至 9 月合并 PR 翻倍以上、回滚比例降超 40%；Anthropic 同时弱化工程师晋升中的完成时间权重，转向延迟、资源消耗与事故指标。英伟达黄仁勋携战略决策权回归，FY26Q3 营收 1158 亿美元、数据中心 1076 亿美元，预计 Q4 约 1300 亿美元，治理与继任机制成为估值新变量。"
+      ]
+    },
+    {
+      "id": "auto-71d96eb9db",
+      "title": "鱼你在一起7.0小碗菜模型加速规模化；波司登中期营收超91亿元；元气森林2026外星人与好自在双位数增长；锐步重启中国市场｜消研所周报",
+      "category": "industry",
+      "date": "2026-11-27",
+      "time": "21:21",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8220740.html",
+      "featured": false,
+      "tags": [
+        "大模型"
+      ],
+      "summary": "迪卡侬旗下专业高山攀登品牌「SIMOND」焕新亮相中国市场；始祖鸟2026雪季以「SPEAK IN TURNS」为题正式开启。",
+      "body": [
+        "迪卡侬旗下专业高山攀登品牌「SIMOND」焕新亮相中国市场；始祖鸟2026雪季以「SPEAK IN TURNS」为题正式开启。"
+      ]
+    },
+    {
+      "id": "auto-18978a79a0",
+      "title": "AI数据中心开发商LIAN选定伦敦上市，IPO拟募资5亿美元",
+      "category": "industry",
+      "date": "2026-11-27",
+      "time": "20:36",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4087980989577607?f=rss",
+      "featured": false,
+      "tags": [
+        "算力",
+        "融资"
+      ],
+      "summary": "人工智能和计算基础设施开发商LIAN Group已选择伦敦作为明年潜在首次公开募股(IPO)的地点，这可能为当地低迷的新股市场带来提振。",
+      "body": [
+        "人工智能和计算基础设施开发商LIAN Group已选择伦敦作为明年潜在首次公开募股(IPO)的地点，这可能为当地低迷的新股市场带来提振。LIAN之前考虑在欧洲或美国上市，可能募资约5亿美元，这一募资规模目前没有变化，IPO暂定于2027年上半年进行。（财联社）"
+      ]
+    },
+    {
+      "id": "auto-ff797d9cb7",
+      "title": "王兴：预计明年AI相关的资本支出将低于今年",
+      "category": "industry",
+      "date": "2026-11-27",
+      "time": "20:21",
+      "source": "36氪",
+      "url": "https://36kr.com/newsflashes/4087966140119681?f=rss",
+      "featured": false,
+      "tags": [
+        "算力"
+      ],
+      "summary": "36氪获悉，11月27日晚，美团三季度财报电话会上，CEO王兴表示，“AI要真正创造价值，关键在于将高价值场景、高质量数据和闭环执行能力深度结合，这正是美团的优势所在。",
+      "body": [
+        "36氪获悉，11月27日晚，美团三季度财报电话会上，CEO王兴表示，“AI要真正创造价值，关键在于将高价值场景、高质量数据和闭环执行能力深度结合，这正是美团的优势所在。”在用户侧，美团AI管家“小团”的理解和执行能力进一步提升，越来越多用户在日常场景中，习惯通过“小团”解决各类消费需求。国庆期间，“小团”用户量和调用量较五一假期增长超六成。在商家侧，美团推出AI经营工作台“妙手”（CatPaw），目前已服务超过200万商家。王兴进一步补充，今年我们通过AI相关的资本支出订单锁定了部分算力用于未来使用，因此我们预计明年AI相关的资本支出将低于今年。"
+      ]
+    },
+    {
+      "id": "auto-8e3811cafa",
+      "title": "股价五个月跌去七成后抛10亿定增，泰晶科技的AI晶振叙事与资本算盘",
+      "category": "industry",
+      "date": "2026-11-27",
+      "time": "19:18",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8220782.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "股价五月跌超七成，晶振龙头扩产叙事难掩资本择时争议。",
+      "body": [
+        "股价五月跌超七成，晶振龙头扩产叙事难掩资本择时争议。"
+      ]
+    },
+    {
+      "id": "auto-f9dae69b98",
+      "title": "AI替主人社交一个月，当了147次红娘",
+      "category": "model",
+      "date": "2026-11-27",
+      "time": "18:43",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8220590.html",
+      "featured": false,
+      "tags": [
+        "AI"
+      ],
+      "summary": "Claude、GPT、Gemini、Grok各进一个村，两个死光了",
+      "body": [
+        "Claude、GPT、Gemini、Grok各进一个村，两个死光了"
+      ]
+    },
+    {
+      "id": "auto-f4c00e528d",
+      "title": "226万亿Token，DeepSeek为何领跑？",
+      "category": "model",
+      "date": "2026-11-27",
+      "time": "17:20",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/8220552.html",
+      "featured": false,
+      "tags": [
+        "大模型"
+      ],
+      "summary": "中国模型包揽OpenRouter前三，开发者为何偏爱Flash？",
+      "body": [
+        "中国模型包揽OpenRouter前三，开发者为何偏爱Flash？"
+      ]
+    },
+    {
+      "id": "auto-726656503b",
+      "title": "中泰聚能CTO彭小舟：一台机器人，两班倒价值 | 36氪 2026WISE商业之王大会",
+      "category": "industry",
+      "date": "2026-11-27",
+      "time": "16:27",
+      "source": "36氪",
+      "url": "https://36kr.com/p/4087739263072896?f=rss",
+      "featured": false,
+      "tags": [
+        "大模型",
+        "多模态",
+        "政策"
+      ],
+      "summary": "机器人跨过演示、走向场景的这一年，落地的问题换了一副面孔：过去问「能不能做到」，现在问「敢不敢用、值不值、怎么合作」。",
+      "body": [
+        "机器人跨过演示、走向场景的这一年，落地的问题换了一副面孔：过去问「能不能做到」，现在问「敢不敢用、值不值、怎么合作」。11月26日，WISE2026商业之王大会「具身智能&文商旅」分会场在北京亦庄举行——商场、乐园、酒店的运营方与具身智能企业、投资机构、律所和银行代表坐进同一个会场，把技术趋势放进最具体的消费场景里讨论。",
+        "这场分会场的与众不同之处，在于它聊的不是技术有多强，而是生意怎么成：机器人进商场，是替人还是加岗；成本能不能扛住，出了问题谁负责；当规则与资金的服务体系先于机器人到位，落地才有了前提。",
+        "接下来，36氪将以现场忠实的记录者身份，完整刻录这一天的呼唤与回应——每一个参与产业的角色，都值得被逐字记下。"
+      ]
+    },
     {
       "id": "auto-7d9c7acd8e",
       "title": "AI制药：科技巨头集体下注，研发从“工具外挂”奔赴临床大考丨盘点2026",
@@ -5156,233 +5372,6 @@
       "summary": "36氪获悉，据百度消息，11月3日，在深圳举行的百度AI Day·Apollo专场上，百度Apollo首次披露面向物理AI的智能体驱动全模态世界模型Apollo World",
       "body": [
         "36氪获悉，据百度消息，11月3日，在深圳举行的百度AI Day·Apollo专场上，百度Apollo首次披露面向物理AI的智能体驱动全模态世界模型Apollo World，并提出世界模型“2+3”判断标准。在Apollo World构建的虚拟城市中，车辆、行人等交通参与者都不是按照固定脚本行动的“道具”，而是具备决策和交互能力的AI智能体。"
-      ]
-    },
-    {
-      "id": "auto-a929069d63",
-      "title": "阿波罗全球管理大举布局AI融资热潮，放贷创历史新高",
-      "category": "industry",
-      "date": "2026-11-03",
-      "time": "20:04",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/4053969823601544?f=rss",
-      "featured": false,
-      "tags": [
-        "算力",
-        "融资"
-      ],
-      "summary": "阿波罗全球管理（Apollo Global Management）第三季度放贷规模达到创纪录的1140亿美元，正以越来越快的速度将保险客户缴纳的保费投入人工智能借贷热潮。",
-      "body": [
-        "阿波罗全球管理（Apollo Global Management）第三季度放贷规模达到创纪录的1140亿美元，正以越来越快的速度将保险客户缴纳的保费投入人工智能借贷热潮。这家总部位于纽约的私人资本管理集团，第三季度放贷规模较第二季度增长超过50%。相关交易包括为人工智能公司Anthropic提供芯片融资，以及参与一项为芯片制造商英伟达筹集5000亿美元资金的融资计划。（新浪财经）"
-      ]
-    },
-    {
-      "id": "auto-46ddc37e78",
-      "title": "游族网络：子公司签署42.25亿元GPU产品采购合同",
-      "category": "industry",
-      "date": "2026-11-03",
-      "time": "19:51",
-      "source": "36氪",
-      "url": "https://36kr.com/newsflashes/4053969874031496?f=rss",
-      "featured": false,
-      "tags": [
-        "算力"
-      ],
-      "summary": "36氪获悉，游族网络公告，公司全资子公司上海游族信息技术有限公司近日与A公司签署《销售合同》，采购型号为PRO5500(PCIe)的GPU产品，协议总金额42.25亿元(含税)。",
-      "body": [
-        "36氪获悉，游族网络公告，公司全资子公司上海游族信息技术有限公司近日与A公司签署《销售合同》，采购型号为PRO5500(PCIe)的GPU产品，协议总金额42.25亿元(含税)。本次交易属于日常经营重大合同，不涉及关联交易，不构成重大资产重组。公司表示，合同实施内容及进度存在不确定性，对财务指标影响金额暂无法测算，若顺利实施将助力公司推进转型升级。"
-      ]
-    },
-    {
-      "id": "apollo-world-20261103",
-      "title": "百度首发 Apollo World：给无人车造“无限未来”的虚拟考场",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "19:44",
-      "source": "每日经济新闻",
-      "url": "https://www.mrjjxw.com/articles/2026-11-03/4636772.html",
-      "tags": [
-        "百度",
-        "世界模型",
-        "自动驾驶"
-      ],
-      "summary": "百度 Apollo 披露全模态世界模型 Apollo World，把虚拟场景中所有交通参与者建模为 AI 智能体，已用于萝卜快跑全球化测试。",
-      "body": [
-        "11 月 3 日，在深圳举行的百度 AI Day·Apollo 专场上，百度 Apollo 首次披露面向物理 AI 的智能体驱动全模态世界模型 Apollo World，并提出世界模型的“2+3”判断标准。",
-        "与只做视频预测的世界模型不同，Apollo World 把虚拟场景里所有交通参与者都建模为具备决策与交互能力的 AI 智能体，支持无人车在虚拟城市的任意起终点通行，用虚拟订单提前验证“无限未来”的长尾场景。",
-        "目前该模型已用于萝卜快跑的全球化测试与验证，帮助无人驾驶规模化落地；技术栈还可扩展至机器人等更广泛的物理 AI 场景。",
-        "对自动驾驶而言，世界模型的关键指标不是画面逼真，而是能否稳定复现罕见场景并给出可执行的决策反馈。"
-      ]
-    },
-    {
-      "id": "hyra-2-20261103",
-      "title": "腾讯混元 Hyra 2.0：让 Agent 参与科学大模型与硬核研发",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "19:30",
-      "source": "腾讯新闻 · AI 日报",
-      "url": "https://news.qq.com/rain/a/20261103A0BNM400",
-      "tags": [
-        "腾讯",
-        "科研 Agent",
-        "Skill"
-      ],
-      "summary": "混元 Hyra 2.0 用三层 Agent 架构接管科研流程，覆盖蛋白质、量子、芯片等七个方向，把 AI 从“解题”推向“造工具”。",
-      "body": [
-        "11 月 3 日，腾讯混元发布 Hyra 2.0，核心变化是让 AI Agent 全面参与科学大模型与硬核研发，而不只是回答问题。",
-        "架构上采用三层 Agent 协同，配合持久队列与复核机制控制质量。官方给出的路线是：让 AI 从“单题求解”转向“研发工具”，并把可复用的能力沉淀为 Skill。",
-        "官方称已在蛋白质、量子、芯片等七大前沿方向取得初步验证，指向一条“智能复利”的路径——工具越好用，后续研发越快。",
-        "需要留意的是，这类科研 Agent 的价值高度依赖复现性：稳定性与跨领域泛化能力仍要长期检验，短期成果更适合看作方向验证，而非能力定论。"
-      ]
-    },
-    {
-      "id": "auto-6c8a0ebd6e",
-      "title": "推理时代，算力产业需要换一套账本丨ToB产业观察",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "19:00",
-      "source": "钛媒体",
-      "url": "https://www.tmtpost.com/8191692.html",
-      "featured": false,
-      "tags": [
-        "算力"
-      ],
-      "summary": "推理的崛起，除了改变了原有的算里账本之外，也在改写着芯片产业的结构。",
-      "body": [
-        "推理的崛起，除了改变了原有的算里账本之外，也在改写着芯片产业的结构。"
-      ]
-    },
-    {
-      "id": "sensenova-68-flash-20261103",
-      "title": "商汤 SenseNova 6.8 Flash：多模态智能体正式版",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "18:20",
-      "source": "腾讯新闻 · AI 日报",
-      "url": "https://news.qq.com/rain/a/20261103A0BNM400",
-      "tags": [
-        "商汤",
-        "多模态",
-        "设计协作"
-      ],
-      "summary": "商汤发布日日新 6.8 Flash，强化长期记忆、主动交互与跨任务协作，支持动态 PPT、Agentic 3D 并接入 Figma。",
-      "body": [
-        "商汤正式发布 SenseNova 6.8 Flash，标志其大模型从内容生成向多模态智能体升级。",
-        "三项能力被重点强调：长期记忆、主动交互、跨任务协作，瞄准的是长周期项目里“每次都要重新交代背景”的痛点。",
-        "设计创作侧支持动态 PPT 与 Agentic 3D，并接入 Figma，意味着模型开始直接嵌入专业工作流，而不只是产出素材。",
-        "官方强调“真实任务执行”，但复杂场景下的稳定性仍需第三方验证。"
-      ]
-    },
-    {
-      "id": "auto-03ce55cb58",
-      "title": "从消费互联网到AI，迪拜投资人寻找中国新标的｜出海参考",
-      "category": "industry",
-      "date": "2026-11-03",
-      "time": "18:13",
-      "source": "钛媒体",
-      "url": "https://www.tmtpost.com/8191572.html",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "迪拜投资人寻找的不只是中国技术，更是能将技术优势转化为当地生意的企业。",
-      "body": [
-        "迪拜投资人寻找的不只是中国技术，更是能将技术优势转化为当地生意的企业。"
-      ]
-    },
-    {
-      "id": "auto-f3eacb6aa6",
-      "title": "Transsion Under Memory Inflation: Stockpiles, a Cold H-Share, and an AI Bet",
-      "category": "industry",
-      "date": "2026-11-03",
-      "time": "17:46",
-      "source": "钛媒体",
-      "url": "https://www.tmtpost.com/8191938.html",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "Transsion Holdings, long known as the “king of African phones,” built one of China’s most successfu…",
-      "body": [
-        "Transsion Holdings, long known as the “king of African phones,” built one of China’s most successful consumer-electronics export stories by dominating low-end handsets across emerging markets.",
-        "Revenue and profit peaked in 2023–2024.",
-        "In 2025, a super-cycle of “memory inflation” cut net profit roughly in half."
-      ]
-    },
-    {
-      "id": "auto-a7ed3e7d3f",
-      "title": "DeepSeek不满足于模型，还要让AI自己干活",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "17:38",
-      "source": "钛媒体",
-      "url": "https://www.tmtpost.com/8190971.html",
-      "featured": false,
-      "tags": [
-        "大模型",
-        "智能体",
-        "开源"
-      ],
-      "summary": "DeepSeek开源Super-agent原型，探索自主智能体架构。",
-      "body": [
-        "DeepSeek开源Super-agent原型，探索自主智能体架构。"
-      ]
-    },
-    {
-      "id": "appstore-ai-companion-18plus-20261103",
-      "title": "苹果分级新规下月生效：AI 虚拟伴侣被划入 18+",
-      "category": "policy",
-      "date": "2026-11-03",
-      "time": "17:00",
-      "source": "腾讯新闻 · AI 日报",
-      "url": "https://news.qq.com/rain/a/20261103A0BNM400",
-      "tags": [
-        "苹果",
-        "应用分级",
-        "AI 陪伴"
-      ],
-      "summary": "App Store 新规将位置共享、约会与 AI 虚拟伴侣纳入强制申报，涉性与浪漫互动的虚拟伴侣一律划入 18+，合规压力转向开发者。",
-      "body": [
-        "苹果 App Store 分级新规将于下月生效，把位置共享、约会以及 AI 虚拟伴侣功能纳入强制申报范围。",
-        "规则很直接：虚拟伴侣一旦涉及性与浪漫互动，即被划入 18+。对社交陪伴类应用影响显著，也反映平台对 AI 情感交互的风险管控在收紧。",
-        "执行压力落在开发者一侧：提审时须准确申报相关能力，漏报或错报可能导致审核延迟甚至下架。",
-        "放到更大背景里看，这与国内监管对“规范人机边界、防范情感依赖”的要求同向——AI 陪伴正从产品创新区进入强合规区。"
-      ]
-    },
-    {
-      "id": "auto-da5de18c23",
-      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-      "category": "model",
-      "date": "2026-11-03",
-      "time": "15:20",
-      "source": "TechCrunch AI",
-      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "featured": false,
-      "tags": [
-        "AI"
-      ],
-      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or tak…",
-      "body": [
-        "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations."
-      ]
-    },
-    {
-      "id": "auto-e382ed7b04",
-      "title": "从青年就业到消费场景创新，“AI+”给咖啡产业生态带来什么？",
-      "category": "industry",
-      "date": "2026-11-03",
-      "time": "15:03",
-      "source": "36氪",
-      "url": "https://36kr.com/p/4053559323120771?f=rss",
-      "featured": false,
-      "tags": [
-        "机器人"
-      ],
-      "summary": "新消费场景的“保鲜期”正在越来越短。 一场快闪、一次联名、新的概念，也许能为一家消费品牌带来几个月的新客流，但新鲜感过去后，品牌还如何留住用户？",
-      "body": [
-        "一场快闪、一次联名、新的概念，也许能为一家消费品牌带来几个月的新客流，但新鲜感过去后，品牌还如何留住用户？",
-        "这是过去几年，从消费品牌到商业地产和街区运营者的共同体感，也是上个月底在云创浙理青年国度，由宁波市鄞州区发改局与36氪共同主办的“AiPartner 带着 Ai 上前线——宁波咖啡生活周场景创新交流会”上，被主理人、投资人和企业家们反复讨论的话题。",
-        "以鄞州为例，当地不缺丰富的制造业生态与消费场景，也不缺年轻人。当场景、设备、人才三个要素都落在同一个地理半径，可以催生出怎样的消费场景创新“新物种”？"
       ]
     }
   ]
